@@ -1,31 +1,31 @@
 request_id,channel,language,text,responsible_unit
 CR-600000,Web form,Arabic,السلام عليكم، كيف يمكنني كفالة والديّ؟ أرجو المساعدة.,Visa and residency
 CR-600001,Web form,English,"Hello, I want to file a complaint about the long waiting time. This is urgent.",Complaints
-CR-600002,Call centre notes,Arabic,صباح الخير. لا أستطيع تسجيل الدخول إلى البوابة باستخدام الهوية الرقمية. الأمر عاجل.,Technical support
+CR-600002,Call centre notes,Arabic,صباح الخير. لا يمكنني تسجيل الدخول إلى البوابة باستخدام الهوية الرقمية. الأمر عاجل.,Technical support
 CR-600003,Call centre notes,English,Good morning. I need to change the company name on my licence. This is urgent.,Licensing
 CR-600004,Web form,Arabic,صباح الخير. أحتاج إلى تغيير اسم الشركة في الرخصة. أرجو المساعدة.,Licensing
 CR-600005,Web form,Arabic,السلام عليكم، طلب تجديد الإقامة معلق منذ ثلاثة أسابيع. أرجو المساعدة.,Visa and residency
-CR-600006,Call centre notes,Arabic,لا أستطيع تسجيل الدخول إلى البوابة باستخدام الهوية الرقمية. شكراً لكم.,Technical support
+CR-600006,Call centre notes,Arabic,لا يمكنني تسجيل الدخول إلى البوابة باستخدام الهوية الرقمية. شكراً لكم.,Technical support
 CR-600007,Web form,Arabic,ما هي المستندات المطلوبة لإضافة نشاط إلى الرخصة؟ شكراً لكم.,Licensing
 CR-600008,App,English,"Hello, Is a medical test required for a residency renewal? Please help.",Visa and residency
 CR-600009,Web form,Arabic,السلام عليكم، حصلت على معلومات خاطئة عند الكاونتر. شكراً لكم.,Complaints
 CR-600010,Call centre notes,English,"Hello, I paid the fee twice, please refund one payment. Please help.",Payments
-CR-600011,Email,English,"Hello, I cannot log in to the portal with my digital ID. Please help.",Technical support
-CR-600012,App,Arabic,صباح الخير. لا أستطيع تسجيل الدخول إلى البوابة باستخدام الهوية الرقمية. الأمر عاجل.,Technical support
-CR-600013,Web form,English,"Hello, I cannot log in to the portal with my digital ID. Thank you.",Technical support
+CR-600011,Email,English,"Hello, I cannot log in to the portal using UAE PASS. Please help.",Technical support
+CR-600012,App,Arabic,صباح الخير. لا يمكنني تسجيل الدخول إلى البوابة باستخدام الهوية الرقمية. الأمر عاجل.,Technical support
+CR-600013,Web form,English,"Hello, I cannot log in to the portal using UAE PASS. Thank you.",Technical support
 CR-600014,Web form,Arabic,التطبيق يتوقف عند رفع مستند. أرجو المساعدة.,Technical support
 CR-600015,App,Arabic,هل يمكنني تمديد تأشيرة الزيارة لشهر آخر؟ أرجو المساعدة.,Visa and residency
 CR-600016,Web form,English,The app crashes when I upload a document. Thank you.,Technical support
 CR-600017,App,English,I want to file a complaint about the long waiting time. This is urgent.,Complaints
-CR-600018,App,English,"Dear team, I waited two hours and nobody served me. Thank you.",Complaints
-CR-600019,Call centre notes,English,Good morning. How long does it take to issue a new business licence?,Licensing
+CR-600018,App,English,"Dear team, I waited two hours and nobody assisted me. Thank you.",Complaints
+CR-600019,Call centre notes,English,Good morning. How long does it take to issue a new trade licence?,Licensing
 CR-600020,Email,English,"Hello, The form does not let me submit.",Technical support
 CR-600021,Web form,English,"Hello, The form does not let me submit.",Technical support
 CR-600022,Call centre notes,Arabic,مرحباً، طلب تجديد الإقامة معلق منذ ثلاثة أسابيع. الأمر عاجل.,Visa and residency
 CR-600023,Email,Arabic,صباح الخير. حصلت على معلومات خاطئة عند الكاونتر. أرجو المساعدة.,Complaints
 CR-600024,Email,English,"Dear team, I need to change the company name on my licence.",Licensing
 CR-600025,Web form,Arabic,صباح الخير. الموظفون في مركز الخدمة لم يكونوا متعاونين. الأمر عاجل.,Complaints
-CR-600026,App,English,"Dear team, How long does it take to issue a new business licence? This is urgent.",Licensing
+CR-600026,App,English,"Dear team, How long does it take to issue a new trade licence? This is urgent.",Licensing
 CR-600027,Call centre notes,Arabic,مرحباً، هل الفحص الطبي مطلوب لتجديد الإقامة؟,Visa and residency
 CR-600028,App,English,"Hello, I want to renew my trade licence but the system shows an error.",Licensing
 CR-600029,Call centre notes,English,"Dear team, Which documents do I need to add an activity to my licence?",Licensing
@@ -43,9 +43,9 @@ CR-600040,App,English,"Dear team, Why was I charged a late fee? Thank you.",Paym
 CR-600041,Web form,English,"Hello, I want to file a complaint about the long waiting time.",Complaints
 CR-600042,Call centre notes,English,"Dear team, Can I extend my visit visa for another month? Please help.",Visa and residency
 CR-600043,Web form,Arabic,أحتاج إلى تغيير اسم الشركة في الرخصة.,Licensing
-CR-600044,Email,Arabic,مرحباً، النموذج لا يسمح لي بالإرسال. شكراً لكم.,Technical support
+CR-600044,Email,Arabic,مرحباً، الاستمارة لا تسمح لي بالتقديم. شكراً لكم.,Technical support
 CR-600045,App,Arabic,السلام عليكم، دفعت الرسوم مرتين، يرجى استرداد إحدى الدفعتين. أرجو المساعدة.,Payments
-CR-600046,Web form,Arabic,مرحباً، لا أستطيع تسجيل الدخول إلى البوابة باستخدام الهوية الرقمية.,Technical support
+CR-600046,Web form,Arabic,مرحباً، لا يمكنني تسجيل الدخول إلى البوابة باستخدام الهوية الرقمية.,Technical support
 CR-600047,App,English,"Dear team, I paid the fee twice, please refund one payment. This is urgent.",Payments
 CR-600048,Web form,Arabic,مرحباً، هل الفحص الطبي مطلوب لتجديد الإقامة؟ الأمر عاجل.,Visa and residency
 CR-600049,Call centre notes,Arabic,صباح الخير. انتهت صلاحية رخصتي الأسبوع الماضي، هل يمكنني تجديدها عبر الإنترنت؟ أرجو المساعدة.,Licensing
@@ -56,23 +56,23 @@ CR-600053,Call centre notes,Arabic,صباح الخير. الموقع بطيء ج
 CR-600054,App,Arabic,انتظرت ساعتين ولم يخدمني أحد. الأمر عاجل.,Complaints
 CR-600055,Email,English,"Dear team, The website is very slow today. This is urgent.",Technical support
 CR-600056,Web form,Arabic,دفعت الرسوم مرتين، يرجى استرداد إحدى الدفعتين. الأمر عاجل.,Payments
-CR-600057,Web form,Arabic,النموذج لا يسمح لي بالإرسال.,Technical support
+CR-600057,Web form,Arabic,الاستمارة لا تسمح لي بالتقديم.,Technical support
 CR-600058,App,English,Why was I charged a late fee? Please help.,Visa and residency
 CR-600059,Email,Arabic,دفعت الرسوم مرتين، يرجى استرداد إحدى الدفعتين. الأمر عاجل.,Payments
 CR-600060,Web form,Arabic,مرحباً، هل الفحص الطبي مطلوب لتجديد الإقامة؟ أرجو المساعدة.,Visa and residency
 CR-600061,App,English,"Hello, The form does not let me submit.",Technical support
 CR-600062,Email,English,"Dear team, Can I pay the fees in instalments? Thank you.",Payments
 CR-600063,Email,English,"Hello, The app crashes when I upload a document.",Technical support
-CR-600064,App,Arabic,السلام عليكم، لا أستطيع تسجيل الدخول إلى البوابة باستخدام الهوية الرقمية. شكراً لكم.,Visa and residency
-CR-600065,Email,English,Good morning. I cannot log in to the portal with my digital ID. Thank you.,Technical support
+CR-600064,App,Arabic,السلام عليكم، لا يمكنني تسجيل الدخول إلى البوابة باستخدام الهوية الرقمية. شكراً لكم.,Visa and residency
+CR-600065,Email,English,Good morning. I cannot log in to the portal using UAE PASS. Thank you.,Technical support
 CR-600066,App,English,"Dear team, Can I extend my visit visa for another month? This is urgent.",Visa and residency
-CR-600067,Email,English,Good morning. I forgot my password and the reset link does not arrive. Thank you.,Technical support
+CR-600067,Email,English,Good morning. I forgot my password and the reset link is not reaching me. Thank you.,Technical support
 CR-600068,App,Arabic,مرحباً، أحتاج إلى تغيير اسم الشركة في الرخصة. الأمر عاجل.,Licensing
 CR-600069,Email,English,"Hello, I need to change the company name on my licence. Thank you.",Visa and residency
-CR-600070,Web form,Arabic,صباح الخير. لا أستطيع تسجيل الدخول إلى البوابة باستخدام الهوية الرقمية. الأمر عاجل.,Technical support
+CR-600070,Web form,Arabic,صباح الخير. لا يمكنني تسجيل الدخول إلى البوابة باستخدام الهوية الرقمية. الأمر عاجل.,Technical support
 CR-600071,Call centre notes,Arabic,مرحباً، نسيت كلمة المرور ورابط إعادة التعيين لا يصل. الأمر عاجل.,Technical support
-CR-600072,Email,English,"Dear team, How long does it take to issue a new business licence? Please help.",Licensing
-CR-600073,Web form,English,"Hello, I forgot my password and the reset link does not arrive.",Technical support
+CR-600072,Email,English,"Dear team, How long does it take to issue a new trade licence? Please help.",Licensing
+CR-600073,Web form,English,"Hello, I forgot my password and the reset link is not reaching me.",Technical support
 CR-600074,Email,English,"Hello, I paid the fee twice, please refund one payment.",Payments
 CR-600075,Web form,Arabic,ما هي المستندات المطلوبة لإضافة نشاط إلى الرخصة؟ شكراً لكم.,Licensing
 CR-600076,App,Arabic,مرحباً، الموقع بطيء جداً اليوم. الأمر عاجل.,Licensing
@@ -89,15 +89,15 @@ CR-600086,App,Arabic,السلام عليكم، كيف يمكنني كفالة و
 CR-600087,Call centre notes,English,"Hello, I did not receive a receipt for my payment. Thank you.",Payments
 CR-600088,Call centre notes,English,"Dear team, How can I sponsor my parents? This is urgent.",Visa and residency
 CR-600089,Call centre notes,English,"Dear team, The website is very slow today. This is urgent.",Technical support
-CR-600090,Call centre notes,Arabic,لا أستطيع تسجيل الدخول إلى البوابة باستخدام الهوية الرقمية. الأمر عاجل.,Technical support
+CR-600090,Call centre notes,Arabic,لا يمكنني تسجيل الدخول إلى البوابة باستخدام الهوية الرقمية. الأمر عاجل.,Technical support
 CR-600091,Call centre notes,Arabic,صباح الخير. هل يمكنني دفع الرسوم على أقساط؟ شكراً لكم.,Payments
 CR-600092,Web form,Arabic,هل يمكنني تمديد تأشيرة الزيارة لشهر آخر؟ أرجو المساعدة.,Visa and residency
 CR-600093,Call centre notes,Arabic,صباح الخير. أرغب في تجديد الرخصة التجارية لكن النظام يظهر خطأ. شكراً لكم.,Licensing
-CR-600094,App,English,"Hello, I waited two hours and nobody served me. Thank you.",Complaints
+CR-600094,App,English,"Hello, I waited two hours and nobody assisted me. Thank you.",Complaints
 CR-600095,Email,Arabic,صباح الخير. طلب تجديد الإقامة معلق منذ ثلاثة أسابيع.,Visa and residency
 CR-600096,Email,Arabic,ما هي المستندات المطلوبة لإضافة نشاط إلى الرخصة؟,Licensing
 CR-600097,App,Arabic,انتهت صلاحية رخصتي الأسبوع الماضي، هل يمكنني تجديدها عبر الإنترنت؟ الأمر عاجل.,Licensing
-CR-600098,Email,English,I cannot log in to the portal with my digital ID. Thank you.,Technical support
+CR-600098,Email,English,I cannot log in to the portal using UAE PASS. Thank you.,Technical support
 CR-600099,Call centre notes,English,"Dear team, Can I pay the fees in instalments? Please help.",Payments
 CR-600100,App,English,Good morning. Nobody answers the call centre.,Payments
 CR-600101,Email,English,Which documents do I need to add an activity to my licence? Thank you.,Licensing
@@ -105,7 +105,7 @@ CR-600102,Email,English,Good morning. I was given wrong information at the count
 CR-600103,Email,Arabic,صباح الخير. هل يمكنني تمديد تأشيرة الزيارة لشهر آخر؟,Visa and residency
 CR-600104,Web form,English,The website is very slow today. This is urgent.,Technical support
 CR-600105,Web form,English,"Dear team, My visa application was rejected, what can I do? Thank you.",Visa and residency
-CR-600106,App,English,"Dear team, I forgot my password and the reset link does not arrive.",Technical support
+CR-600106,App,English,"Dear team, I forgot my password and the reset link is not reaching me.",Technical support
 CR-600107,Call centre notes,Arabic,صباح الخير. انتهت صلاحية رخصتي الأسبوع الماضي، هل يمكنني تجديدها عبر الإنترنت؟ الأمر عاجل.,Licensing
 CR-600108,Call centre notes,English,Good morning. The app crashes when I upload a document.,Technical support
 CR-600109,Email,English,The app crashes when I upload a document. This is urgent.,Technical support
@@ -114,7 +114,7 @@ CR-600111,Web form,Arabic,مرحباً، أحتاج إلى تغيير اسم ا�
 CR-600112,Web form,English,"Dear team, I want to file a complaint about the long waiting time. This is urgent.",Complaints
 CR-600113,App,English,"Dear team, Is a medical test required for a residency renewal? Thank you.",Visa and residency
 CR-600114,App,Arabic,السلام عليكم، هل يمكنني تمديد تأشيرة الزيارة لشهر آخر؟,Visa and residency
-CR-600115,Email,English,"Hello, I forgot my password and the reset link does not arrive. Thank you.",Technical support
+CR-600115,Email,English,"Hello, I forgot my password and the reset link is not reaching me. Thank you.",Technical support
 CR-600116,App,Arabic,انتظرت ساعتين ولم يخدمني أحد.,Complaints
 CR-600117,Call centre notes,English,Good morning. How can I sponsor my parents? Thank you.,Visa and residency
 CR-600118,Call centre notes,Arabic,حصلت على معلومات خاطئة عند الكاونتر.,Complaints
@@ -135,7 +135,7 @@ CR-600132,Web form,Arabic,السلام عليكم، كيف يمكنني كفال
 CR-600133,App,Arabic,صباح الخير. طلب تجديد الإقامة معلق منذ ثلاثة أسابيع. الأمر عاجل.,Visa and residency
 CR-600134,Email,Arabic,السلام عليكم، ما هي المستندات المطلوبة لإضافة نشاط إلى الرخصة؟ الأمر عاجل.,Licensing
 CR-600135,Call centre notes,English,"Hello, Can I pay the fees in instalments? This is urgent.",Payments
-CR-600136,Email,English,"Hello, How long does it take to issue a new business licence? Please help.",Licensing
+CR-600136,Email,English,"Hello, How long does it take to issue a new trade licence? Please help.",Licensing
 CR-600137,App,English,"Dear team, I need to change the company name on my licence. Thank you.",Licensing
 CR-600138,Web form,Arabic,الموظفون في مركز الخدمة لم يكونوا متعاونين. شكراً لكم.,Technical support
 CR-600139,Call centre notes,Arabic,انتظرت ساعتين ولم يخدمني أحد.,Complaints
@@ -148,7 +148,7 @@ CR-600145,Web form,Arabic,لماذا تم فرض غرامة تأخير علي؟ 
 CR-600146,Call centre notes,English,Good morning. The website is very slow today. Please help.,Technical support
 CR-600147,Email,English,"Dear team, Which documents do I need to add an activity to my licence? Thank you.",Licensing
 CR-600148,Email,English,"Good morning. My licence expired last week, can I still renew it online?",Licensing
-CR-600149,Web form,English,"Dear team, How long does it take to issue a new business licence? Thank you.",Licensing
+CR-600149,Web form,English,"Dear team, How long does it take to issue a new trade licence? Thank you.",Licensing
 CR-600150,App,Arabic,مرحباً، هل الفحص الطبي مطلوب لتجديد الإقامة؟,Visa and residency
 CR-600151,App,Arabic,انتهت صلاحية رخصتي الأسبوع الماضي، هل يمكنني تجديدها عبر الإنترنت؟ شكراً لكم.,Licensing
 CR-600152,Web form,Arabic,دفعت الرسوم مرتين، يرجى استرداد إحدى الدفعتين. الأمر عاجل.,Payments
@@ -157,7 +157,7 @@ CR-600154,Web form,English,"Dear team, I was given wrong information at the coun
 CR-600155,App,English,Can I extend my visit visa for another month? Thank you.,Visa and residency
 CR-600156,Call centre notes,Arabic,مرحباً، تم رفض طلب التأشيرة، ماذا يمكنني أن أفعل؟,Visa and residency
 CR-600157,Call centre notes,Arabic,السلام عليكم، طلب تجديد الإقامة معلق منذ ثلاثة أسابيع.,Visa and residency
-CR-600158,App,English,Good morning. I forgot my password and the reset link does not arrive. Thank you.,Technical support
+CR-600158,App,English,Good morning. I forgot my password and the reset link is not reaching me. Thank you.,Technical support
 CR-600159,Web form,Arabic,السلام عليكم، الموظفون في مركز الخدمة لم يكونوا متعاونين. شكراً لكم.,Complaints
 CR-600160,Web form,Arabic,السلام عليكم، انتهت صلاحية رخصتي الأسبوع الماضي، هل يمكنني تجديدها عبر الإنترنت؟ أرجو المساعدة.,Licensing
 CR-600161,Email,Arabic,هل يمكنني تمديد تأشيرة الزيارة لشهر آخر؟,Visa and residency
@@ -165,16 +165,16 @@ CR-600162,Email,Arabic,صباح الخير. حصلت على معلومات خا�
 CR-600163,App,English,My residency renewal has been pending for three weeks.,Visa and residency
 CR-600164,Web form,English,Good morning. My residency renewal has been pending for three weeks. This is urgent.,Visa and residency
 CR-600165,Call centre notes,English,Good morning. I want to renew my trade licence but the system shows an error. Thank you.,Licensing
-CR-600166,Email,English,Good morning. I forgot my password and the reset link does not arrive. Please help.,Technical support
-CR-600167,Web form,Arabic,السلام عليكم، لا أستطيع تسجيل الدخول إلى البوابة باستخدام الهوية الرقمية. شكراً لكم.,Technical support
+CR-600166,Email,English,Good morning. I forgot my password and the reset link is not reaching me. Please help.,Technical support
+CR-600167,Web form,Arabic,السلام عليكم، لا يمكنني تسجيل الدخول إلى البوابة باستخدام الهوية الرقمية. شكراً لكم.,Technical support
 CR-600168,Email,Arabic,مرحباً، هل الفحص الطبي مطلوب لتجديد الإقامة؟ شكراً لكم.,Visa and residency
 CR-600169,Call centre notes,English,Good morning. I did not receive a receipt for my payment. Please help.,Technical support
-CR-600170,App,Arabic,النموذج لا يسمح لي بالإرسال.,Technical support
+CR-600170,App,Arabic,الاستمارة لا تسمح لي بالتقديم.,Technical support
 CR-600171,Web form,Arabic,السلام عليكم، صفحة الدفع لا تقبل بطاقتي.,Payments
 CR-600172,Web form,English,The staff at the service centre were not helpful. This is urgent.,Complaints
 CR-600173,Web form,English,"Hello, Which documents do I need to add an activity to my licence? Thank you.",Licensing
-CR-600174,Email,English,"Dear team, I cannot log in to the portal with my digital ID. Thank you.",Technical support
-CR-600175,Web form,English,"Hello, How long does it take to issue a new business licence? This is urgent.",Licensing
+CR-600174,Email,English,"Dear team, I cannot log in to the portal using UAE PASS. Thank you.",Technical support
+CR-600175,Web form,English,"Hello, How long does it take to issue a new trade licence? This is urgent.",Licensing
 CR-600176,Web form,Arabic,مرحباً، دفعت الرسوم مرتين، يرجى استرداد إحدى الدفعتين. أرجو المساعدة.,Payments
 CR-600177,Web form,Arabic,مرحباً، الموظفون في مركز الخدمة لم يكونوا متعاونين. الأمر عاجل.,Visa and residency
 CR-600178,App,English,"Dear team, My visa application was rejected, what can I do?",Visa and residency
@@ -214,7 +214,7 @@ CR-600211,Web form,Arabic,صفحة الدفع لا تقبل بطاقتي. أرج
 CR-600212,App,Arabic,صباح الخير. لماذا تم فرض غرامة تأخير علي؟ أرجو المساعدة.,Payments
 CR-600213,Web form,Arabic,السلام عليكم، كيف يمكنني كفالة والديّ؟,Visa and residency
 CR-600214,Web form,Arabic,مرحباً، لماذا تم فرض غرامة تأخير علي؟ أرجو المساعدة.,Payments
-CR-600215,Web form,English,Good morning. How long does it take to issue a new business licence? This is urgent.,Licensing
+CR-600215,Web form,English,Good morning. How long does it take to issue a new trade licence? This is urgent.,Licensing
 CR-600216,Email,English,"My visa application was rejected, what can I do? Thank you.",Visa and residency
 CR-600217,Call centre notes,Arabic,مرحباً، هل يمكنني تمديد تأشيرة الزيارة لشهر آخر؟ الأمر عاجل.,Visa and residency
 CR-600218,Call centre notes,English,Nobody answers the call centre. Please help.,Complaints
@@ -240,12 +240,12 @@ CR-600237,Web form,Arabic,صباح الخير. كيف يمكنني كفالة و
 CR-600238,Call centre notes,English,"Dear team, Can I pay the fees in instalments?",Payments
 CR-600239,Call centre notes,English,"Dear team, Is a medical test required for a residency renewal?",Visa and residency
 CR-600240,Web form,Arabic,صباح الخير. انتهت صلاحية رخصتي الأسبوع الماضي، هل يمكنني تجديدها عبر الإنترنت؟,Licensing
-CR-600241,Call centre notes,English,"Hello, I cannot log in to the portal with my digital ID. This is urgent.",Technical support
+CR-600241,Call centre notes,English,"Hello, I cannot log in to the portal using UAE PASS. This is urgent.",Technical support
 CR-600242,App,English,The app crashes when I upload a document.,Technical support
 CR-600243,Email,Arabic,السلام عليكم، هل الفحص الطبي مطلوب لتجديد الإقامة؟ شكراً لكم.,Visa and residency
 CR-600244,Call centre notes,English,"Dear team, Can I pay the fees in instalments?",Licensing
 CR-600245,Email,Arabic,صباح الخير. هل يمكنني دفع الرسوم على أقساط؟,Payments
-CR-600246,Email,Arabic,النموذج لا يسمح لي بالإرسال.,Technical support
+CR-600246,Email,Arabic,الاستمارة لا تسمح لي بالتقديم.,Technical support
 CR-600247,Call centre notes,Arabic,مرحباً، أرغب في تقديم شكوى بشأن طول وقت الانتظار. الأمر عاجل.,Complaints
 CR-600248,Call centre notes,Arabic,السلام عليكم، كم تستغرق مدة إصدار رخصة تجارية جديدة؟,Licensing
 CR-600249,App,English,"Hello, Can I extend my visit visa for another month? Please help.",Visa and residency
@@ -258,7 +258,7 @@ CR-600255,App,Arabic,السلام عليكم، أرغب في تجديد الرخ
 CR-600256,Web form,Arabic,مرحباً، لا أحد يرد على مركز الاتصال. شكراً لكم.,Complaints
 CR-600257,Web form,Arabic,مرحباً، هل يمكنني دفع الرسوم على أقساط؟ الأمر عاجل.,Payments
 CR-600258,Call centre notes,English,"Dear team, The form does not let me submit. Thank you.",Technical support
-CR-600259,Email,Arabic,النموذج لا يسمح لي بالإرسال. شكراً لكم.,Technical support
+CR-600259,Email,Arabic,الاستمارة لا تسمح لي بالتقديم. شكراً لكم.,Technical support
 CR-600260,Call centre notes,Arabic,السلام عليكم، طلب تجديد الإقامة معلق منذ ثلاثة أسابيع.,Visa and residency
 CR-600261,Web form,Arabic,السلام عليكم، لم أستلم إيصالاً بالدفع.,Payments
 CR-600262,App,English,Good morning. Can I pay the fees in instalments? This is urgent.,Payments
@@ -268,7 +268,7 @@ CR-600265,Call centre notes,Arabic,صباح الخير. لماذا تم فرض �
 CR-600266,Email,English,"Hello, Can I extend my visit visa for another month? This is urgent.",Visa and residency
 CR-600267,Call centre notes,Arabic,السلام عليكم، كيف يمكنني كفالة والديّ؟ شكراً لكم.,Visa and residency
 CR-600268,Email,English,Can I pay the fees in instalments? Thank you.,Payments
-CR-600269,Call centre notes,English,"Dear team, How long does it take to issue a new business licence?",Licensing
+CR-600269,Call centre notes,English,"Dear team, How long does it take to issue a new trade licence?",Licensing
 CR-600270,App,Arabic,السلام عليكم، التطبيق يتوقف عند رفع مستند.,Technical support
 CR-600271,Call centre notes,Arabic,مرحباً، هل يمكنني تمديد تأشيرة الزيارة لشهر آخر؟ أرجو المساعدة.,Visa and residency
 CR-600272,App,English,"Hello, I need to change the company name on my licence. This is urgent.",Licensing
@@ -281,12 +281,12 @@ CR-600278,Web form,Arabic,صباح الخير. هل يمكنني تمديد تأ
 CR-600279,Web form,Arabic,صفحة الدفع لا تقبل بطاقتي. أرجو المساعدة.,Licensing
 CR-600280,App,Arabic,مرحباً، طلب تجديد الإقامة معلق منذ ثلاثة أسابيع. أرجو المساعدة.,Visa and residency
 CR-600281,Email,English,"Hello, I want to file a complaint about the long waiting time. This is urgent.",Complaints
-CR-600282,Web form,Arabic,مرحباً، لا أستطيع تسجيل الدخول إلى البوابة باستخدام الهوية الرقمية.,Technical support
+CR-600282,Web form,Arabic,مرحباً، لا يمكنني تسجيل الدخول إلى البوابة باستخدام الهوية الرقمية.,Technical support
 CR-600283,App,Arabic,مرحباً، انتظرت ساعتين ولم يخدمني أحد. شكراً لكم.,Complaints
 CR-600284,Email,Arabic,صباح الخير. انتهت صلاحية رخصتي الأسبوع الماضي، هل يمكنني تجديدها عبر الإنترنت؟,Licensing
 CR-600285,Call centre notes,Arabic,السلام عليكم، كيف يمكنني كفالة والديّ؟ شكراً لكم.,Visa and residency
 CR-600286,Web form,English,"Good morning. My visa application was rejected, what can I do? This is urgent.",Visa and residency
-CR-600287,App,English,Good morning. I forgot my password and the reset link does not arrive.,Technical support
+CR-600287,App,English,Good morning. I forgot my password and the reset link is not reaching me.,Technical support
 CR-600288,App,Arabic,السلام عليكم، أرغب في تقديم شكوى بشأن طول وقت الانتظار. الأمر عاجل.,Visa and residency
 CR-600289,Call centre notes,Arabic,صباح الخير. حصلت على معلومات خاطئة عند الكاونتر. الأمر عاجل.,Complaints
 CR-600290,App,Arabic,كيف يمكنني كفالة والديّ؟ شكراً لكم.,Payments
@@ -299,46 +299,46 @@ CR-600296,Web form,English,"Hello, The website is very slow today.",Technical su
 CR-600297,Email,Arabic,السلام عليكم، هل الفحص الطبي مطلوب لتجديد الإقامة؟ أرجو المساعدة.,Visa and residency
 CR-600298,Web form,Arabic,صباح الخير. هل يمكنني تمديد تأشيرة الزيارة لشهر آخر؟ شكراً لكم.,Visa and residency
 CR-600299,App,Arabic,صباح الخير. انتهت صلاحية رخصتي الأسبوع الماضي، هل يمكنني تجديدها عبر الإنترنت؟ الأمر عاجل.,Licensing
-CR-600300,Web form,English,I forgot my password and the reset link does not arrive. Please help.,Licensing
+CR-600300,Web form,English,I forgot my password and the reset link is not reaching me. Please help.,Licensing
 CR-600301,Web form,English,I want to renew my trade licence but the system shows an error. Please help.,Licensing
 CR-600302,Email,English,Good morning. The payment page does not accept my card.,Payments
 CR-600303,Call centre notes,Arabic,انتظرت ساعتين ولم يخدمني أحد. شكراً لكم.,Complaints
-CR-600304,Call centre notes,English,Good morning. How long does it take to issue a new business licence? Please help.,Licensing
+CR-600304,Call centre notes,English,Good morning. How long does it take to issue a new trade licence? Please help.,Licensing
 CR-600305,Email,English,"Hello, My residency renewal has been pending for three weeks. Please help.",Visa and residency
 CR-600306,App,Arabic,السلام عليكم، الموظفون في مركز الخدمة لم يكونوا متعاونين. شكراً لكم.,Complaints
-CR-600307,Call centre notes,English,I cannot log in to the portal with my digital ID.,Technical support
+CR-600307,Call centre notes,English,I cannot log in to the portal using UAE PASS.,Technical support
 CR-600308,Web form,English,"Dear team, How can I sponsor my parents? Please help.",Visa and residency
 CR-600309,Call centre notes,English,"Hello, Which documents do I need to add an activity to my licence? Thank you.",Licensing
-CR-600310,App,English,Good morning. How long does it take to issue a new business licence?,Licensing
+CR-600310,App,English,Good morning. How long does it take to issue a new trade licence?,Licensing
 CR-600311,Web form,English,"Dear team, I want to renew my trade licence but the system shows an error. Please help.",Licensing
 CR-600312,Email,Arabic,السلام عليكم، هل يمكنني دفع الرسوم على أقساط؟ شكراً لكم.,Payments
 CR-600313,Web form,English,Good morning. The app crashes when I upload a document. This is urgent.,Technical support
 CR-600314,Call centre notes,English,"Hello, I need to change the company name on my licence. This is urgent.",Licensing
 CR-600315,App,Arabic,صباح الخير. هل الفحص الطبي مطلوب لتجديد الإقامة؟ شكراً لكم.,Visa and residency
 CR-600316,Email,English,Can I extend my visit visa for another month? Thank you.,Visa and residency
-CR-600317,Email,Arabic,السلام عليكم، لا أستطيع تسجيل الدخول إلى البوابة باستخدام الهوية الرقمية. الأمر عاجل.,Technical support
+CR-600317,Email,Arabic,السلام عليكم، لا يمكنني تسجيل الدخول إلى البوابة باستخدام الهوية الرقمية. الأمر عاجل.,Technical support
 CR-600318,Call centre notes,English,"Hello, The app crashes when I upload a document. Please help.",Technical support
-CR-600319,App,English,Good morning. I forgot my password and the reset link does not arrive. This is urgent.,Technical support
+CR-600319,App,English,Good morning. I forgot my password and the reset link is not reaching me. This is urgent.,Technical support
 CR-600320,Web form,English,Good morning. Why was I charged a late fee? Please help.,Payments
 CR-600321,Email,English,Good morning. Can I extend my visit visa for another month? Thank you.,Visa and residency
 CR-600322,Web form,Arabic,هل الفحص الطبي مطلوب لتجديد الإقامة؟ الأمر عاجل.,Visa and residency
 CR-600323,App,English,"Hello, Can I extend my visit visa for another month? This is urgent.",Visa and residency
 CR-600324,Email,English,"Dear team, My residency renewal has been pending for three weeks. This is urgent.",Visa and residency
 CR-600325,Call centre notes,Arabic,صباح الخير. أرغب في تقديم شكوى بشأن طول وقت الانتظار. شكراً لكم.,Complaints
-CR-600326,App,Arabic,صباح الخير. النموذج لا يسمح لي بالإرسال. الأمر عاجل.,Technical support
-CR-600327,App,English,"Dear team, How long does it take to issue a new business licence? Please help.",Licensing
+CR-600326,App,Arabic,صباح الخير. الاستمارة لا تسمح لي بالتقديم. الأمر عاجل.,Technical support
+CR-600327,App,English,"Dear team, How long does it take to issue a new trade licence? Please help.",Licensing
 CR-600328,App,English,"Dear team, I did not receive a receipt for my payment. Please help.",Payments
 CR-600329,Email,English,"Dear team, The app crashes when I upload a document. This is urgent.",Technical support
 CR-600330,Call centre notes,Arabic,كيف يمكنني كفالة والديّ؟ الأمر عاجل.,Visa and residency
 CR-600331,Email,Arabic,صباح الخير. كيف يمكنني كفالة والديّ؟ الأمر عاجل.,Visa and residency
 CR-600332,Web form,Arabic,مرحباً، التطبيق يتوقف عند رفع مستند. الأمر عاجل.,Technical support
-CR-600333,Email,Arabic,لا أستطيع تسجيل الدخول إلى البوابة باستخدام الهوية الرقمية.,Technical support
+CR-600333,Email,Arabic,لا يمكنني تسجيل الدخول إلى البوابة باستخدام الهوية الرقمية.,Technical support
 CR-600334,Web form,Arabic,مرحباً، لا أحد يرد على مركز الاتصال. الأمر عاجل.,Complaints
 CR-600335,App,Arabic,مرحباً، انتهت صلاحية رخصتي الأسبوع الماضي، هل يمكنني تجديدها عبر الإنترنت؟,Licensing
 CR-600336,App,English,I want to file a complaint about the long waiting time. Thank you.,Complaints
 CR-600337,Email,Arabic,السلام عليكم، كم تستغرق مدة إصدار رخصة تجارية جديدة؟ الأمر عاجل.,Licensing
 CR-600338,Call centre notes,Arabic,مرحباً، كيف يمكنني كفالة والديّ؟ الأمر عاجل.,Visa and residency
-CR-600339,Email,Arabic,مرحباً، لا أستطيع تسجيل الدخول إلى البوابة باستخدام الهوية الرقمية. الأمر عاجل.,Technical support
+CR-600339,Email,Arabic,مرحباً، لا يمكنني تسجيل الدخول إلى البوابة باستخدام الهوية الرقمية. الأمر عاجل.,Technical support
 CR-600340,App,English,"Dear team, Can I extend my visit visa for another month? This is urgent.",Visa and residency
 CR-600341,Call centre notes,English,"Hello, I need to change the company name on my licence.",Licensing
 CR-600342,Call centre notes,Arabic,التطبيق يتوقف عند رفع مستند. أرجو المساعدة.,Technical support
@@ -347,25 +347,25 @@ CR-600344,Email,English,The website is very slow today. Thank you.,Technical sup
 CR-600345,Call centre notes,Arabic,صباح الخير. صفحة الدفع لا تقبل بطاقتي. الأمر عاجل.,Payments
 CR-600346,App,English,"Dear team, Which documents do I need to add an activity to my licence? Thank you.",Visa and residency
 CR-600347,Call centre notes,Arabic,هل يمكنني دفع الرسوم على أقساط؟ أرجو المساعدة.,Payments
-CR-600348,Web form,Arabic,مرحباً، النموذج لا يسمح لي بالإرسال. الأمر عاجل.,Technical support
+CR-600348,Web form,Arabic,مرحباً، الاستمارة لا تسمح لي بالتقديم. الأمر عاجل.,Technical support
 CR-600349,Email,Arabic,مرحباً، صفحة الدفع لا تقبل بطاقتي.,Payments
 CR-600350,App,English,Good morning. Nobody answers the call centre. This is urgent.,Payments
 CR-600351,App,English,The staff at the service centre were not helpful. This is urgent.,Complaints
 CR-600352,Call centre notes,English,I was given wrong information at the counter. This is urgent.,Complaints
 CR-600353,App,English,Why was I charged a late fee? Please help.,Payments
 CR-600354,Web form,Arabic,السلام عليكم، لا أحد يرد على مركز الاتصال. أرجو المساعدة.,Complaints
-CR-600355,App,English,"Hello, How long does it take to issue a new business licence?",Licensing
+CR-600355,App,English,"Hello, How long does it take to issue a new trade licence?",Licensing
 CR-600356,Call centre notes,English,I need to change the company name on my licence.,Licensing
-CR-600357,Email,English,How long does it take to issue a new business licence?,Licensing
+CR-600357,Email,English,How long does it take to issue a new trade licence?,Licensing
 CR-600358,App,English,I was given wrong information at the counter. Please help.,Complaints
 CR-600359,Call centre notes,English,The app crashes when I upload a document.,Technical support
-CR-600360,Call centre notes,English,Good morning. I waited two hours and nobody served me.,Complaints
+CR-600360,Call centre notes,English,Good morning. I waited two hours and nobody assisted me.,Complaints
 CR-600361,Call centre notes,Arabic,مرحباً، الموقع بطيء جداً اليوم. شكراً لكم.,Technical support
 CR-600362,Email,Arabic,ما هي المستندات المطلوبة لإضافة نشاط إلى الرخصة؟,Licensing
 CR-600363,Email,Arabic,السلام عليكم، تم رفض طلب التأشيرة، ماذا يمكنني أن أفعل؟ أرجو المساعدة.,Visa and residency
-CR-600364,App,English,"Dear team, I waited two hours and nobody served me. Please help.",Complaints
+CR-600364,App,English,"Dear team, I waited two hours and nobody assisted me. Please help.",Complaints
 CR-600365,Web form,English,"Hello, The form does not let me submit. This is urgent.",Technical support
-CR-600366,Email,English,"Hello, I forgot my password and the reset link does not arrive.",Technical support
+CR-600366,Email,English,"Hello, I forgot my password and the reset link is not reaching me.",Technical support
 CR-600367,Email,English,The payment page does not accept my card.,Payments
 CR-600368,Call centre notes,English,Good morning. How can I sponsor my parents? Please help.,Visa and residency
 CR-600369,Call centre notes,Arabic,صباح الخير. هل الفحص الطبي مطلوب لتجديد الإقامة؟ الأمر عاجل.,Visa and residency
@@ -381,7 +381,7 @@ CR-600378,Email,Arabic,صباح الخير. هل يمكنني تمديد تأش�
 CR-600379,Email,Arabic,صباح الخير. حصلت على معلومات خاطئة عند الكاونتر.,Complaints
 CR-600380,Web form,Arabic,طلب تجديد الإقامة معلق منذ ثلاثة أسابيع.,Visa and residency
 CR-600381,App,English,"Dear team, The staff at the service centre were not helpful. Thank you.",Complaints
-CR-600382,Call centre notes,English,I forgot my password and the reset link does not arrive. Thank you.,Technical support
+CR-600382,Call centre notes,English,I forgot my password and the reset link is not reaching me. Thank you.,Technical support
 CR-600383,Call centre notes,English,Which documents do I need to add an activity to my licence?,Licensing
 CR-600384,Call centre notes,Arabic,صباح الخير. لماذا تم فرض غرامة تأخير علي؟ شكراً لكم.,Payments
 CR-600385,Email,English,Good morning. Why was I charged a late fee? Please help.,Payments
@@ -403,7 +403,7 @@ CR-600400,Web form,English,"Good morning. My visa application was rejected, what
 CR-600401,Web form,English,"My visa application was rejected, what can I do? Please help.",Visa and residency
 CR-600402,Email,Arabic,السلام عليكم، هل يمكنني دفع الرسوم على أقساط؟ الأمر عاجل.,Payments
 CR-600403,Web form,English,"My licence expired last week, can I still renew it online? Thank you.",Licensing
-CR-600404,Web form,English,"Hello, I waited two hours and nobody served me. Thank you.",Complaints
+CR-600404,Web form,English,"Hello, I waited two hours and nobody assisted me. Thank you.",Complaints
 CR-600405,Email,Arabic,صباح الخير. ما هي المستندات المطلوبة لإضافة نشاط إلى الرخصة؟ شكراً لكم.,Licensing
 CR-600406,Call centre notes,English,"Hello, Why was I charged a late fee? Thank you.",Payments
 CR-600407,Email,Arabic,مرحباً، كيف يمكنني كفالة والديّ؟ الأمر عاجل.,Visa and residency
@@ -426,7 +426,7 @@ CR-600423,Web form,Arabic,مرحباً، هل يمكنني تمديد تأشير
 CR-600424,Web form,Arabic,هل يمكنني دفع الرسوم على أقساط؟,Payments
 CR-600425,Call centre notes,English,Good morning. The payment page does not accept my card. Thank you.,Payments
 CR-600426,Call centre notes,Arabic,السلام عليكم، انتهت صلاحية رخصتي الأسبوع الماضي، هل يمكنني تجديدها عبر الإنترنت؟ شكراً لكم.,Licensing
-CR-600427,Web form,Arabic,السلام عليكم، لا أستطيع تسجيل الدخول إلى البوابة باستخدام الهوية الرقمية. شكراً لكم.,Technical support
+CR-600427,Web form,Arabic,السلام عليكم، لا يمكنني تسجيل الدخول إلى البوابة باستخدام الهوية الرقمية. شكراً لكم.,Technical support
 CR-600428,Web form,Arabic,لا أحد يرد على مركز الاتصال. أرجو المساعدة.,Complaints
 CR-600429,Email,Arabic,صباح الخير. الموقع بطيء جداً اليوم. شكراً لكم.,Technical support
 CR-600430,Web form,Arabic,مرحباً، التطبيق يتوقف عند رفع مستند. شكراً لكم.,Technical support
@@ -442,15 +442,15 @@ CR-600439,App,English,"Hello, The form does not let me submit. Thank you.",Techn
 CR-600440,Web form,Arabic,صباح الخير. تم رفض طلب التأشيرة، ماذا يمكنني أن أفعل؟ أرجو المساعدة.,Visa and residency
 CR-600441,Web form,Arabic,هل يمكنني دفع الرسوم على أقساط؟ الأمر عاجل.,Payments
 CR-600442,App,English,I need to change the company name on my licence.,Licensing
-CR-600443,Call centre notes,English,"Hello, I waited two hours and nobody served me.",Complaints
+CR-600443,Call centre notes,English,"Hello, I waited two hours and nobody assisted me.",Complaints
 CR-600444,Email,Arabic,هل الفحص الطبي مطلوب لتجديد الإقامة؟ الأمر عاجل.,Visa and residency
 CR-600445,Call centre notes,Arabic,صباح الخير. ما هي المستندات المطلوبة لإضافة نشاط إلى الرخصة؟ أرجو المساعدة.,Licensing
 CR-600446,Email,Arabic,نسيت كلمة المرور ورابط إعادة التعيين لا يصل.,Technical support
-CR-600447,App,Arabic,النموذج لا يسمح لي بالإرسال. أرجو المساعدة.,Technical support
-CR-600448,Web form,Arabic,السلام عليكم، لا أستطيع تسجيل الدخول إلى البوابة باستخدام الهوية الرقمية. شكراً لكم.,Technical support
+CR-600447,App,Arabic,الاستمارة لا تسمح لي بالتقديم. أرجو المساعدة.,Technical support
+CR-600448,Web form,Arabic,السلام عليكم، لا يمكنني تسجيل الدخول إلى البوابة باستخدام الهوية الرقمية. شكراً لكم.,Technical support
 CR-600449,Web form,English,Good morning. I did not receive a receipt for my payment. Thank you.,Payments
 CR-600450,Web form,English,"Hello, Is a medical test required for a residency renewal? Please help.",Visa and residency
-CR-600451,Email,English,"Hello, I cannot log in to the portal with my digital ID. This is urgent.",Technical support
+CR-600451,Email,English,"Hello, I cannot log in to the portal using UAE PASS. This is urgent.",Technical support
 CR-600452,App,Arabic,التطبيق يتوقف عند رفع مستند. شكراً لكم.,Technical support
 CR-600453,Call centre notes,Arabic,صباح الخير. طلب تجديد الإقامة معلق منذ ثلاثة أسابيع. شكراً لكم.,Visa and residency
 CR-600454,Email,Arabic,صباح الخير. لماذا تم فرض غرامة تأخير علي؟ شكراً لكم.,Payments
@@ -461,7 +461,7 @@ CR-600458,Email,English,Can I extend my visit visa for another month?,Visa and r
 CR-600459,App,Arabic,أرغب في تجديد الرخصة التجارية لكن النظام يظهر خطأ. الأمر عاجل.,Licensing
 CR-600460,Email,Arabic,مرحباً، دفعت الرسوم مرتين، يرجى استرداد إحدى الدفعتين.,Payments
 CR-600461,Call centre notes,Arabic,مرحباً، الموظفون في مركز الخدمة لم يكونوا متعاونين. الأمر عاجل.,Complaints
-CR-600462,Email,English,"Dear team, I cannot log in to the portal with my digital ID.",Technical support
+CR-600462,Email,English,"Dear team, I cannot log in to the portal using UAE PASS.",Technical support
 CR-600463,Email,English,"Dear team, I want to renew my trade licence but the system shows an error. This is urgent.",Licensing
 CR-600464,App,English,"Good morning. I paid the fee twice, please refund one payment. Please help.",Payments
 CR-600465,Call centre notes,Arabic,السلام عليكم، لا أحد يرد على مركز الاتصال. أرجو المساعدة.,Complaints
@@ -476,8 +476,8 @@ CR-600473,Call centre notes,Arabic,صباح الخير. الموظفون في م
 CR-600474,Web form,English,"Dear team, I did not receive a receipt for my payment. Thank you.",Payments
 CR-600475,Call centre notes,Arabic,السلام عليكم، هل يمكنني دفع الرسوم على أقساط؟,Payments
 CR-600476,Email,English,"Good morning. My licence expired last week, can I still renew it online? Please help.",Licensing
-CR-600477,Email,English,Good morning. I waited two hours and nobody served me. This is urgent.,Complaints
-CR-600478,Email,English,How long does it take to issue a new business licence?,Licensing
+CR-600477,Email,English,Good morning. I waited two hours and nobody assisted me. This is urgent.,Complaints
+CR-600478,Email,English,How long does it take to issue a new trade licence?,Licensing
 CR-600479,Email,Arabic,أحتاج إلى تغيير اسم الشركة في الرخصة. شكراً لكم.,Licensing
 CR-600480,App,Arabic,السلام عليكم، هل الفحص الطبي مطلوب لتجديد الإقامة؟ شكراً لكم.,Visa and residency
 CR-600481,Web form,English,Good morning. I did not receive a receipt for my payment. Thank you.,Payments
@@ -486,7 +486,7 @@ CR-600483,Web form,English,"Dear team, How can I sponsor my parents?",Visa and r
 CR-600484,Email,Arabic,هل الفحص الطبي مطلوب لتجديد الإقامة؟ شكراً لكم.,Payments
 CR-600485,Web form,Arabic,السلام عليكم، صفحة الدفع لا تقبل بطاقتي. أرجو المساعدة.,Payments
 CR-600486,Web form,English,I did not receive a receipt for my payment. Please help.,Payments
-CR-600487,App,Arabic,مرحباً، لا أستطيع تسجيل الدخول إلى البوابة باستخدام الهوية الرقمية.,Technical support
+CR-600487,App,Arabic,مرحباً، لا يمكنني تسجيل الدخول إلى البوابة باستخدام الهوية الرقمية.,Technical support
 CR-600488,Call centre notes,English,"Dear team, How can I sponsor my parents? Please help.",Visa and residency
 CR-600489,Web form,Arabic,السلام عليكم، لماذا تم فرض غرامة تأخير علي؟ أرجو المساعدة.,Payments
 CR-600490,Call centre notes,Arabic,السلام عليكم، هل الفحص الطبي مطلوب لتجديد الإقامة؟ شكراً لكم.,Visa and residency
@@ -494,7 +494,7 @@ CR-600491,Call centre notes,English,Good morning. Can I pay the fees in instalme
 CR-600492,Call centre notes,Arabic,مرحباً، أرغب في تجديد الرخصة التجارية لكن النظام يظهر خطأ. أرجو المساعدة.,Licensing
 CR-600493,Email,English,I did not receive a receipt for my payment. This is urgent.,Payments
 CR-600494,Email,Arabic,مرحباً، كيف يمكنني كفالة والديّ؟ الأمر عاجل.,Visa and residency
-CR-600495,Web form,Arabic,مرحباً، النموذج لا يسمح لي بالإرسال.,Technical support
+CR-600495,Web form,Arabic,مرحباً، الاستمارة لا تسمح لي بالتقديم.,Technical support
 CR-600496,Web form,English,"Dear team, How can I sponsor my parents? Please help.",Visa and residency
 CR-600497,App,Arabic,صباح الخير. انتظرت ساعتين ولم يخدمني أحد. الأمر عاجل.,Complaints
 CR-600498,Web form,Arabic,دفعت الرسوم مرتين، يرجى استرداد إحدى الدفعتين. شكراً لكم.,Payments
@@ -524,33 +524,33 @@ CR-600521,Call centre notes,English,"Hello, I was given wrong information at the
 CR-600522,Web form,English,Good morning. Can I extend my visit visa for another month? Thank you.,Visa and residency
 CR-600523,App,English,"Hello, Is a medical test required for a residency renewal? Please help.",Visa and residency
 CR-600524,Email,Arabic,أحتاج إلى تغيير اسم الشركة في الرخصة. شكراً لكم.,Licensing
-CR-600525,Email,English,I cannot log in to the portal with my digital ID. Thank you.,Technical support
-CR-600526,Web form,English,"Dear team, I forgot my password and the reset link does not arrive.",Technical support
+CR-600525,Email,English,I cannot log in to the portal using UAE PASS. Thank you.,Technical support
+CR-600526,Web form,English,"Dear team, I forgot my password and the reset link is not reaching me.",Technical support
 CR-600527,Web form,Arabic,صباح الخير. أرغب في تجديد الرخصة التجارية لكن النظام يظهر خطأ. الأمر عاجل.,Licensing
 CR-600528,Call centre notes,Arabic,صباح الخير. طلب تجديد الإقامة معلق منذ ثلاثة أسابيع. شكراً لكم.,Visa and residency
 CR-600529,Email,English,"Good morning. My visa application was rejected, what can I do? Please help.",Visa and residency
-CR-600530,Email,Arabic,صباح الخير. لا أستطيع تسجيل الدخول إلى البوابة باستخدام الهوية الرقمية. أرجو المساعدة.,Technical support
+CR-600530,Email,Arabic,صباح الخير. لا يمكنني تسجيل الدخول إلى البوابة باستخدام الهوية الرقمية. أرجو المساعدة.,Technical support
 CR-600531,Web form,Arabic,صباح الخير. ما هي المستندات المطلوبة لإضافة نشاط إلى الرخصة؟ شكراً لكم.,Licensing
 CR-600532,App,Arabic,السلام عليكم، حصلت على معلومات خاطئة عند الكاونتر. شكراً لكم.,Complaints
 CR-600533,App,Arabic,صباح الخير. طلب تجديد الإقامة معلق منذ ثلاثة أسابيع. أرجو المساعدة.,Visa and residency
 CR-600534,App,Arabic,مرحباً، لم أستلم إيصالاً بالدفع. شكراً لكم.,Payments
 CR-600535,Email,Arabic,مرحباً، ما هي المستندات المطلوبة لإضافة نشاط إلى الرخصة؟ أرجو المساعدة.,Licensing
 CR-600536,Call centre notes,Arabic,مرحباً، تم رفض طلب التأشيرة، ماذا يمكنني أن أفعل؟ أرجو المساعدة.,Visa and residency
-CR-600537,Email,Arabic,مرحباً، لا أستطيع تسجيل الدخول إلى البوابة باستخدام الهوية الرقمية. أرجو المساعدة.,Technical support
+CR-600537,Email,Arabic,مرحباً، لا يمكنني تسجيل الدخول إلى البوابة باستخدام الهوية الرقمية. أرجو المساعدة.,Technical support
 CR-600538,Call centre notes,English,"Hello, My residency renewal has been pending for three weeks. Thank you.",Visa and residency
 CR-600539,Email,Arabic,صباح الخير. انتهت صلاحية رخصتي الأسبوع الماضي، هل يمكنني تجديدها عبر الإنترنت؟ شكراً لكم.,Licensing
 CR-600540,App,Arabic,السلام عليكم، كيف يمكنني كفالة والديّ؟ الأمر عاجل.,Visa and residency
-CR-600541,Email,Arabic,صباح الخير. لا أستطيع تسجيل الدخول إلى البوابة باستخدام الهوية الرقمية. شكراً لكم.,Technical support
+CR-600541,Email,Arabic,صباح الخير. لا يمكنني تسجيل الدخول إلى البوابة باستخدام الهوية الرقمية. شكراً لكم.,Technical support
 CR-600542,App,Arabic,صباح الخير. نسيت كلمة المرور ورابط إعادة التعيين لا يصل. أرجو المساعدة.,Technical support
 CR-600543,Call centre notes,Arabic,صباح الخير. طلب تجديد الإقامة معلق منذ ثلاثة أسابيع. الأمر عاجل.,Visa and residency
-CR-600544,Email,English,How long does it take to issue a new business licence? This is urgent.,Licensing
+CR-600544,Email,English,How long does it take to issue a new trade licence? This is urgent.,Licensing
 CR-600545,Web form,English,Nobody answers the call centre. Please help.,Complaints
 CR-600546,Web form,Arabic,مرحباً، أحتاج إلى تغيير اسم الشركة في الرخصة. أرجو المساعدة.,Licensing
 CR-600547,Call centre notes,English,"Hello, The payment page does not accept my card. Thank you.",Payments
 CR-600548,Email,English,Good morning. How can I sponsor my parents? Please help.,Visa and residency
 CR-600549,Web form,English,"Hello, The app crashes when I upload a document. Thank you.",Technical support
 CR-600550,App,English,Which documents do I need to add an activity to my licence? This is urgent.,Licensing
-CR-600551,Email,Arabic,صباح الخير. لا أستطيع تسجيل الدخول إلى البوابة باستخدام الهوية الرقمية.,Technical support
+CR-600551,Email,Arabic,صباح الخير. لا يمكنني تسجيل الدخول إلى البوابة باستخدام الهوية الرقمية.,Technical support
 CR-600552,Email,English,"Hello, My licence expired last week, can I still renew it online? This is urgent.",Licensing
 CR-600553,Email,Arabic,مرحباً، لماذا تم فرض غرامة تأخير علي؟ أرجو المساعدة.,Payments
 CR-600554,Web form,English,Can I extend my visit visa for another month? Thank you.,Visa and residency
@@ -566,20 +566,20 @@ CR-600563,Web form,English,"Hello, My residency renewal has been pending for thr
 CR-600564,App,English,Good morning. Nobody answers the call centre. Thank you.,Complaints
 CR-600565,Call centre notes,Arabic,السلام عليكم، هل يمكنني دفع الرسوم على أقساط؟ الأمر عاجل.,Payments
 CR-600566,Call centre notes,English,"Hello, I did not receive a receipt for my payment. Please help.",Payments
-CR-600567,Call centre notes,English,"Hello, I cannot log in to the portal with my digital ID. Please help.",Technical support
+CR-600567,Call centre notes,English,"Hello, I cannot log in to the portal using UAE PASS. Please help.",Technical support
 CR-600568,App,Arabic,هل يمكنني دفع الرسوم على أقساط؟,Payments
-CR-600569,Email,Arabic,صباح الخير. لا أستطيع تسجيل الدخول إلى البوابة باستخدام الهوية الرقمية. الأمر عاجل.,Technical support
+CR-600569,Email,Arabic,صباح الخير. لا يمكنني تسجيل الدخول إلى البوابة باستخدام الهوية الرقمية. الأمر عاجل.,Technical support
 CR-600570,Web form,Arabic,صباح الخير. كم تستغرق مدة إصدار رخصة تجارية جديدة؟ أرجو المساعدة.,Licensing
 CR-600571,Email,Arabic,السلام عليكم، ما هي المستندات المطلوبة لإضافة نشاط إلى الرخصة؟,Licensing
 CR-600572,Web form,Arabic,صباح الخير. لماذا تم فرض غرامة تأخير علي؟,Payments
 CR-600573,Web form,Arabic,صباح الخير. هل يمكنني دفع الرسوم على أقساط؟ أرجو المساعدة.,Payments
 CR-600574,Call centre notes,Arabic,مرحباً، كم تستغرق مدة إصدار رخصة تجارية جديدة؟ شكراً لكم.,Licensing
 CR-600575,Email,Arabic,التطبيق يتوقف عند رفع مستند. أرجو المساعدة.,Technical support
-CR-600576,Email,English,"Dear team, I waited two hours and nobody served me.",Complaints
+CR-600576,Email,English,"Dear team, I waited two hours and nobody assisted me.",Complaints
 CR-600577,App,English,"Hello, The payment page does not accept my card. Please help.",Payments
 CR-600578,Web form,English,Good morning. I was given wrong information at the counter. Thank you.,Complaints
 CR-600579,Call centre notes,Arabic,مرحباً، تم رفض طلب التأشيرة، ماذا يمكنني أن أفعل؟,Visa and residency
-CR-600580,Web form,Arabic,مرحباً، النموذج لا يسمح لي بالإرسال. شكراً لكم.,Technical support
+CR-600580,Web form,Arabic,مرحباً، الاستمارة لا تسمح لي بالتقديم. شكراً لكم.,Technical support
 CR-600581,Call centre notes,English,"Dear team, I need to change the company name on my licence. Please help.",Licensing
 CR-600582,Email,Arabic,السلام عليكم، أحتاج إلى تغيير اسم الشركة في الرخصة. الأمر عاجل.,Licensing
 CR-600583,Call centre notes,English,"Hello, The website is very slow today. This is urgent.",Technical support
@@ -597,8 +597,8 @@ CR-600594,Web form,English,"Hello, I want to renew my trade licence but the syst
 CR-600595,Call centre notes,English,Good morning. My residency renewal has been pending for three weeks. Thank you.,Visa and residency
 CR-600596,Web form,Arabic,حصلت على معلومات خاطئة عند الكاونتر. الأمر عاجل.,Complaints
 CR-600597,Email,Arabic,صباح الخير. تم رفض طلب التأشيرة، ماذا يمكنني أن أفعل؟ الأمر عاجل.,Visa and residency
-CR-600598,Call centre notes,Arabic,مرحباً، لا أستطيع تسجيل الدخول إلى البوابة باستخدام الهوية الرقمية. الأمر عاجل.,Technical support
-CR-600599,Call centre notes,English,Good morning. How long does it take to issue a new business licence?,Licensing
+CR-600598,Call centre notes,Arabic,مرحباً، لا يمكنني تسجيل الدخول إلى البوابة باستخدام الهوية الرقمية. الأمر عاجل.,Technical support
+CR-600599,Call centre notes,English,Good morning. How long does it take to issue a new trade licence?,Licensing
 CR-600600,Call centre notes,English,Good morning. The app crashes when I upload a document. Thank you.,Technical support
 CR-600601,App,Arabic,السلام عليكم، لا أحد يرد على مركز الاتصال. الأمر عاجل.,Complaints
 CR-600602,App,English,"Hello, I want to file a complaint about the long waiting time.",Complaints
@@ -606,8 +606,8 @@ CR-600603,Web form,English,Good morning. The website is very slow today. Please 
 CR-600604,Web form,Arabic,مرحباً، هل يمكنني تمديد تأشيرة الزيارة لشهر آخر؟ الأمر عاجل.,Visa and residency
 CR-600605,App,Arabic,مرحباً، لماذا تم فرض غرامة تأخير علي؟ شكراً لكم.,Payments
 CR-600606,Web form,Arabic,صباح الخير. هل يمكنني دفع الرسوم على أقساط؟ شكراً لكم.,Payments
-CR-600607,Web form,Arabic,صباح الخير. النموذج لا يسمح لي بالإرسال. شكراً لكم.,Technical support
-CR-600608,Email,English,"Dear team, I cannot log in to the portal with my digital ID. This is urgent.",Technical support
+CR-600607,Web form,Arabic,صباح الخير. الاستمارة لا تسمح لي بالتقديم. شكراً لكم.,Technical support
+CR-600608,Email,English,"Dear team, I cannot log in to the portal using UAE PASS. This is urgent.",Technical support
 CR-600609,App,Arabic,كيف يمكنني كفالة والديّ؟,Visa and residency
 CR-600610,Call centre notes,Arabic,السلام عليكم، هل يمكنني دفع الرسوم على أقساط؟ الأمر عاجل.,Payments
 CR-600611,Call centre notes,Arabic,صباح الخير. لم أستلم إيصالاً بالدفع.,Payments
@@ -619,7 +619,7 @@ CR-600616,App,English,Good morning. Which documents do I need to add an activity
 CR-600617,App,Arabic,السلام عليكم، حصلت على معلومات خاطئة عند الكاونتر. شكراً لكم.,Complaints
 CR-600618,Email,Arabic,مرحباً، انتهت صلاحية رخصتي الأسبوع الماضي، هل يمكنني تجديدها عبر الإنترنت؟ الأمر عاجل.,Licensing
 CR-600619,Web form,English,Good morning. The app crashes when I upload a document. This is urgent.,Technical support
-CR-600620,Call centre notes,English,"Hello, I cannot log in to the portal with my digital ID. Please help.",Technical support
+CR-600620,Call centre notes,English,"Hello, I cannot log in to the portal using UAE PASS. Please help.",Technical support
 CR-600621,Email,English,Good morning. I need to change the company name on my licence. Please help.,Licensing
 CR-600622,App,Arabic,السلام عليكم، هل الفحص الطبي مطلوب لتجديد الإقامة؟ شكراً لكم.,Complaints
 CR-600623,App,Arabic,هل يمكنني تمديد تأشيرة الزيارة لشهر آخر؟,Visa and residency
@@ -628,25 +628,25 @@ CR-600625,Call centre notes,Arabic,صباح الخير. كم تستغرق مدة
 CR-600626,App,Arabic,مرحباً، صفحة الدفع لا تقبل بطاقتي.,Payments
 CR-600627,Call centre notes,English,"Hello, The website is very slow today.",Technical support
 CR-600628,Email,English,Which documents do I need to add an activity to my licence? Please help.,Licensing
-CR-600629,App,English,Good morning. I waited two hours and nobody served me. Thank you.,Complaints
+CR-600629,App,English,Good morning. I waited two hours and nobody assisted me. Thank you.,Complaints
 CR-600630,Web form,English,"Dear team, I paid the fee twice, please refund one payment. Please help.",Payments
 CR-600631,Email,Arabic,السلام عليكم، الموقع بطيء جداً اليوم. شكراً لكم.,Technical support
 CR-600632,Web form,English,"Hello, I was given wrong information at the counter. Please help.",Complaints
 CR-600633,Call centre notes,English,I want to file a complaint about the long waiting time. This is urgent.,Complaints
 CR-600634,Call centre notes,Arabic,لم أستلم إيصالاً بالدفع. شكراً لكم.,Payments
 CR-600635,Call centre notes,English,The form does not let me submit.,Technical support
-CR-600636,Call centre notes,Arabic,السلام عليكم، لا أستطيع تسجيل الدخول إلى البوابة باستخدام الهوية الرقمية.,Licensing
+CR-600636,Call centre notes,Arabic,السلام عليكم، لا يمكنني تسجيل الدخول إلى البوابة باستخدام الهوية الرقمية.,Licensing
 CR-600637,Web form,English,Good morning. Which documents do I need to add an activity to my licence?,Licensing
 CR-600638,Email,Arabic,هل يمكنني دفع الرسوم على أقساط؟ الأمر عاجل.,Payments
 CR-600639,App,Arabic,صباح الخير. صفحة الدفع لا تقبل بطاقتي. شكراً لكم.,Payments
-CR-600640,Call centre notes,English,Good morning. I cannot log in to the portal with my digital ID. Thank you.,Technical support
+CR-600640,Call centre notes,English,Good morning. I cannot log in to the portal using UAE PASS. Thank you.,Technical support
 CR-600641,Email,Arabic,مرحباً، الموقع بطيء جداً اليوم. الأمر عاجل.,Technical support
 CR-600642,Call centre notes,Arabic,صباح الخير. الموقع بطيء جداً اليوم. شكراً لكم.,Technical support
 CR-600643,App,English,"Hello, The payment page does not accept my card. This is urgent.",Payments
 CR-600644,Email,Arabic,هل يمكنني دفع الرسوم على أقساط؟,Payments
 CR-600645,App,Arabic,دفعت الرسوم مرتين، يرجى استرداد إحدى الدفعتين. شكراً لكم.,Payments
 CR-600646,App,Arabic,مرحباً، التطبيق يتوقف عند رفع مستند. شكراً لكم.,Technical support
-CR-600647,Email,Arabic,صباح الخير. النموذج لا يسمح لي بالإرسال.,Technical support
+CR-600647,Email,Arabic,صباح الخير. الاستمارة لا تسمح لي بالتقديم.,Technical support
 CR-600648,App,Arabic,السلام عليكم، انتهت صلاحية رخصتي الأسبوع الماضي، هل يمكنني تجديدها عبر الإنترنت؟,Licensing
 CR-600649,App,Arabic,صفحة الدفع لا تقبل بطاقتي. أرجو المساعدة.,Payments
 CR-600650,App,English,Good morning. Can I extend my visit visa for another month? Thank you.,Visa and residency
@@ -654,7 +654,7 @@ CR-600651,Call centre notes,Arabic,هل يمكنني تمديد تأشيرة ا�
 CR-600652,Call centre notes,English,Good morning. The app crashes when I upload a document. This is urgent.,Technical support
 CR-600653,Email,English,I did not receive a receipt for my payment. Thank you.,Payments
 CR-600654,Email,English,Good morning. The form does not let me submit. Thank you.,Technical support
-CR-600655,Call centre notes,English,I forgot my password and the reset link does not arrive. This is urgent.,Technical support
+CR-600655,Call centre notes,English,I forgot my password and the reset link is not reaching me. This is urgent.,Technical support
 CR-600656,Email,Arabic,السلام عليكم، لا أحد يرد على مركز الاتصال. أرجو المساعدة.,Complaints
 CR-600657,Email,Arabic,تم رفض طلب التأشيرة، ماذا يمكنني أن أفعل؟,Visa and residency
 CR-600658,Web form,English,Good morning. I need to change the company name on my licence. Please help.,Licensing
@@ -664,7 +664,7 @@ CR-600661,Call centre notes,Arabic,صباح الخير. هل الفحص الطب
 CR-600662,Email,English,My residency renewal has been pending for three weeks.,Visa and residency
 CR-600663,Call centre notes,English,The app crashes when I upload a document. Thank you.,Technical support
 CR-600664,Web form,English,"Good morning. My licence expired last week, can I still renew it online? Thank you.",Licensing
-CR-600665,Email,English,"Hello, How long does it take to issue a new business licence? Thank you.",Licensing
+CR-600665,Email,English,"Hello, How long does it take to issue a new trade licence? Thank you.",Licensing
 CR-600666,Call centre notes,Arabic,صباح الخير. طلب تجديد الإقامة معلق منذ ثلاثة أسابيع. شكراً لكم.,Visa and residency
 CR-600667,App,Arabic,صباح الخير. أحتاج إلى تغيير اسم الشركة في الرخصة. الأمر عاجل.,Licensing
 CR-600668,Call centre notes,Arabic,صباح الخير. لماذا تم فرض غرامة تأخير علي؟,Payments
@@ -675,21 +675,21 @@ CR-600672,Email,Arabic,كيف يمكنني كفالة والديّ؟ أرجو ا
 CR-600673,App,English,"Dear team, Can I extend my visit visa for another month? Thank you.",Visa and residency
 CR-600674,Email,English,Good morning. The form does not let me submit.,Technical support
 CR-600675,Web form,Arabic,التطبيق يتوقف عند رفع مستند. الأمر عاجل.,Technical support
-CR-600676,Web form,Arabic,النموذج لا يسمح لي بالإرسال.,Technical support
+CR-600676,Web form,Arabic,الاستمارة لا تسمح لي بالتقديم.,Technical support
 CR-600677,App,Arabic,مرحباً، لا أحد يرد على مركز الاتصال. أرجو المساعدة.,Complaints
 CR-600678,Email,English,"Dear team, Can I pay the fees in instalments? Thank you.",Payments
 CR-600679,Web form,English,Is a medical test required for a residency renewal? Thank you.,Visa and residency
 CR-600680,Email,English,"Dear team, Can I pay the fees in instalments? Thank you.",Payments
 CR-600681,Email,Arabic,لم أستلم إيصالاً بالدفع.,Payments
 CR-600682,Call centre notes,Arabic,صباح الخير. دفعت الرسوم مرتين، يرجى استرداد إحدى الدفعتين. شكراً لكم.,Payments
-CR-600683,Call centre notes,Arabic,صباح الخير. لا أستطيع تسجيل الدخول إلى البوابة باستخدام الهوية الرقمية. أرجو المساعدة.,Technical support
+CR-600683,Call centre notes,Arabic,صباح الخير. لا يمكنني تسجيل الدخول إلى البوابة باستخدام الهوية الرقمية. أرجو المساعدة.,Technical support
 CR-600684,Email,Arabic,مرحباً، الموقع بطيء جداً اليوم.,Technical support
 CR-600685,App,English,"Hello, Can I pay the fees in instalments? Thank you.",Payments
 CR-600686,Call centre notes,Arabic,السلام عليكم، ما هي المستندات المطلوبة لإضافة نشاط إلى الرخصة؟,Licensing
 CR-600687,Call centre notes,English,"Dear team, I paid the fee twice, please refund one payment. Please help.",Payments
-CR-600688,App,English,"Hello, How long does it take to issue a new business licence? Thank you.",Licensing
+CR-600688,App,English,"Hello, How long does it take to issue a new trade licence? Thank you.",Licensing
 CR-600689,Web form,Arabic,صفحة الدفع لا تقبل بطاقتي. أرجو المساعدة.,Payments
-CR-600690,App,English,Good morning. How long does it take to issue a new business licence?,Licensing
+CR-600690,App,English,Good morning. How long does it take to issue a new trade licence?,Licensing
 CR-600691,Email,Arabic,السلام عليكم، انتهت صلاحية رخصتي الأسبوع الماضي، هل يمكنني تجديدها عبر الإنترنت؟ أرجو المساعدة.,Licensing
 CR-600692,Call centre notes,English,Good morning. The website is very slow today.,Technical support
 CR-600693,App,English,"Hello, I want to renew my trade licence but the system shows an error.",Licensing
@@ -713,9 +713,9 @@ CR-600710,Call centre notes,English,"Hello, How can I sponsor my parents? Please
 CR-600711,Call centre notes,Arabic,مرحباً، كيف يمكنني كفالة والديّ؟ أرجو المساعدة.,Visa and residency
 CR-600712,Call centre notes,English,Which documents do I need to add an activity to my licence? This is urgent.,Licensing
 CR-600713,Web form,English,Good morning. Nobody answers the call centre. Please help.,Complaints
-CR-600714,App,Arabic,النموذج لا يسمح لي بالإرسال. شكراً لكم.,Technical support
+CR-600714,App,Arabic,الاستمارة لا تسمح لي بالتقديم. شكراً لكم.,Technical support
 CR-600715,Web form,English,"Hello, I need to change the company name on my licence.",Licensing
-CR-600716,Call centre notes,English,Good morning. I cannot log in to the portal with my digital ID. Please help.,Technical support
+CR-600716,Call centre notes,English,Good morning. I cannot log in to the portal using UAE PASS. Please help.,Technical support
 CR-600717,Web form,Arabic,مرحباً، لماذا تم فرض غرامة تأخير علي؟ الأمر عاجل.,Payments
 CR-600718,Email,English,"Dear team, My residency renewal has been pending for three weeks. Thank you.",Visa and residency
 CR-600719,App,English,"Hello, The staff at the service centre were not helpful. Please help.",Complaints
@@ -733,14 +733,14 @@ CR-600730,App,Arabic,انتهت صلاحية رخصتي الأسبوع الما�
 CR-600731,App,English,"Dear team, My visa application was rejected, what can I do?",Visa and residency
 CR-600732,Call centre notes,Arabic,صباح الخير. هل الفحص الطبي مطلوب لتجديد الإقامة؟ الأمر عاجل.,Visa and residency
 CR-600733,Call centre notes,English,"Hello, My visa application was rejected, what can I do? Thank you.",Visa and residency
-CR-600734,Email,Arabic,صباح الخير. لا أستطيع تسجيل الدخول إلى البوابة باستخدام الهوية الرقمية. شكراً لكم.,Technical support
+CR-600734,Email,Arabic,صباح الخير. لا يمكنني تسجيل الدخول إلى البوابة باستخدام الهوية الرقمية. شكراً لكم.,Technical support
 CR-600735,App,Arabic,صباح الخير. نسيت كلمة المرور ورابط إعادة التعيين لا يصل. شكراً لكم.,Technical support
-CR-600736,Call centre notes,Arabic,السلام عليكم، النموذج لا يسمح لي بالإرسال. أرجو المساعدة.,Technical support
+CR-600736,Call centre notes,Arabic,السلام عليكم، الاستمارة لا تسمح لي بالتقديم. أرجو المساعدة.,Technical support
 CR-600737,Email,Arabic,تم رفض طلب التأشيرة، ماذا يمكنني أن أفعل؟ أرجو المساعدة.,Visa and residency
 CR-600738,Web form,Arabic,مرحباً، هل الفحص الطبي مطلوب لتجديد الإقامة؟ الأمر عاجل.,Visa and residency
 CR-600739,Web form,Arabic,السلام عليكم، أرغب في تقديم شكوى بشأن طول وقت الانتظار. شكراً لكم.,Complaints
 CR-600740,Email,English,Good morning. The app crashes when I upload a document. This is urgent.,Technical support
-CR-600741,App,Arabic,السلام عليكم، لا أستطيع تسجيل الدخول إلى البوابة باستخدام الهوية الرقمية. أرجو المساعدة.,Technical support
+CR-600741,App,Arabic,السلام عليكم، لا يمكنني تسجيل الدخول إلى البوابة باستخدام الهوية الرقمية. أرجو المساعدة.,Technical support
 CR-600742,Email,English,"Dear team, The app crashes when I upload a document. Please help.",Complaints
 CR-600743,Web form,Arabic,صباح الخير. هل الفحص الطبي مطلوب لتجديد الإقامة؟ أرجو المساعدة.,Visa and residency
 CR-600744,Email,Arabic,انتظرت ساعتين ولم يخدمني أحد.,Complaints
@@ -752,7 +752,7 @@ CR-600749,Web form,English,"Dear team, Is a medical test required for a residenc
 CR-600750,Call centre notes,Arabic,مرحباً، كيف يمكنني كفالة والديّ؟ شكراً لكم.,Visa and residency
 CR-600751,Web form,English,"Good morning. I paid the fee twice, please refund one payment. Please help.",Payments
 CR-600752,Web form,Arabic,صباح الخير. كيف يمكنني كفالة والديّ؟ الأمر عاجل.,Visa and residency
-CR-600753,App,English,"Dear team, I waited two hours and nobody served me. Thank you.",Complaints
+CR-600753,App,English,"Dear team, I waited two hours and nobody assisted me. Thank you.",Complaints
 CR-600754,Call centre notes,English,The website is very slow today. Thank you.,Technical support
 CR-600755,Call centre notes,English,Good morning. The staff at the service centre were not helpful. This is urgent.,Complaints
 CR-600756,Web form,English,"Hello, How can I sponsor my parents? Thank you.",Visa and residency
@@ -762,16 +762,16 @@ CR-600759,App,Arabic,السلام عليكم، دفعت الرسوم مرتين�
 CR-600760,App,Arabic,السلام عليكم، انتهت صلاحية رخصتي الأسبوع الماضي، هل يمكنني تجديدها عبر الإنترنت؟ أرجو المساعدة.,Licensing
 CR-600761,Email,Arabic,صباح الخير. أرغب في تجديد الرخصة التجارية لكن النظام يظهر خطأ. الأمر عاجل.,Licensing
 CR-600762,Web form,English,Good morning. I did not receive a receipt for my payment.,Payments
-CR-600763,App,English,How long does it take to issue a new business licence? Please help.,Licensing
+CR-600763,App,English,How long does it take to issue a new trade licence? Please help.,Licensing
 CR-600764,Call centre notes,Arabic,مرحباً، لم أستلم إيصالاً بالدفع. شكراً لكم.,Payments
 CR-600765,Call centre notes,Arabic,طلب تجديد الإقامة معلق منذ ثلاثة أسابيع. الأمر عاجل.,Visa and residency
 CR-600766,Email,Arabic,صباح الخير. لماذا تم فرض غرامة تأخير علي؟ الأمر عاجل.,Licensing
 CR-600767,Call centre notes,Arabic,لماذا تم فرض غرامة تأخير علي؟ شكراً لكم.,Payments
 CR-600768,Web form,Arabic,صباح الخير. طلب تجديد الإقامة معلق منذ ثلاثة أسابيع.,Visa and residency
-CR-600769,App,English,"Hello, I cannot log in to the portal with my digital ID.",Technical support
+CR-600769,App,English,"Hello, I cannot log in to the portal using UAE PASS.",Technical support
 CR-600770,Call centre notes,Arabic,كم تستغرق مدة إصدار رخصة تجارية جديدة؟,Licensing
 CR-600771,Email,Arabic,هل يمكنني دفع الرسوم على أقساط؟ أرجو المساعدة.,Payments
-CR-600772,Call centre notes,Arabic,النموذج لا يسمح لي بالإرسال. شكراً لكم.,Technical support
+CR-600772,Call centre notes,Arabic,الاستمارة لا تسمح لي بالتقديم. شكراً لكم.,Technical support
 CR-600773,App,Arabic,لا أحد يرد على مركز الاتصال. أرجو المساعدة.,Complaints
 CR-600774,Call centre notes,Arabic,السلام عليكم، كيف يمكنني كفالة والديّ؟,Visa and residency
 CR-600775,App,Arabic,مرحباً، طلب تجديد الإقامة معلق منذ ثلاثة أسابيع. شكراً لكم.,Visa and residency
@@ -781,7 +781,7 @@ CR-600778,Email,Arabic,السلام عليكم، هل يمكنني تمديد ت
 CR-600779,App,Arabic,دفعت الرسوم مرتين، يرجى استرداد إحدى الدفعتين. الأمر عاجل.,Payments
 CR-600780,App,Arabic,مرحباً، كم تستغرق مدة إصدار رخصة تجارية جديدة؟ شكراً لكم.,Licensing
 CR-600781,App,English,"Dear team, I was given wrong information at the counter. Thank you.",Complaints
-CR-600782,Web form,Arabic,السلام عليكم، لا أستطيع تسجيل الدخول إلى البوابة باستخدام الهوية الرقمية. أرجو المساعدة.,Technical support
+CR-600782,Web form,Arabic,السلام عليكم، لا يمكنني تسجيل الدخول إلى البوابة باستخدام الهوية الرقمية. أرجو المساعدة.,Technical support
 CR-600783,Call centre notes,Arabic,مرحباً، تم رفض طلب التأشيرة، ماذا يمكنني أن أفعل؟ أرجو المساعدة.,Visa and residency
 CR-600784,Web form,Arabic,هل الفحص الطبي مطلوب لتجديد الإقامة؟ الأمر عاجل.,Visa and residency
 CR-600785,Call centre notes,Arabic,السلام عليكم، صفحة الدفع لا تقبل بطاقتي. شكراً لكم.,Payments
@@ -789,10 +789,10 @@ CR-600786,Email,English,"Dear team, Can I extend my visit visa for another month
 CR-600787,Call centre notes,English,"Dear team, I did not receive a receipt for my payment. This is urgent.",Payments
 CR-600788,Email,Arabic,السلام عليكم، هل الفحص الطبي مطلوب لتجديد الإقامة؟ الأمر عاجل.,Visa and residency
 CR-600789,Email,Arabic,أحتاج إلى تغيير اسم الشركة في الرخصة. شكراً لكم.,Licensing
-CR-600790,Web form,English,I cannot log in to the portal with my digital ID. Thank you.,Complaints
-CR-600791,App,English,I forgot my password and the reset link does not arrive. Thank you.,Technical support
-CR-600792,App,English,Good morning. How long does it take to issue a new business licence? Thank you.,Licensing
-CR-600793,Web form,Arabic,صباح الخير. النموذج لا يسمح لي بالإرسال. أرجو المساعدة.,Technical support
+CR-600790,Web form,English,I cannot log in to the portal using UAE PASS. Thank you.,Complaints
+CR-600791,App,English,I forgot my password and the reset link is not reaching me. Thank you.,Technical support
+CR-600792,App,English,Good morning. How long does it take to issue a new trade licence? Thank you.,Licensing
+CR-600793,Web form,Arabic,صباح الخير. الاستمارة لا تسمح لي بالتقديم. أرجو المساعدة.,Technical support
 CR-600794,App,English,Good morning. How can I sponsor my parents? Please help.,Visa and residency
 CR-600795,Email,English,The form does not let me submit.,Technical support
 CR-600796,Email,Arabic,مرحباً، لم أستلم إيصالاً بالدفع. الأمر عاجل.,Payments
@@ -807,7 +807,7 @@ CR-600804,Call centre notes,English,"Hello, Which documents do I need to add an 
 CR-600805,Email,Arabic,مرحباً، الموظفون في مركز الخدمة لم يكونوا متعاونين. أرجو المساعدة.,Complaints
 CR-600806,Web form,Arabic,صباح الخير. كيف يمكنني كفالة والديّ؟ شكراً لكم.,Visa and residency
 CR-600807,Web form,English,"Hello, My visa application was rejected, what can I do? Thank you.",Visa and residency
-CR-600808,App,English,"Dear team, How long does it take to issue a new business licence? This is urgent.",Licensing
+CR-600808,App,English,"Dear team, How long does it take to issue a new trade licence? This is urgent.",Licensing
 CR-600809,Web form,Arabic,مرحباً، التطبيق يتوقف عند رفع مستند. الأمر عاجل.,Technical support
 CR-600810,App,Arabic,السلام عليكم، طلب تجديد الإقامة معلق منذ ثلاثة أسابيع. شكراً لكم.,Visa and residency
 CR-600811,App,English,Good morning. Which documents do I need to add an activity to my licence?,Licensing
@@ -816,7 +816,7 @@ CR-600813,Web form,English,"Hello, How can I sponsor my parents? Thank you.",Vis
 CR-600814,Web form,Arabic,صباح الخير. طلب تجديد الإقامة معلق منذ ثلاثة أسابيع. الأمر عاجل.,Visa and residency
 CR-600815,Call centre notes,English,"Hello, My visa application was rejected, what can I do? Please help.",Visa and residency
 CR-600816,Email,English,"Dear team, How can I sponsor my parents? Thank you.",Visa and residency
-CR-600817,App,English,"Dear team, I forgot my password and the reset link does not arrive. This is urgent.",Technical support
+CR-600817,App,English,"Dear team, I forgot my password and the reset link is not reaching me. This is urgent.",Technical support
 CR-600818,App,Arabic,السلام عليكم، أرغب في تجديد الرخصة التجارية لكن النظام يظهر خطأ.,Licensing
 CR-600819,Web form,Arabic,هل يمكنني تمديد تأشيرة الزيارة لشهر آخر؟ الأمر عاجل.,Visa and residency
 CR-600820,Email,Arabic,صباح الخير. لا أحد يرد على مركز الاتصال.,Complaints
@@ -831,7 +831,7 @@ CR-600828,Web form,English,Why was I charged a late fee? Thank you.,Payments
 CR-600829,Email,Arabic,مرحباً، أحتاج إلى تغيير اسم الشركة في الرخصة. شكراً لكم.,Licensing
 CR-600830,Call centre notes,Arabic,صباح الخير. هل الفحص الطبي مطلوب لتجديد الإقامة؟ شكراً لكم.,Visa and residency
 CR-600831,Email,Arabic,مرحباً، هل الفحص الطبي مطلوب لتجديد الإقامة؟,Visa and residency
-CR-600832,Web form,English,"Hello, I forgot my password and the reset link does not arrive. Thank you.",Technical support
+CR-600832,Web form,English,"Hello, I forgot my password and the reset link is not reaching me. Thank you.",Technical support
 CR-600833,App,Arabic,السلام عليكم، طلب تجديد الإقامة معلق منذ ثلاثة أسابيع. شكراً لكم.,Visa and residency
 CR-600834,Call centre notes,English,Can I pay the fees in instalments? Thank you.,Payments
 CR-600835,App,English,Good morning. How can I sponsor my parents? This is urgent.,Visa and residency
@@ -849,14 +849,14 @@ CR-600846,App,Arabic,مرحباً، أرغب في تجديد الرخصة الت
 CR-600847,App,Arabic,السلام عليكم، لماذا تم فرض غرامة تأخير علي؟ أرجو المساعدة.,Payments
 CR-600848,App,Arabic,مرحباً، انتظرت ساعتين ولم يخدمني أحد. شكراً لكم.,Complaints
 CR-600849,Web form,Arabic,صباح الخير. هل يمكنني تمديد تأشيرة الزيارة لشهر آخر؟ شكراً لكم.,Visa and residency
-CR-600850,Email,English,"Dear team, I waited two hours and nobody served me. This is urgent.",Complaints
+CR-600850,Email,English,"Dear team, I waited two hours and nobody assisted me. This is urgent.",Complaints
 CR-600851,Call centre notes,English,"Hello, My visa application was rejected, what can I do?",Visa and residency
 CR-600852,Web form,Arabic,صباح الخير. انتهت صلاحية رخصتي الأسبوع الماضي، هل يمكنني تجديدها عبر الإنترنت؟ شكراً لكم.,Licensing
 CR-600853,Email,English,"Hello, My licence expired last week, can I still renew it online?",Licensing
-CR-600854,App,English,"Hello, I cannot log in to the portal with my digital ID. Thank you.",Technical support
-CR-600855,Web form,English,How long does it take to issue a new business licence?,Licensing
+CR-600854,App,English,"Hello, I cannot log in to the portal using UAE PASS. Thank you.",Technical support
+CR-600855,Web form,English,How long does it take to issue a new trade licence?,Licensing
 CR-600856,Email,Arabic,صباح الخير. لم أستلم إيصالاً بالدفع. الأمر عاجل.,Payments
-CR-600857,Email,English,"Hello, I waited two hours and nobody served me. Please help.",Complaints
+CR-600857,Email,English,"Hello, I waited two hours and nobody assisted me. Please help.",Complaints
 CR-600858,Web form,English,I want to file a complaint about the long waiting time. Please help.,Complaints
 CR-600859,App,English,"Hello, Can I extend my visit visa for another month?",Visa and residency
 CR-600860,App,English,"Good morning. I paid the fee twice, please refund one payment.",Payments
@@ -866,8 +866,8 @@ CR-600863,Email,Arabic,السلام عليكم، أرغب في تجديد الر
 CR-600864,Web form,Arabic,مرحباً، هل الفحص الطبي مطلوب لتجديد الإقامة؟ شكراً لكم.,Visa and residency
 CR-600865,Call centre notes,English,"Dear team, My licence expired last week, can I still renew it online? Thank you.",Licensing
 CR-600866,Web form,English,"Dear team, My visa application was rejected, what can I do? Please help.",Visa and residency
-CR-600867,Email,English,"Dear team, I waited two hours and nobody served me. Thank you.",Complaints
-CR-600868,Web form,English,I forgot my password and the reset link does not arrive.,Technical support
+CR-600867,Email,English,"Dear team, I waited two hours and nobody assisted me. Thank you.",Complaints
+CR-600868,Web form,English,I forgot my password and the reset link is not reaching me.,Technical support
 CR-600869,Email,English,"Dear team, I did not receive a receipt for my payment. Thank you.",Payments
 CR-600870,Call centre notes,English,Good morning. I did not receive a receipt for my payment. Please help.,Payments
 CR-600871,App,Arabic,السلام عليكم، تم رفض طلب التأشيرة، ماذا يمكنني أن أفعل؟,Visa and residency
@@ -889,7 +889,7 @@ CR-600886,Email,Arabic,طلب تجديد الإقامة معلق منذ ثلاث
 CR-600887,App,English,"Hello, Why was I charged a late fee? Thank you.",Payments
 CR-600888,App,English,The website is very slow today.,Technical support
 CR-600889,Call centre notes,Arabic,كيف يمكنني كفالة والديّ؟,Visa and residency
-CR-600890,Email,Arabic,لا أستطيع تسجيل الدخول إلى البوابة باستخدام الهوية الرقمية. الأمر عاجل.,Technical support
+CR-600890,Email,Arabic,لا يمكنني تسجيل الدخول إلى البوابة باستخدام الهوية الرقمية. الأمر عاجل.,Technical support
 CR-600891,App,Arabic,كيف يمكنني كفالة والديّ؟ شكراً لكم.,Visa and residency
 CR-600892,Web form,Arabic,مرحباً، كم تستغرق مدة إصدار رخصة تجارية جديدة؟ شكراً لكم.,Licensing
 CR-600893,Web form,English,"Hello, I want to renew my trade licence but the system shows an error.",Licensing
@@ -901,19 +901,19 @@ CR-600898,Call centre notes,English,"Dear team, The website is very slow today. 
 CR-600899,Web form,English,"Dear team, The website is very slow today.",Technical support
 CR-600900,App,English,"Hello, The website is very slow today. Thank you.",Technical support
 CR-600901,App,Arabic,صباح الخير. كم تستغرق مدة إصدار رخصة تجارية جديدة؟ الأمر عاجل.,Licensing
-CR-600902,Call centre notes,English,Good morning. How long does it take to issue a new business licence? This is urgent.,Licensing
+CR-600902,Call centre notes,English,Good morning. How long does it take to issue a new trade licence? This is urgent.,Licensing
 CR-600903,App,Arabic,مرحباً، انتهت صلاحية رخصتي الأسبوع الماضي، هل يمكنني تجديدها عبر الإنترنت؟,Licensing
-CR-600904,Call centre notes,English,"Hello, How long does it take to issue a new business licence? This is urgent.",Licensing
+CR-600904,Call centre notes,English,"Hello, How long does it take to issue a new trade licence? This is urgent.",Licensing
 CR-600905,Email,Arabic,هل يمكنني دفع الرسوم على أقساط؟,Payments
 CR-600906,Web form,Arabic,أرغب في تقديم شكوى بشأن طول وقت الانتظار. شكراً لكم.,Complaints
 CR-600907,Email,English,"Dear team, My residency renewal has been pending for three weeks. Thank you.",Visa and residency
 CR-600908,App,Arabic,لماذا تم فرض غرامة تأخير علي؟ الأمر عاجل.,Payments
 CR-600909,Email,English,"Hello, Is a medical test required for a residency renewal? Thank you.",Visa and residency
-CR-600910,App,Arabic,لا أستطيع تسجيل الدخول إلى البوابة باستخدام الهوية الرقمية.,Technical support
+CR-600910,App,Arabic,لا يمكنني تسجيل الدخول إلى البوابة باستخدام الهوية الرقمية.,Technical support
 CR-600911,Web form,Arabic,السلام عليكم، هل الفحص الطبي مطلوب لتجديد الإقامة؟ شكراً لكم.,Visa and residency
 CR-600912,Web form,English,"Dear team, I was given wrong information at the counter. This is urgent.",Complaints
-CR-600913,Web form,Arabic,صباح الخير. النموذج لا يسمح لي بالإرسال. أرجو المساعدة.,Technical support
-CR-600914,Web form,Arabic,لا أستطيع تسجيل الدخول إلى البوابة باستخدام الهوية الرقمية. الأمر عاجل.,Technical support
+CR-600913,Web form,Arabic,صباح الخير. الاستمارة لا تسمح لي بالتقديم. أرجو المساعدة.,Technical support
+CR-600914,Web form,Arabic,لا يمكنني تسجيل الدخول إلى البوابة باستخدام الهوية الرقمية. الأمر عاجل.,Technical support
 CR-600915,Email,English,Good morning. I did not receive a receipt for my payment. Please help.,Payments
 CR-600916,Call centre notes,English,The website is very slow today.,Technical support
 CR-600917,Web form,English,"Dear team, I was given wrong information at the counter. Thank you.",Complaints
@@ -922,15 +922,15 @@ CR-600919,Call centre notes,Arabic,السلام عليكم، التطبيق يت
 CR-600920,App,English,My residency renewal has been pending for three weeks. Thank you.,Visa and residency
 CR-600921,Email,Arabic,صباح الخير. نسيت كلمة المرور ورابط إعادة التعيين لا يصل. أرجو المساعدة.,Technical support
 CR-600922,Call centre notes,Arabic,مرحباً، انتهت صلاحية رخصتي الأسبوع الماضي، هل يمكنني تجديدها عبر الإنترنت؟ أرجو المساعدة.,Licensing
-CR-600923,Call centre notes,English,"Hello, I waited two hours and nobody served me. Please help.",Complaints
+CR-600923,Call centre notes,English,"Hello, I waited two hours and nobody assisted me. Please help.",Complaints
 CR-600924,Email,Arabic,تم رفض طلب التأشيرة، ماذا يمكنني أن أفعل؟ شكراً لكم.,Visa and residency
 CR-600925,Web form,Arabic,مرحباً، هل يمكنني تمديد تأشيرة الزيارة لشهر آخر؟ شكراً لكم.,Visa and residency
 CR-600926,Email,English,My residency renewal has been pending for three weeks. This is urgent.,Visa and residency
-CR-600927,App,English,"Hello, I cannot log in to the portal with my digital ID. Please help.",Technical support
+CR-600927,App,English,"Hello, I cannot log in to the portal using UAE PASS. Please help.",Technical support
 CR-600928,App,Arabic,مرحباً، انتظرت ساعتين ولم يخدمني أحد. شكراً لكم.,Complaints
 CR-600929,App,English,"Hello, The form does not let me submit.",Visa and residency
 CR-600930,Email,Arabic,هل يمكنني تمديد تأشيرة الزيارة لشهر آخر؟ شكراً لكم.,Visa and residency
-CR-600931,Email,English,Good morning. I cannot log in to the portal with my digital ID. Thank you.,Technical support
+CR-600931,Email,English,Good morning. I cannot log in to the portal using UAE PASS. Thank you.,Technical support
 CR-600932,Email,English,Good morning. Nobody answers the call centre. Please help.,Complaints
 CR-600933,Email,Arabic,الموقع بطيء جداً اليوم. شكراً لكم.,Technical support
 CR-600934,Web form,Arabic,مرحباً، أرغب في تقديم شكوى بشأن طول وقت الانتظار.,Complaints
@@ -969,12 +969,12 @@ CR-600966,App,Arabic,السلام عليكم، هل يمكنني تمديد تأ
 CR-600967,Email,Arabic,السلام عليكم، التطبيق يتوقف عند رفع مستند. أرجو المساعدة.,Technical support
 CR-600968,App,Arabic,مرحباً، كم تستغرق مدة إصدار رخصة تجارية جديدة؟ الأمر عاجل.,Licensing
 CR-600969,Email,Arabic,صباح الخير. هل الفحص الطبي مطلوب لتجديد الإقامة؟ شكراً لكم.,Visa and residency
-CR-600970,Call centre notes,English,I cannot log in to the portal with my digital ID. This is urgent.,Technical support
+CR-600970,Call centre notes,English,I cannot log in to the portal using UAE PASS. This is urgent.,Technical support
 CR-600971,App,Arabic,ما هي المستندات المطلوبة لإضافة نشاط إلى الرخصة؟ الأمر عاجل.,Licensing
 CR-600972,Email,Arabic,مرحباً، هل يمكنني دفع الرسوم على أقساط؟ شكراً لكم.,Payments
 CR-600973,App,Arabic,تم رفض طلب التأشيرة، ماذا يمكنني أن أفعل؟ شكراً لكم.,Visa and residency
-CR-600974,Call centre notes,English,Good morning. How long does it take to issue a new business licence? Thank you.,Licensing
-CR-600975,Web form,Arabic,صباح الخير. النموذج لا يسمح لي بالإرسال. أرجو المساعدة.,Technical support
+CR-600974,Call centre notes,English,Good morning. How long does it take to issue a new trade licence? Thank you.,Licensing
+CR-600975,Web form,Arabic,صباح الخير. الاستمارة لا تسمح لي بالتقديم. أرجو المساعدة.,Technical support
 CR-600976,App,English,"Hello, Why was I charged a late fee? Please help.",Payments
 CR-600977,Call centre notes,Arabic,السلام عليكم، لم أستلم إيصالاً بالدفع. الأمر عاجل.,Payments
 CR-600978,App,Arabic,مرحباً، أحتاج إلى تغيير اسم الشركة في الرخصة. شكراً لكم.,Licensing
@@ -986,7 +986,7 @@ CR-600983,App,Arabic,صباح الخير. نسيت كلمة المرور ورا�
 CR-600984,Web form,Arabic,صباح الخير. كم تستغرق مدة إصدار رخصة تجارية جديدة؟ أرجو المساعدة.,Licensing
 CR-600985,Email,Arabic,صفحة الدفع لا تقبل بطاقتي. الأمر عاجل.,Payments
 CR-600986,Call centre notes,Arabic,مرحباً، أرغب في تجديد الرخصة التجارية لكن النظام يظهر خطأ. الأمر عاجل.,Licensing
-CR-600987,Call centre notes,English,How long does it take to issue a new business licence? This is urgent.,Licensing
+CR-600987,Call centre notes,English,How long does it take to issue a new trade licence? This is urgent.,Licensing
 CR-600988,Email,English,"Dear team, I did not receive a receipt for my payment. This is urgent.",Payments
 CR-600989,Call centre notes,English,"Hello, I want to renew my trade licence but the system shows an error. This is urgent.",Licensing
 CR-600990,Email,Arabic,السلام عليكم، انتهت صلاحية رخصتي الأسبوع الماضي، هل يمكنني تجديدها عبر الإنترنت؟,Licensing
@@ -999,8 +999,8 @@ CR-600996,Web form,English,"Dear team, Is a medical test required for a residenc
 CR-600997,Web form,Arabic,صباح الخير. أرغب في تقديم شكوى بشأن طول وقت الانتظار.,Complaints
 CR-600998,Email,Arabic,السلام عليكم، لماذا تم فرض غرامة تأخير علي؟ شكراً لكم.,Payments
 CR-600999,Call centre notes,Arabic,صباح الخير. نسيت كلمة المرور ورابط إعادة التعيين لا يصل. أرجو المساعدة.,Technical support
-CR-601000,Call centre notes,Arabic,لا أستطيع تسجيل الدخول إلى البوابة باستخدام الهوية الرقمية. الأمر عاجل.,Technical support
-CR-601001,Email,Arabic,السلام عليكم، النموذج لا يسمح لي بالإرسال. أرجو المساعدة.,Technical support
+CR-601000,Call centre notes,Arabic,لا يمكنني تسجيل الدخول إلى البوابة باستخدام الهوية الرقمية. الأمر عاجل.,Technical support
+CR-601001,Email,Arabic,السلام عليكم، الاستمارة لا تسمح لي بالتقديم. أرجو المساعدة.,Technical support
 CR-601002,Call centre notes,English,Good morning. Can I extend my visit visa for another month? This is urgent.,Visa and residency
 CR-601003,Web form,Arabic,لماذا تم فرض غرامة تأخير علي؟,Payments
 CR-601004,Email,English,The app crashes when I upload a document.,Technical support
@@ -1011,7 +1011,7 @@ CR-601008,App,English,"Hello, Why was I charged a late fee?",Payments
 CR-601009,Call centre notes,Arabic,صباح الخير. أحتاج إلى تغيير اسم الشركة في الرخصة. أرجو المساعدة.,Licensing
 CR-601010,App,English,"Dear team, The form does not let me submit. Please help.",Technical support
 CR-601011,App,Arabic,انتظرت ساعتين ولم يخدمني أحد. شكراً لكم.,Complaints
-CR-601012,Call centre notes,English,"Hello, I waited two hours and nobody served me. This is urgent.",Complaints
+CR-601012,Call centre notes,English,"Hello, I waited two hours and nobody assisted me. This is urgent.",Complaints
 CR-601013,Call centre notes,English,Nobody answers the call centre. Thank you.,Complaints
 CR-601014,Email,English,"Dear team, I paid the fee twice, please refund one payment.",Payments
 CR-601015,Call centre notes,Arabic,صباح الخير. أرغب في تقديم شكوى بشأن طول وقت الانتظار. الأمر عاجل.,Complaints
@@ -1033,7 +1033,7 @@ CR-601030,Call centre notes,Arabic,السلام عليكم، ما هي المس�
 CR-601031,App,English,Good morning. Can I pay the fees in instalments? Thank you.,Payments
 CR-601032,Call centre notes,English,"Dear team, My residency renewal has been pending for three weeks. This is urgent.",Visa and residency
 CR-601033,Email,Arabic,مرحباً، هل الفحص الطبي مطلوب لتجديد الإقامة؟ أرجو المساعدة.,Visa and residency
-CR-601034,Web form,English,Good morning. I forgot my password and the reset link does not arrive. Thank you.,Complaints
+CR-601034,Web form,English,Good morning. I forgot my password and the reset link is not reaching me. Thank you.,Complaints
 CR-601035,App,Arabic,مرحباً، الموقع بطيء جداً اليوم. شكراً لكم.,Technical support
 CR-601036,Email,Arabic,السلام عليكم، لماذا تم فرض غرامة تأخير علي؟,Payments
 CR-601037,Email,English,Good morning. Can I pay the fees in instalments?,Payments
@@ -1060,15 +1060,15 @@ CR-601057,Web form,English,"Hello, I was given wrong information at the counter.
 CR-601058,App,English,"Dear team, Which documents do I need to add an activity to my licence? Thank you.",Licensing
 CR-601059,Email,English,"Hello, How can I sponsor my parents?",Visa and residency
 CR-601060,Web form,Arabic,مرحباً، الموقع بطيء جداً اليوم. شكراً لكم.,Technical support
-CR-601061,App,Arabic,النموذج لا يسمح لي بالإرسال.,Technical support
+CR-601061,App,Arabic,الاستمارة لا تسمح لي بالتقديم.,Technical support
 CR-601062,Call centre notes,Arabic,مرحباً، طلب تجديد الإقامة معلق منذ ثلاثة أسابيع.,Visa and residency
 CR-601063,App,Arabic,لا أحد يرد على مركز الاتصال. شكراً لكم.,Complaints
 CR-601064,Email,Arabic,صباح الخير. كيف يمكنني كفالة والديّ؟ أرجو المساعدة.,Visa and residency
 CR-601065,App,English,"Dear team, The form does not let me submit. Please help.",Technical support
-CR-601066,Call centre notes,English,"Hello, How long does it take to issue a new business licence?",Licensing
+CR-601066,Call centre notes,English,"Hello, How long does it take to issue a new trade licence?",Licensing
 CR-601067,Email,English,"Dear team, The staff at the service centre were not helpful. Thank you.",Complaints
 CR-601068,Web form,English,Can I extend my visit visa for another month? This is urgent.,Visa and residency
-CR-601069,Email,English,"Dear team, How long does it take to issue a new business licence? Thank you.",Licensing
+CR-601069,Email,English,"Dear team, How long does it take to issue a new trade licence? Thank you.",Licensing
 CR-601070,Web form,English,Good morning. Which documents do I need to add an activity to my licence? Please help.,Licensing
 CR-601071,App,English,Good morning. How can I sponsor my parents? Please help.,Visa and residency
 CR-601072,App,Arabic,صباح الخير. كيف يمكنني كفالة والديّ؟ شكراً لكم.,Visa and residency
@@ -1077,12 +1077,12 @@ CR-601074,App,Arabic,مرحباً، هل يمكنني تمديد تأشيرة ا
 CR-601075,Web form,English,"Hello, I did not receive a receipt for my payment. Thank you.",Payments
 CR-601076,Web form,English,"Dear team, Why was I charged a late fee? Please help.",Payments
 CR-601077,Web form,English,"Hello, The website is very slow today. Please help.",Technical support
-CR-601078,Email,English,I waited two hours and nobody served me.,Complaints
+CR-601078,Email,English,I waited two hours and nobody assisted me.,Complaints
 CR-601079,Call centre notes,Arabic,السلام عليكم، كم تستغرق مدة إصدار رخصة تجارية جديدة؟ أرجو المساعدة.,Licensing
 CR-601080,App,English,"Hello, Which documents do I need to add an activity to my licence? Please help.",Licensing
-CR-601081,App,Arabic,مرحباً، النموذج لا يسمح لي بالإرسال.,Technical support
-CR-601082,Email,Arabic,النموذج لا يسمح لي بالإرسال. شكراً لكم.,Technical support
-CR-601083,App,English,Good morning. I waited two hours and nobody served me.,Complaints
+CR-601081,App,Arabic,مرحباً، الاستمارة لا تسمح لي بالتقديم.,Technical support
+CR-601082,Email,Arabic,الاستمارة لا تسمح لي بالتقديم. شكراً لكم.,Technical support
+CR-601083,App,English,Good morning. I waited two hours and nobody assisted me.,Complaints
 CR-601084,Email,Arabic,صباح الخير. صفحة الدفع لا تقبل بطاقتي. أرجو المساعدة.,Payments
 CR-601085,Call centre notes,English,Good morning. Can I pay the fees in instalments?,Payments
 CR-601086,Call centre notes,English,Is a medical test required for a residency renewal? Thank you.,Visa and residency
@@ -1094,7 +1094,7 @@ CR-601091,Email,English,Is a medical test required for a residency renewal? This
 CR-601092,Email,Arabic,لم أستلم إيصالاً بالدفع.,Payments
 CR-601093,Web form,Arabic,صباح الخير. طلب تجديد الإقامة معلق منذ ثلاثة أسابيع. شكراً لكم.,Visa and residency
 CR-601094,App,Arabic,صباح الخير. انتهت صلاحية رخصتي الأسبوع الماضي، هل يمكنني تجديدها عبر الإنترنت؟ الأمر عاجل.,Licensing
-CR-601095,Email,English,"Dear team, How long does it take to issue a new business licence?",Licensing
+CR-601095,Email,English,"Dear team, How long does it take to issue a new trade licence?",Licensing
 CR-601096,Email,English,Good morning. The website is very slow today. This is urgent.,Technical support
 CR-601097,Web form,Arabic,السلام عليكم، هل الفحص الطبي مطلوب لتجديد الإقامة؟ الأمر عاجل.,Visa and residency
 CR-601098,Email,English,Can I extend my visit visa for another month? This is urgent.,Visa and residency
@@ -1115,17 +1115,17 @@ CR-601112,Email,Arabic,صباح الخير. هل يمكنني دفع الرسو�
 CR-601113,App,English,"Hello, Is a medical test required for a residency renewal? This is urgent.",Visa and residency
 CR-601114,Call centre notes,Arabic,التطبيق يتوقف عند رفع مستند. أرجو المساعدة.,Technical support
 CR-601115,App,Arabic,السلام عليكم، صفحة الدفع لا تقبل بطاقتي. الأمر عاجل.,Technical support
-CR-601116,Web form,Arabic,مرحباً، النموذج لا يسمح لي بالإرسال.,Technical support
+CR-601116,Web form,Arabic,مرحباً، الاستمارة لا تسمح لي بالتقديم.,Technical support
 CR-601117,Web form,English,"I paid the fee twice, please refund one payment. Thank you.",Payments
 CR-601118,App,English,"Dear team, My residency renewal has been pending for three weeks. Thank you.",Visa and residency
 CR-601119,Email,English,"My licence expired last week, can I still renew it online?",Licensing
 CR-601120,Web form,English,Which documents do I need to add an activity to my licence? Thank you.,Licensing
-CR-601121,App,English,"Dear team, How long does it take to issue a new business licence? This is urgent.",Licensing
+CR-601121,App,English,"Dear team, How long does it take to issue a new trade licence? This is urgent.",Licensing
 CR-601122,App,Arabic,مرحباً، انتظرت ساعتين ولم يخدمني أحد. أرجو المساعدة.,Complaints
 CR-601123,Web form,English,"Dear team, Which documents do I need to add an activity to my licence? Thank you.",Licensing
 CR-601124,Email,Arabic,لم أستلم إيصالاً بالدفع. الأمر عاجل.,Payments
 CR-601125,App,Arabic,مرحباً، أرغب في تجديد الرخصة التجارية لكن النظام يظهر خطأ. الأمر عاجل.,Licensing
-CR-601126,Call centre notes,Arabic,مرحباً، النموذج لا يسمح لي بالإرسال.,Technical support
+CR-601126,Call centre notes,Arabic,مرحباً، الاستمارة لا تسمح لي بالتقديم.,Technical support
 CR-601127,Web form,English,Can I extend my visit visa for another month? This is urgent.,Visa and residency
 CR-601128,Web form,English,Good morning. Can I pay the fees in instalments?,Payments
 CR-601129,Email,Arabic,مرحباً، الموقع بطيء جداً اليوم. شكراً لكم.,Technical support
@@ -1134,13 +1134,13 @@ CR-601131,Call centre notes,Arabic,صباح الخير. لماذا تم فرض �
 CR-601132,Web form,English,"Hello, I need to change the company name on my licence.",Licensing
 CR-601133,Call centre notes,English,"Hello, The app crashes when I upload a document. Thank you.",Technical support
 CR-601134,Email,Arabic,مرحباً، تم رفض طلب التأشيرة، ماذا يمكنني أن أفعل؟ أرجو المساعدة.,Visa and residency
-CR-601135,Email,Arabic,لا أستطيع تسجيل الدخول إلى البوابة باستخدام الهوية الرقمية.,Technical support
+CR-601135,Email,Arabic,لا يمكنني تسجيل الدخول إلى البوابة باستخدام الهوية الرقمية.,Technical support
 CR-601136,Call centre notes,English,Good morning. Nobody answers the call centre. Thank you.,Complaints
 CR-601137,Call centre notes,Arabic,السلام عليكم، أحتاج إلى تغيير اسم الشركة في الرخصة. الأمر عاجل.,Licensing
 CR-601138,Call centre notes,English,"My licence expired last week, can I still renew it online? Please help.",Licensing
 CR-601139,App,Arabic,مرحباً، دفعت الرسوم مرتين، يرجى استرداد إحدى الدفعتين. الأمر عاجل.,Payments
-CR-601140,Web form,Arabic,مرحباً، لا أستطيع تسجيل الدخول إلى البوابة باستخدام الهوية الرقمية.,Technical support
-CR-601141,Web form,English,"Dear team, How long does it take to issue a new business licence? This is urgent.",Licensing
+CR-601140,Web form,Arabic,مرحباً، لا يمكنني تسجيل الدخول إلى البوابة باستخدام الهوية الرقمية.,Technical support
+CR-601141,Web form,English,"Dear team, How long does it take to issue a new trade licence? This is urgent.",Licensing
 CR-601142,Web form,Arabic,السلام عليكم، هل يمكنني دفع الرسوم على أقساط؟ شكراً لكم.,Payments
 CR-601143,Email,Arabic,مرحباً، هل يمكنني تمديد تأشيرة الزيارة لشهر آخر؟ الأمر عاجل.,Visa and residency
 CR-601144,Call centre notes,English,Good morning. I need to change the company name on my licence.,Licensing
@@ -1148,8 +1148,8 @@ CR-601145,Call centre notes,Arabic,مرحباً، الموظفون في مركز
 CR-601146,Call centre notes,Arabic,مرحباً، لماذا تم فرض غرامة تأخير علي؟ الأمر عاجل.,Payments
 CR-601147,App,English,"Hello, I paid the fee twice, please refund one payment. Please help.",Payments
 CR-601148,Call centre notes,Arabic,السلام عليكم، كيف يمكنني كفالة والديّ؟ شكراً لكم.,Visa and residency
-CR-601149,Web form,Arabic,السلام عليكم، لا أستطيع تسجيل الدخول إلى البوابة باستخدام الهوية الرقمية.,Technical support
-CR-601150,Call centre notes,English,I waited two hours and nobody served me. This is urgent.,Technical support
+CR-601149,Web form,Arabic,السلام عليكم، لا يمكنني تسجيل الدخول إلى البوابة باستخدام الهوية الرقمية.,Technical support
+CR-601150,Call centre notes,English,I waited two hours and nobody assisted me. This is urgent.,Technical support
 CR-601151,Email,Arabic,صباح الخير. حصلت على معلومات خاطئة عند الكاونتر. الأمر عاجل.,Complaints
 CR-601152,Call centre notes,Arabic,السلام عليكم، التطبيق يتوقف عند رفع مستند. أرجو المساعدة.,Technical support
 CR-601153,App,English,"My visa application was rejected, what can I do? Thank you.",Visa and residency
@@ -1186,13 +1186,13 @@ CR-601183,Web form,Arabic,صباح الخير. انتظرت ساعتين ولم 
 CR-601184,App,Arabic,السلام عليكم، هل الفحص الطبي مطلوب لتجديد الإقامة؟,Visa and residency
 CR-601185,Web form,Arabic,صباح الخير. انتهت صلاحية رخصتي الأسبوع الماضي، هل يمكنني تجديدها عبر الإنترنت؟ الأمر عاجل.,Licensing
 CR-601186,App,English,I want to file a complaint about the long waiting time. Thank you.,Complaints
-CR-601187,Email,English,I cannot log in to the portal with my digital ID.,Technical support
+CR-601187,Email,English,I cannot log in to the portal using UAE PASS.,Technical support
 CR-601188,App,Arabic,مرحباً، تم رفض طلب التأشيرة، ماذا يمكنني أن أفعل؟ الأمر عاجل.,Visa and residency
-CR-601189,Call centre notes,Arabic,مرحباً، لا أستطيع تسجيل الدخول إلى البوابة باستخدام الهوية الرقمية.,Technical support
+CR-601189,Call centre notes,Arabic,مرحباً، لا يمكنني تسجيل الدخول إلى البوابة باستخدام الهوية الرقمية.,Technical support
 CR-601190,Call centre notes,Arabic,هل الفحص الطبي مطلوب لتجديد الإقامة؟ الأمر عاجل.,Visa and residency
-CR-601191,Web form,Arabic,لا أستطيع تسجيل الدخول إلى البوابة باستخدام الهوية الرقمية. أرجو المساعدة.,Technical support
+CR-601191,Web form,Arabic,لا يمكنني تسجيل الدخول إلى البوابة باستخدام الهوية الرقمية. أرجو المساعدة.,Technical support
 CR-601192,App,Arabic,مرحباً، أحتاج إلى تغيير اسم الشركة في الرخصة. أرجو المساعدة.,Licensing
-CR-601193,Email,English,I cannot log in to the portal with my digital ID. Thank you.,Technical support
+CR-601193,Email,English,I cannot log in to the portal using UAE PASS. Thank you.,Technical support
 CR-601194,Call centre notes,English,Good morning. I want to file a complaint about the long waiting time.,Complaints
 CR-601195,Email,English,"Hello, I want to renew my trade licence but the system shows an error. This is urgent.",Licensing
 CR-601196,Email,English,"Dear team, My residency renewal has been pending for three weeks.",Visa and residency
@@ -1202,7 +1202,7 @@ CR-601199,Web form,English,Good morning. The form does not let me submit. Please
 CR-601200,Call centre notes,English,"My licence expired last week, can I still renew it online?",Licensing
 CR-601201,Web form,Arabic,السلام عليكم، هل يمكنني تمديد تأشيرة الزيارة لشهر آخر؟ شكراً لكم.,Visa and residency
 CR-601202,Web form,English,"Good morning. My licence expired last week, can I still renew it online?",Licensing
-CR-601203,Email,English,"Hello, How long does it take to issue a new business licence? This is urgent.",Licensing
+CR-601203,Email,English,"Hello, How long does it take to issue a new trade licence? This is urgent.",Licensing
 CR-601204,Email,Arabic,تم رفض طلب التأشيرة، ماذا يمكنني أن أفعل؟ الأمر عاجل.,Visa and residency
 CR-601205,App,English,Is a medical test required for a residency renewal?,Visa and residency
 CR-601206,Web form,Arabic,صباح الخير. هل الفحص الطبي مطلوب لتجديد الإقامة؟ الأمر عاجل.,Visa and residency
@@ -1223,13 +1223,13 @@ CR-601220,Call centre notes,Arabic,مرحباً، ما هي المستندات �
 CR-601221,Web form,Arabic,أرغب في تجديد الرخصة التجارية لكن النظام يظهر خطأ. الأمر عاجل.,Licensing
 CR-601222,Call centre notes,Arabic,السلام عليكم، هل الفحص الطبي مطلوب لتجديد الإقامة؟,Visa and residency
 CR-601223,Call centre notes,Arabic,مرحباً، الموقع بطيء جداً اليوم. شكراً لكم.,Technical support
-CR-601224,App,Arabic,السلام عليكم، النموذج لا يسمح لي بالإرسال. أرجو المساعدة.,Technical support
+CR-601224,App,Arabic,السلام عليكم، الاستمارة لا تسمح لي بالتقديم. أرجو المساعدة.,Technical support
 CR-601225,Web form,Arabic,لماذا تم فرض غرامة تأخير علي؟ شكراً لكم.,Payments
 CR-601226,Email,Arabic,السلام عليكم، لم أستلم إيصالاً بالدفع.,Payments
 CR-601227,Call centre notes,English,"I paid the fee twice, please refund one payment. Please help.",Payments
 CR-601228,Email,English,"Hello, Can I extend my visit visa for another month?",Visa and residency
-CR-601229,Email,English,How long does it take to issue a new business licence? Thank you.,Licensing
-CR-601230,Web form,Arabic,لا أستطيع تسجيل الدخول إلى البوابة باستخدام الهوية الرقمية. أرجو المساعدة.,Technical support
+CR-601229,Email,English,How long does it take to issue a new trade licence? Thank you.,Licensing
+CR-601230,Web form,Arabic,لا يمكنني تسجيل الدخول إلى البوابة باستخدام الهوية الرقمية. أرجو المساعدة.,Technical support
 CR-601231,Call centre notes,Arabic,صباح الخير. التطبيق يتوقف عند رفع مستند.,Technical support
 CR-601232,Call centre notes,Arabic,ما هي المستندات المطلوبة لإضافة نشاط إلى الرخصة؟ أرجو المساعدة.,Licensing
 CR-601233,Call centre notes,Arabic,أرغب في تقديم شكوى بشأن طول وقت الانتظار. شكراً لكم.,Complaints
@@ -1239,7 +1239,7 @@ CR-601236,Call centre notes,English,I want to renew my trade licence but the sys
 CR-601237,App,English,The staff at the service centre were not helpful. This is urgent.,Complaints
 CR-601238,Call centre notes,Arabic,صباح الخير. كيف يمكنني كفالة والديّ؟,Visa and residency
 CR-601239,Call centre notes,Arabic,مرحباً، أرغب في تجديد الرخصة التجارية لكن النظام يظهر خطأ.,Licensing
-CR-601240,Email,Arabic,لا أستطيع تسجيل الدخول إلى البوابة باستخدام الهوية الرقمية. شكراً لكم.,Technical support
+CR-601240,Email,Arabic,لا يمكنني تسجيل الدخول إلى البوابة باستخدام الهوية الرقمية. شكراً لكم.,Technical support
 CR-601241,Email,Arabic,أرغب في تجديد الرخصة التجارية لكن النظام يظهر خطأ. الأمر عاجل.,Licensing
 CR-601242,App,Arabic,مرحباً، أرغب في تقديم شكوى بشأن طول وقت الانتظار. الأمر عاجل.,Complaints
 CR-601243,Call centre notes,English,"Dear team, Can I pay the fees in instalments? Thank you.",Payments
@@ -1248,10 +1248,10 @@ CR-601245,Email,English,"Hello, Is a medical test required for a residency renew
 CR-601246,App,English,I was given wrong information at the counter. Thank you.,Complaints
 CR-601247,App,Arabic,السلام عليكم، هل الفحص الطبي مطلوب لتجديد الإقامة؟,Visa and residency
 CR-601248,App,English,Good morning. I was given wrong information at the counter. Thank you.,Complaints
-CR-601249,Web form,Arabic,السلام عليكم، النموذج لا يسمح لي بالإرسال. الأمر عاجل.,Technical support
+CR-601249,Web form,Arabic,السلام عليكم، الاستمارة لا تسمح لي بالتقديم. الأمر عاجل.,Technical support
 CR-601250,App,Arabic,هل الفحص الطبي مطلوب لتجديد الإقامة؟ الأمر عاجل.,Visa and residency
 CR-601251,Call centre notes,Arabic,مرحباً، انتهت صلاحية رخصتي الأسبوع الماضي، هل يمكنني تجديدها عبر الإنترنت؟ الأمر عاجل.,Licensing
-CR-601252,App,English,Good morning. I forgot my password and the reset link does not arrive. Thank you.,Technical support
+CR-601252,App,English,Good morning. I forgot my password and the reset link is not reaching me. Thank you.,Technical support
 CR-601253,Email,English,I did not receive a receipt for my payment. Thank you.,Payments
 CR-601254,Email,English,Good morning. I want to file a complaint about the long waiting time. This is urgent.,Complaints
 CR-601255,Call centre notes,English,"Hello, Can I pay the fees in instalments? This is urgent.",Payments
@@ -1259,7 +1259,7 @@ CR-601256,Call centre notes,English,Is a medical test required for a residency r
 CR-601257,Web form,Arabic,أحتاج إلى تغيير اسم الشركة في الرخصة.,Licensing
 CR-601258,Call centre notes,Arabic,حصلت على معلومات خاطئة عند الكاونتر.,Complaints
 CR-601259,Web form,English,"Dear team, How can I sponsor my parents?",Visa and residency
-CR-601260,App,English,"Dear team, I forgot my password and the reset link does not arrive.",Technical support
+CR-601260,App,English,"Dear team, I forgot my password and the reset link is not reaching me.",Technical support
 CR-601261,App,English,"Hello, My residency renewal has been pending for three weeks. Please help.",Visa and residency
 CR-601262,Email,English,"Hello, I want to renew my trade licence but the system shows an error. This is urgent.",Licensing
 CR-601263,Call centre notes,Arabic,انتظرت ساعتين ولم يخدمني أحد. الأمر عاجل.,Complaints
@@ -1268,27 +1268,27 @@ CR-601265,Call centre notes,Arabic,السلام عليكم، هل الفحص ا�
 CR-601266,App,English,I need to change the company name on my licence. Thank you.,Licensing
 CR-601267,Call centre notes,English,Good morning. I want to file a complaint about the long waiting time. This is urgent.,Complaints
 CR-601268,Email,Arabic,الموظفون في مركز الخدمة لم يكونوا متعاونين. أرجو المساعدة.,Complaints
-CR-601269,Email,English,"Dear team, How long does it take to issue a new business licence?",Licensing
-CR-601270,App,English,"Hello, How long does it take to issue a new business licence? Thank you.",Licensing
+CR-601269,Email,English,"Dear team, How long does it take to issue a new trade licence?",Licensing
+CR-601270,App,English,"Hello, How long does it take to issue a new trade licence? Thank you.",Licensing
 CR-601271,Email,English,My residency renewal has been pending for three weeks.,Visa and residency
-CR-601272,Web form,English,"Dear team, I cannot log in to the portal with my digital ID. Please help.",Technical support
+CR-601272,Web form,English,"Dear team, I cannot log in to the portal using UAE PASS. Please help.",Technical support
 CR-601273,Web form,Arabic,مرحباً، هل يمكنني تمديد تأشيرة الزيارة لشهر آخر؟ شكراً لكم.,Visa and residency
 CR-601274,Email,Arabic,صباح الخير. أحتاج إلى تغيير اسم الشركة في الرخصة.,Licensing
 CR-601275,Call centre notes,English,"I paid the fee twice, please refund one payment. This is urgent.",Payments
-CR-601276,Web form,English,"Hello, I forgot my password and the reset link does not arrive.",Technical support
+CR-601276,Web form,English,"Hello, I forgot my password and the reset link is not reaching me.",Technical support
 CR-601277,Email,English,I want to file a complaint about the long waiting time. Thank you.,Complaints
 CR-601278,Web form,English,"Hello, I paid the fee twice, please refund one payment. Thank you.",Payments
 CR-601279,Call centre notes,English,I need to change the company name on my licence. This is urgent.,Licensing
 CR-601280,Email,Arabic,هل الفحص الطبي مطلوب لتجديد الإقامة؟ شكراً لكم.,Visa and residency
 CR-601281,Email,Arabic,التطبيق يتوقف عند رفع مستند. أرجو المساعدة.,Technical support
-CR-601282,Web form,Arabic,السلام عليكم، لا أستطيع تسجيل الدخول إلى البوابة باستخدام الهوية الرقمية. شكراً لكم.,Technical support
+CR-601282,Web form,Arabic,السلام عليكم، لا يمكنني تسجيل الدخول إلى البوابة باستخدام الهوية الرقمية. شكراً لكم.,Technical support
 CR-601283,App,Arabic,الموظفون في مركز الخدمة لم يكونوا متعاونين. شكراً لكم.,Complaints
 CR-601284,Web form,Arabic,هل يمكنني تمديد تأشيرة الزيارة لشهر آخر؟ شكراً لكم.,Visa and residency
 CR-601285,App,English,"Hello, The website is very slow today. This is urgent.",Technical support
 CR-601286,Web form,Arabic,مرحباً، لماذا تم فرض غرامة تأخير علي؟ أرجو المساعدة.,Payments
 CR-601287,Email,Arabic,صباح الخير. انتظرت ساعتين ولم يخدمني أحد. شكراً لكم.,Complaints
 CR-601288,Email,English,Good morning. Is a medical test required for a residency renewal? This is urgent.,Visa and residency
-CR-601289,Email,Arabic,السلام عليكم، لا أستطيع تسجيل الدخول إلى البوابة باستخدام الهوية الرقمية. الأمر عاجل.,Technical support
+CR-601289,Email,Arabic,السلام عليكم، لا يمكنني تسجيل الدخول إلى البوابة باستخدام الهوية الرقمية. الأمر عاجل.,Technical support
 CR-601290,Email,Arabic,مرحباً، التطبيق يتوقف عند رفع مستند. شكراً لكم.,Technical support
 CR-601291,Web form,English,"Dear team, My residency renewal has been pending for three weeks. Thank you.",Visa and residency
 CR-601292,Call centre notes,English,"Hello, How can I sponsor my parents? Please help.",Visa and residency
@@ -1297,7 +1297,7 @@ CR-601294,App,English,Good morning. Is a medical test required for a residency r
 CR-601295,App,Arabic,صباح الخير. أحتاج إلى تغيير اسم الشركة في الرخصة. أرجو المساعدة.,Licensing
 CR-601296,App,Arabic,مرحباً، لماذا تم فرض غرامة تأخير علي؟ أرجو المساعدة.,Payments
 CR-601297,App,English,"Dear team, Is a medical test required for a residency renewal? Please help.",Visa and residency
-CR-601298,Email,Arabic,النموذج لا يسمح لي بالإرسال.,Technical support
+CR-601298,Email,Arabic,الاستمارة لا تسمح لي بالتقديم.,Technical support
 CR-601299,App,Arabic,هل يمكنني تمديد تأشيرة الزيارة لشهر آخر؟ أرجو المساعدة.,Visa and residency
 CR-601300,Email,English,Good morning. I want to renew my trade licence but the system shows an error. Please help.,Licensing
 CR-601301,Call centre notes,Arabic,السلام عليكم، لم أستلم إيصالاً بالدفع. الأمر عاجل.,Payments
@@ -1307,17 +1307,17 @@ CR-601304,Web form,English,Nobody answers the call centre. This is urgent.,Compl
 CR-601305,Call centre notes,English,"Dear team, The form does not let me submit. Please help.",Technical support
 CR-601306,Web form,English,"Hello, Why was I charged a late fee? Thank you.",Payments
 CR-601307,Web form,Arabic,مرحباً، التطبيق يتوقف عند رفع مستند. الأمر عاجل.,Technical support
-CR-601308,Email,English,Good morning. I waited two hours and nobody served me. Please help.,Complaints
+CR-601308,Email,English,Good morning. I waited two hours and nobody assisted me. Please help.,Complaints
 CR-601309,Web form,Arabic,حصلت على معلومات خاطئة عند الكاونتر. أرجو المساعدة.,Complaints
 CR-601310,App,Arabic,صباح الخير. تم رفض طلب التأشيرة، ماذا يمكنني أن أفعل؟ أرجو المساعدة.,Visa and residency
 CR-601311,Email,English,"Dear team, I paid the fee twice, please refund one payment. Please help.",Payments
 CR-601312,App,Arabic,صباح الخير. لماذا تم فرض غرامة تأخير علي؟,Payments
-CR-601313,Web form,English,I waited two hours and nobody served me. Please help.,Complaints
+CR-601313,Web form,English,I waited two hours and nobody assisted me. Please help.,Complaints
 CR-601314,Email,Arabic,السلام عليكم، هل يمكنني دفع الرسوم على أقساط؟ الأمر عاجل.,Payments
 CR-601315,Web form,English,Can I pay the fees in instalments?,Payments
 CR-601316,Web form,Arabic,السلام عليكم، حصلت على معلومات خاطئة عند الكاونتر. الأمر عاجل.,Complaints
 CR-601317,App,English,"Hello, Can I pay the fees in instalments? Please help.",Payments
-CR-601318,Web form,Arabic,مرحباً، النموذج لا يسمح لي بالإرسال.,Technical support
+CR-601318,Web form,Arabic,مرحباً، الاستمارة لا تسمح لي بالتقديم.,Technical support
 CR-601319,App,Arabic,لماذا تم فرض غرامة تأخير علي؟ أرجو المساعدة.,Payments
 CR-601320,Email,English,"Dear team, The website is very slow today. Please help.",Technical support
 CR-601321,Email,English,"Dear team, I want to renew my trade licence but the system shows an error. Thank you.",Licensing
@@ -1325,7 +1325,7 @@ CR-601322,Web form,Arabic,صباح الخير. لا أحد يرد على مرك�
 CR-601323,Web form,Arabic,صباح الخير. هل الفحص الطبي مطلوب لتجديد الإقامة؟,Visa and residency
 CR-601324,App,English,"Hello, Nobody answers the call centre. Please help.",Technical support
 CR-601325,Web form,English,Good morning. Can I pay the fees in instalments? Please help.,Payments
-CR-601326,Call centre notes,English,Good morning. I forgot my password and the reset link does not arrive. Thank you.,Payments
+CR-601326,Call centre notes,English,Good morning. I forgot my password and the reset link is not reaching me. Thank you.,Payments
 CR-601327,Web form,Arabic,السلام عليكم، تم رفض طلب التأشيرة، ماذا يمكنني أن أفعل؟ شكراً لكم.,Visa and residency
 CR-601328,Email,Arabic,مرحباً، كيف يمكنني كفالة والديّ؟,Visa and residency
 CR-601329,Web form,Arabic,السلام عليكم، صفحة الدفع لا تقبل بطاقتي.,Payments
@@ -1336,7 +1336,7 @@ CR-601333,Web form,English,"Dear team, I was given wrong information at the coun
 CR-601334,Email,Arabic,مرحباً، دفعت الرسوم مرتين، يرجى استرداد إحدى الدفعتين. أرجو المساعدة.,Payments
 CR-601335,Call centre notes,Arabic,مرحباً، صفحة الدفع لا تقبل بطاقتي. الأمر عاجل.,Payments
 CR-601336,Web form,Arabic,السلام عليكم، دفعت الرسوم مرتين، يرجى استرداد إحدى الدفعتين. أرجو المساعدة.,Payments
-CR-601337,Web form,English,How long does it take to issue a new business licence? Please help.,Licensing
+CR-601337,Web form,English,How long does it take to issue a new trade licence? Please help.,Licensing
 CR-601338,Web form,English,"Dear team, The staff at the service centre were not helpful.",Complaints
 CR-601339,Web form,English,"Hello, My licence expired last week, can I still renew it online? This is urgent.",Licensing
 CR-601340,Web form,English,"Dear team, I did not receive a receipt for my payment. Thank you.",Payments
@@ -1354,13 +1354,13 @@ CR-601351,Email,Arabic,السلام عليكم، لماذا تم فرض غرام
 CR-601352,Web form,Arabic,صباح الخير. انتهت صلاحية رخصتي الأسبوع الماضي، هل يمكنني تجديدها عبر الإنترنت؟ شكراً لكم.,Licensing
 CR-601353,Web form,English,"Hello, I did not receive a receipt for my payment. This is urgent.",Payments
 CR-601354,App,Arabic,السلام عليكم، أرغب في تجديد الرخصة التجارية لكن النظام يظهر خطأ. الأمر عاجل.,Licensing
-CR-601355,Email,English,How long does it take to issue a new business licence? Please help.,Licensing
+CR-601355,Email,English,How long does it take to issue a new trade licence? Please help.,Licensing
 CR-601356,Web form,English,"Hello, The website is very slow today. This is urgent.",Technical support
 CR-601357,Call centre notes,Arabic,مرحباً، لا أحد يرد على مركز الاتصال.,Complaints
-CR-601358,Web form,English,"Dear team, I cannot log in to the portal with my digital ID. Please help.",Technical support
+CR-601358,Web form,English,"Dear team, I cannot log in to the portal using UAE PASS. Please help.",Technical support
 CR-601359,Email,English,"I paid the fee twice, please refund one payment. Please help.",Payments
 CR-601360,Email,Arabic,مرحباً، أرغب في تقديم شكوى بشأن طول وقت الانتظار.,Complaints
-CR-601361,Email,Arabic,صباح الخير. لا أستطيع تسجيل الدخول إلى البوابة باستخدام الهوية الرقمية. أرجو المساعدة.,Technical support
+CR-601361,Email,Arabic,صباح الخير. لا يمكنني تسجيل الدخول إلى البوابة باستخدام الهوية الرقمية. أرجو المساعدة.,Technical support
 CR-601362,Call centre notes,Arabic,مرحباً، هل يمكنني دفع الرسوم على أقساط؟,Payments
 CR-601363,Call centre notes,English,The app crashes when I upload a document. Thank you.,Technical support
 CR-601364,Call centre notes,Arabic,الموظفون في مركز الخدمة لم يكونوا متعاونين. الأمر عاجل.,Complaints
@@ -1379,7 +1379,7 @@ CR-601376,Email,Arabic,مرحباً، لماذا تم فرض غرامة تأخي
 CR-601377,App,Arabic,مرحباً، تم رفض طلب التأشيرة، ماذا يمكنني أن أفعل؟ أرجو المساعدة.,Visa and residency
 CR-601378,Call centre notes,English,"Good morning. I paid the fee twice, please refund one payment. Please help.",Payments
 CR-601379,Call centre notes,Arabic,لا أحد يرد على مركز الاتصال.,Complaints
-CR-601380,Web form,Arabic,السلام عليكم، لا أستطيع تسجيل الدخول إلى البوابة باستخدام الهوية الرقمية.,Technical support
+CR-601380,Web form,Arabic,السلام عليكم، لا يمكنني تسجيل الدخول إلى البوابة باستخدام الهوية الرقمية.,Technical support
 CR-601381,Call centre notes,Arabic,صباح الخير. كم تستغرق مدة إصدار رخصة تجارية جديدة؟ الأمر عاجل.,Licensing
 CR-601382,Web form,Arabic,انتهت صلاحية رخصتي الأسبوع الماضي، هل يمكنني تجديدها عبر الإنترنت؟ أرجو المساعدة.,Licensing
 CR-601383,Call centre notes,Arabic,انتظرت ساعتين ولم يخدمني أحد. الأمر عاجل.,Complaints
@@ -1392,13 +1392,13 @@ CR-601389,Call centre notes,English,"Dear team, I want to renew my trade licence
 CR-601390,Email,Arabic,مرحباً، هل الفحص الطبي مطلوب لتجديد الإقامة؟ شكراً لكم.,Visa and residency
 CR-601391,App,English,Nobody answers the call centre. Please help.,Complaints
 CR-601392,App,English,"Hello, The app crashes when I upload a document.",Technical support
-CR-601393,Web form,English,How long does it take to issue a new business licence? Please help.,Licensing
+CR-601393,Web form,English,How long does it take to issue a new trade licence? Please help.,Licensing
 CR-601394,Call centre notes,English,The website is very slow today.,Technical support
 CR-601395,Call centre notes,Arabic,السلام عليكم، تم رفض طلب التأشيرة، ماذا يمكنني أن أفعل؟,Visa and residency
 CR-601396,Email,Arabic,مرحباً، دفعت الرسوم مرتين، يرجى استرداد إحدى الدفعتين. الأمر عاجل.,Payments
 CR-601397,Email,English,"Hello, Can I extend my visit visa for another month?",Visa and residency
 CR-601398,App,Arabic,صباح الخير. تم رفض طلب التأشيرة، ماذا يمكنني أن أفعل؟ شكراً لكم.,Payments
-CR-601399,App,English,"Hello, How long does it take to issue a new business licence? Thank you.",Licensing
+CR-601399,App,English,"Hello, How long does it take to issue a new trade licence? Thank you.",Licensing
 CR-601400,Web form,Arabic,أرغب في تقديم شكوى بشأن طول وقت الانتظار.,Complaints
 CR-601401,Web form,Arabic,السلام عليكم، أرغب في تجديد الرخصة التجارية لكن النظام يظهر خطأ. شكراً لكم.,Licensing
 CR-601402,Call centre notes,Arabic,صباح الخير. نسيت كلمة المرور ورابط إعادة التعيين لا يصل. شكراً لكم.,Technical support
@@ -1413,14 +1413,14 @@ CR-601410,App,Arabic,مرحباً، أرغب في تقديم شكوى بشأن �
 CR-601411,App,Arabic,صباح الخير. كيف يمكنني كفالة والديّ؟ أرجو المساعدة.,Technical support
 CR-601412,App,English,"Hello, The website is very slow today. Please help.",Technical support
 CR-601413,Web form,Arabic,صباح الخير. الموقع بطيء جداً اليوم. شكراً لكم.,Technical support
-CR-601414,Web form,English,"Dear team, I forgot my password and the reset link does not arrive. Please help.",Technical support
+CR-601414,Web form,English,"Dear team, I forgot my password and the reset link is not reaching me. Please help.",Technical support
 CR-601415,Call centre notes,Arabic,صباح الخير. الموظفون في مركز الخدمة لم يكونوا متعاونين.,Complaints
 CR-601416,Web form,English,My residency renewal has been pending for three weeks. Thank you.,Payments
 CR-601417,Web form,Arabic,صباح الخير. لا أحد يرد على مركز الاتصال.,Complaints
 CR-601418,Call centre notes,Arabic,صباح الخير. كيف يمكنني كفالة والديّ؟ الأمر عاجل.,Visa and residency
 CR-601419,App,English,"Hello, Can I extend my visit visa for another month? This is urgent.",Visa and residency
 CR-601420,App,Arabic,مرحباً، تم رفض طلب التأشيرة، ماذا يمكنني أن أفعل؟ أرجو المساعدة.,Visa and residency
-CR-601421,Call centre notes,Arabic,السلام عليكم، لا أستطيع تسجيل الدخول إلى البوابة باستخدام الهوية الرقمية. الأمر عاجل.,Technical support
+CR-601421,Call centre notes,Arabic,السلام عليكم، لا يمكنني تسجيل الدخول إلى البوابة باستخدام الهوية الرقمية. الأمر عاجل.,Technical support
 CR-601422,Web form,Arabic,السلام عليكم، نسيت كلمة المرور ورابط إعادة التعيين لا يصل.,Technical support
 CR-601423,Call centre notes,Arabic,السلام عليكم، كيف يمكنني كفالة والديّ؟ شكراً لكم.,Visa and residency
 CR-601424,Email,English,I did not receive a receipt for my payment. Thank you.,Payments
@@ -1433,22 +1433,22 @@ CR-601430,Email,English,Can I extend my visit visa for another month? This is ur
 CR-601431,App,English,"My visa application was rejected, what can I do? This is urgent.",Visa and residency
 CR-601432,Web form,English,Good morning. The website is very slow today. Thank you.,Technical support
 CR-601433,Call centre notes,English,"Hello, How can I sponsor my parents? This is urgent.",Visa and residency
-CR-601434,Email,English,Good morning. I cannot log in to the portal with my digital ID. This is urgent.,Technical support
+CR-601434,Email,English,Good morning. I cannot log in to the portal using UAE PASS. This is urgent.,Technical support
 CR-601435,Email,Arabic,السلام عليكم، لا أحد يرد على مركز الاتصال. الأمر عاجل.,Complaints
 CR-601436,Web form,Arabic,صباح الخير. أرغب في تجديد الرخصة التجارية لكن النظام يظهر خطأ.,Licensing
 CR-601437,Web form,Arabic,مرحباً، كيف يمكنني كفالة والديّ؟ شكراً لكم.,Visa and residency
 CR-601438,App,Arabic,مرحباً، انتظرت ساعتين ولم يخدمني أحد.,Complaints
-CR-601439,Email,Arabic,صباح الخير. النموذج لا يسمح لي بالإرسال. أرجو المساعدة.,Technical support
+CR-601439,Email,Arabic,صباح الخير. الاستمارة لا تسمح لي بالتقديم. أرجو المساعدة.,Technical support
 CR-601440,Web form,English,"Good morning. I paid the fee twice, please refund one payment. Please help.",Payments
 CR-601441,Call centre notes,Arabic,مرحباً، تم رفض طلب التأشيرة، ماذا يمكنني أن أفعل؟ أرجو المساعدة.,Visa and residency
 CR-601442,Call centre notes,English,Is a medical test required for a residency renewal? This is urgent.,Visa and residency
 CR-601443,App,Arabic,تم رفض طلب التأشيرة، ماذا يمكنني أن أفعل؟ شكراً لكم.,Visa and residency
-CR-601444,App,Arabic,النموذج لا يسمح لي بالإرسال. الأمر عاجل.,Technical support
+CR-601444,App,Arabic,الاستمارة لا تسمح لي بالتقديم. الأمر عاجل.,Technical support
 CR-601445,Web form,Arabic,مرحباً، كيف يمكنني كفالة والديّ؟ الأمر عاجل.,Visa and residency
 CR-601446,Email,Arabic,الموظفون في مركز الخدمة لم يكونوا متعاونين.,Complaints
 CR-601447,Web form,Arabic,أحتاج إلى تغيير اسم الشركة في الرخصة. شكراً لكم.,Licensing
 CR-601448,Email,English,Is a medical test required for a residency renewal? This is urgent.,Visa and residency
-CR-601449,Email,Arabic,صباح الخير. النموذج لا يسمح لي بالإرسال.,Technical support
+CR-601449,Email,Arabic,صباح الخير. الاستمارة لا تسمح لي بالتقديم.,Technical support
 CR-601450,App,Arabic,السلام عليكم، هل يمكنني تمديد تأشيرة الزيارة لشهر آخر؟,Visa and residency
 CR-601451,Web form,Arabic,صباح الخير. لماذا تم فرض غرامة تأخير علي؟ شكراً لكم.,Payments
 CR-601452,Email,English,How can I sponsor my parents? Please help.,Visa and residency
@@ -1460,7 +1460,7 @@ CR-601457,Web form,Arabic,حصلت على معلومات خاطئة عند ال�
 CR-601458,Call centre notes,English,"Good morning. My licence expired last week, can I still renew it online? This is urgent.",Licensing
 CR-601459,App,Arabic,السلام عليكم، الموقع بطيء جداً اليوم.,Technical support
 CR-601460,Email,Arabic,أحتاج إلى تغيير اسم الشركة في الرخصة. الأمر عاجل.,Licensing
-CR-601461,Email,Arabic,السلام عليكم، النموذج لا يسمح لي بالإرسال.,Technical support
+CR-601461,Email,Arabic,السلام عليكم، الاستمارة لا تسمح لي بالتقديم.,Technical support
 CR-601462,Call centre notes,Arabic,صباح الخير. التطبيق يتوقف عند رفع مستند. شكراً لكم.,Technical support
 CR-601463,Web form,Arabic,مرحباً، ما هي المستندات المطلوبة لإضافة نشاط إلى الرخصة؟ أرجو المساعدة.,Licensing
 CR-601464,App,Arabic,مرحباً، الموظفون في مركز الخدمة لم يكونوا متعاونين. شكراً لكم.,Complaints
@@ -1493,7 +1493,7 @@ CR-601490,App,Arabic,السلام عليكم، هل يمكنني دفع الرس
 CR-601491,Web form,Arabic,السلام عليكم، انتهت صلاحية رخصتي الأسبوع الماضي، هل يمكنني تجديدها عبر الإنترنت؟ أرجو المساعدة.,Licensing
 CR-601492,Web form,Arabic,السلام عليكم، دفعت الرسوم مرتين، يرجى استرداد إحدى الدفعتين.,Payments
 CR-601493,Email,Arabic,نسيت كلمة المرور ورابط إعادة التعيين لا يصل. شكراً لكم.,Technical support
-CR-601494,Email,English,"Dear team, I forgot my password and the reset link does not arrive. This is urgent.",Technical support
+CR-601494,Email,English,"Dear team, I forgot my password and the reset link is not reaching me. This is urgent.",Technical support
 CR-601495,Web form,English,Good morning. The app crashes when I upload a document.,Technical support
 CR-601496,Call centre notes,Arabic,السلام عليكم، أرغب في تقديم شكوى بشأن طول وقت الانتظار.,Complaints
 CR-601497,Call centre notes,Arabic,صباح الخير. لا أحد يرد على مركز الاتصال. أرجو المساعدة.,Complaints
