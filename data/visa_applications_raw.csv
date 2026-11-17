@@ -144,7 +144,7 @@ VA-103379,2025-07-25,Tourist,Europe,Online,Tourism Establishment,28,3,Yes,No,1.0
 VA-101277,2025-02-14,TOURIST,Asia,Mobile app,Tourism Establishment,38,0,Yes,Yes,5.0,9
 VA-104298,2025-11-30,Tourist,Asia,Online,Tourism Establishment,40,1,Yes,No,1.0,6
 VA-104166,2025-03-16,Tourist,Asia,Mobile app,Individual,30,0,Yes,Yes,2.0,8
-VA-101356,2025-02-05,عمل,Asia,Mobile app,Employer,35,0,Yes,No,5.0,10
+VA-101356,2025-02-05,شغل,Asia,Mobile app,Employer,35,0,Yes,No,5.0,10
 VA-104977,2025-03-29,Tourist,GCC,Mobile app,Not Applicable,45,0,Yes,No,4.0,3
 VA-100724,19/05/2025,Family,GCC,Online,Individual,35,1,Yes,No,4.0,9
 VA-104796,2025-02-09,Tourist,Americas,Service centre,Tourism Establishment,31,1,Yes,No,6.0,1
@@ -181,7 +181,7 @@ VA-104408,2025-01-23,Tourist,Asia,Mobile app,Not Applicable,31,3,No,No,2.0,5
 VA-102039,2025-06-11,Employment,Asia,Mobile app,Employer,50,1,No,No,1.0,16
 VA-101004,2025-05-26,Employment,Europe,Online,Employer,31,0,Yes,No,2.0,8
 VA-102016,2025-03-13,Tourist,Europe,Online,Tourism Establishment,28,0,Yes,No,6.0,2
-VA-101724,2025-06-09,عمل,Asia,Service centre,Employer,28,2,Yes,No,5.0,12
+VA-101724,2025-06-09,شغل,Asia,Service centre,Employer,28,2,Yes,No,5.0,12
 VA-104936,2025-03-26,Tourist,GCC,Mobile app,Individual,29,0,Yes,No,6.0,2
 VA-101094,2025-05-26,Family,GCC,Online,Individual,43,2,Yes,No,3.0,6
 VA-101579,2025-09-26,Family,Americas,Online,Individual,33,1,Yes,No,4.0,8
@@ -269,7 +269,7 @@ VA-104856,2025-11-03,Family,Europe,,Individual,18,0,No,No,1.0,12
 VA-101906,2025-12-18,Family,Asia,Online,Individual,27,0,No,No,5.0,16
 VA-102601,2025-01-20,Student,Americas,Online,Educational Institution,30,1,No,No,5.0,11
 VA-102684,2025-12-19,Employment,Americas,Mobile app,Employer,40,1,Yes,No,4.0,8
-VA-100206,2025-07-19,employment,Europe,Service centre,Employer,24,2,Yes,Yes,3.0,14
+VA-100206,2025-07-19,EMPLOYMENT,Europe,Service centre,Employer,24,2,Yes,Yes,3.0,14
 VA-104380,2025-12-10,Tourist,Asia,Service centre,Tourism Establishment,44,2,Yes,Yes,2.0,10
 VA-100280,2025-04-11,Employment,Asia,Service centre,Employer,31,2,Yes,No,5.0,10
 VA-101038,2025-05-04,Family,Asia,Online,Individual,25,0,No,No,6.0,16
@@ -301,7 +301,7 @@ VA-100827,2025-09-26,Employment,Africa,Online,Employer,26,2,Y,No,5.0,8
 VA-100544,2025-01-15,Family,Asia,Online,Individual,27,5,Yes,No,9.0,7
 VA-103686,28/06/2025,student,Asia,Online,Educational Institution,27,0,Yes,No,5.0,5
 VA-100325,2025-12-31,Tourist,Asia,Online,Tourism Establishment,52,2,Yes,Yes,7.0,11
-VA-100428,2025-12-13,عمل,Europe,Mobile app,Employer,27,1,Yes,No,4.0,6
+VA-100428,2025-12-13,شغل,Europe,Mobile app,Employer,27,1,Yes,No,4.0,6
 VA-104253,2025-02-01,Family,Americas,Online,Individual,30,3,Yes,No,6.0,7
 VA-101073,2025-11-08,tourist,Europe,Mobile app,Tourism Establishment,28,2,Yes,No,2.0,1
 VA-104770,2025-04-02,Tourist,Europe,Online,Individual,18,2,Yes,No,8.0,9
@@ -313,7 +313,7 @@ VA-101991,2025-11-28,Employment,GCC,Service centre,Employer,33,2,Yes,No,7.0,9
 VA-103831,2025-11-19,Employment,Europe,Online,Employer,45,0,Yes,No,3.0,5
 VA-100447,2025-09-13,Student,Americas,Online,Educational Institution,34,1,Yes,No,7.0,7
 VA-100203,2025-11-13,Employment,Africa,Online,Employer,37,3,Yes,No,5.0,3
-VA-102197,2025-09-29,دراسة,Europe,Mobile app,Educational Institution,52,1,Yes,No,7.0,7
+VA-102197,2025-09-29,طالب,Europe,Mobile app,Educational Institution,52,1,Yes,No,7.0,7
 VA-102008,2025-02-07,Tourist,Asia,Online,Tourism Establishment,18,1,Yes,No,7.0,4
 VA-101299,2025-07-06,Family,Asia,Online,Individual,36,4,Yes,No,4.0,7
 VA-102544,2025-09-15,Student,GCC,Service centre,Educational Institution,31,1,No,No,4.0,12
@@ -438,7 +438,7 @@ VA-103510,02/06/2025,Student,GCC,Online,Educational Institution,21,1,No,No,8.0,1
 VA-104797,2025-04-12,Tourist,Africa,Service centre,Individual,31,0,Yes,No,7.0,2
 VA-101822,2025-10-01,سياحة,Europe,Online,Tourism Establishment,25,2,Yes,No,2.0,3
 VA-104840,2025-10-17,Employment,Asia,Online,Employer,32,2,Yes,No,3.0,7
-VA-101410,2025-03-03,عمل,GCC,Online,Employer,32,2,Yes,No,1.0,7
+VA-101410,2025-03-03,شغل,GCC,Online,Employer,32,2,Yes,No,1.0,7
 VA-103900,2025-05-11,Family,Asia,Service centre,Individual,38,1,Yes,No,5.0,10
 VA-101441,2025-03-07,عائلية,Asia,Service centre,Individual,31,0,0,Yes,8.0,19
 VA-104152,2025-07-05,Employment,GCC,Mobile app,Employer,36,0,Yes,Yes,2.0,18
@@ -485,11 +485,11 @@ VA-101922,2025-08-07,employment,Asia,Online,Employer,18,2,Yes,No,4.0,10
 VA-100503,2025-12-23,Family,Americas,Service centre,Individual,39,0,No,No,5.0,13
 VA-102147,2025-09-08,Tourist,Asia,Online,Not Applicable,47,3,Yes,No,4.0,1
 VA-104141,2025-10-18,Tourist,Europe,Online,Individual,35,1,Yes,No,7.0,1
-VA-104500,2025-11-21,Work,Asia,Online,Employer,28,0,No,No,4.0,18
+VA-104500,2025-11-21,عمل,Asia,Online,Employer,28,0,No,No,4.0,18
 VA-101499,2025-03-10,Employment,Europe,Online,Employer,,0,Yes,Yes,4.0,14
 VA-101828,2025-03-12,Employment,GCC,Online,Employer,35,2,Yes,Yes,9.0,13
 VA-102030,2025-11-06,Employment,Asia,Online,Employer,38,3,Yes,No,1.0,5
-VA-100108,2025-06-25,student,Americas,Service centre,Educational Institution,18,2,Yes,No,4.0,3
+VA-100108,2025-06-25,دراسة,Americas,Service centre,Educational Institution,18,2,Yes,No,4.0,3
 VA-101232,2025-04-11,Employment,Asia,Mobile app,Employer,36,3,Yes,No,6.0,9
 VA-104247,2025-11-11,Tourist,Asia,Mobile app,Tourism Establishment,48,1,Yes,Yes,6.0,6
 VA-101653,2025-03-26,Student,Europe,Online,Educational Institution,42,0,Yes,No,5.0,5
@@ -588,7 +588,7 @@ VA-102226,2025-01-08,Tourist,Asia,Mobile app,Individual,22,4,No,No,8.0,9
 VA-102075,2025-12-13,Employment,Europe,Mobile app,Employer,18,4,N,Yes,3.0,16
 VA-102916,2025-07-31,Employment,Americas,Mobile app,Employer,22,4,Yes,No,4.0,6
 VA-103186,2025-04-03,Family,Asia,Online,Individual,33,2,Yes,No,6.0,7
-VA-100250,2025-06-29,EMPLOYMENT,Africa,Online,Employer,36,0,Yes,No,,10
+VA-100250,2025-06-29,Work,Africa,Online,Employer,36,0,Yes,No,,10
 VA-101524,2025-11-04,Employment,Africa,Service centre,Employer,53,0,Yes,No,3.0,6
 VA-101768,2025-06-16,Tourist,Africa,Online,Individual,33,4,Yes,No,6.0,6
 VA-104096,2025-06-26,Employment,Europe,Online,Employer,18,0,Yes,Yes,4.0,15
@@ -607,7 +607,7 @@ VA-102295,2025-11-27,Tourist,Asia,Online,Tourism Establishment,28,1,Yes,No,5.0,2
 VA-100205,2025-10-18,Family,Europe,Online,Individual,31,1,Yes,No,5.0,7
 VA-100808,2025-01-17,Employment,Europe,Service centre,Employer,35,0,Yes,No,8.0,114
 VA-104600,2025-12-20,Tourist,GCC,Service centre,Individual,36,0,Yes,No,1.0,1
-VA-103767,2025-09-12,Work,Asia,Online,Employer,36,0,Yes,No,7.0,11
+VA-103767,2025-09-12,عمل,Asia,Online,Employer,36,0,Yes,No,7.0,11
 VA-101914,2025-08-03,Family,Asia,Service centre,Individual,26,0,Yes,No,9.0,10
 VA-103812,2025-04-16,Tourist,Asia,Online,Tourism Establishment,44,1,Yes,No,2.0,1
 VA-103213,2025-01-25,Tourist,Asia,Mobile app,Not Applicable,38,1,No,No,2.0,8
@@ -646,7 +646,7 @@ VA-102166,2025-06-13,Employment,Asia,Online,Employer,,2,Yes,No,7.0,9
 VA-101476,27/03/2025,Family,Asia,Online,Individual,31,1,Y,No,2.0,4
 VA-100133,2025-07-29,Family,Asia,Mobile app,Individual,38,1,Yes,Yes,3.0,17
 VA-104574,2025-02-16,Family,GCC,Online,Individual,37,0,Yes,Yes,3.0,15
-VA-102582,2025-05-20,دراسة,Americas,Online,Educational Institution,27,0,Yes,No,3.0,6
+VA-102582,2025-05-20,طالب,Americas,Online,Educational Institution,27,0,Yes,No,3.0,6
 VA-104929,2025-06-22,Tourist,Asia,Service centre,Tourism Establishment,21,2,Yes,No,3.0,2
 VA-100745,2025-08-07,Employment,Americas,Online,Employer,25,3,Yes,No,1.0,7
 VA-103702,2025-02-02,Tourist,Americas,Service centre,Tourism Establishment,48,2,Yes,No,5.0,3
@@ -713,7 +713,7 @@ VA-102360,2025-12-03,Employment,Asia,Service centre,Employer,22,2,Yes,No,5.0,9
 VA-104390,2025-03-16,Tourist,Europe,Online,Tourism Establishment,27,1,No,No,3.0,8
 VA-101810,2025-05-25,Tourist,Asia,Online,Tourism Establishment,28 years,2,Yes,No,5.0,1
 VA-102123,2025-03-31,Student,Europe,Online,Educational Institution,36,4,Yes,Yes,3.0,12
-VA-100119,2025-03-08,عمل,Americas,Service centre,Employer,44,0,Yes,No,3.0,9
+VA-100119,2025-03-08,شغل,Americas,Service centre,Employer,44,0,Yes,No,3.0,9
 VA-103317,2025-02-01,Student,Asia,Online,Educational Institution,44,1,No,Yes,5.0,19
 VA-100246,2025-12-17,Tourist,GCC,Online,Not Applicable,24,0,Yes,No,5.0,1
 VA-101907,2025-12-12,Tourist,Europe,Online,Tourism Establishment,39,0,Yes,No,6.0,4
@@ -789,7 +789,7 @@ VA-103006,2025-09-27,Student,Europe,Online,Educational Institution,31,2,Yes,No,9
 VA-100796,2025-10-26,Tourist,Europe,Online,Tourism Establishment,40,0,No,No,4.0,7
 VA-103823,26/03/2025,Employment,Asia,Mobile app,Employer,34,2,Yes,No,3.0,9
 VA-101113,2025-09-14,Family,Asia,Online,Individual,31,2,Yes,No,3.0,9
-VA-100761,2025-08-30,عمل,Europe,Online,Employer,35,0,No,No,6.0,16
+VA-100761,2025-08-30,شغل,Europe,Online,Employer,35,0,No,No,6.0,16
 VA-102842,2025-12-17,Employment,Asia,Online,Employer,46,2,Yes,No,1.0,7
 VA-100994,2025-12-13,Tourist,Asia,Mobile app,Tourism Establishment,,2,No,No,6.0,9
 VA-102692,2025-08-01,Student,Asia,Mobile app,Educational Institution,,2,Yes,Yes,6.0,12
@@ -801,7 +801,7 @@ VA-104677,2025-11-01,Family,Asia,Online,Individual,43,2,Yes,No,9.0,13
 VA-100589,2025-05-31,Tourist,Americas,,Tourism Establishment,38,0,No,No,6.0,7
 VA-102644,2025-07-25,Employment,Americas,Online,Employer,37,1,No,No,5.0,13
 VA-104148,2025-05-21,Employment,GCC,Mobile app,Employer,23 years,0,Yes,Yes,4.0,16
-VA-101742,2025-06-09,employment,Africa,Mobile app,Employer,37,0,Yes,Yes,5.0,15
+VA-101742,2025-06-09,EMPLOYMENT,Africa,Mobile app,Employer,37,0,Yes,Yes,5.0,15
 VA-102701,2025-10-06,Employment,Asia,Service centre,Employer,43,0,Yes,Yes,3.0,18
 VA-104331,2025-05-19,Employment,Asia,Service centre,Employer,38,1,No,Yes,6.0,22
 VA-100891,2025-01-08,Tourist,Europe,Online,Not Applicable,40,0,Yes,No,4.0,2
@@ -850,7 +850,7 @@ VA-103540,2025-02-15,Student,Americas,Mobile app,Educational Institution,21,1,Ye
 VA-104125,2025-05-27,Family,Asia,Online,Individual,28,1,Yes,No,7.0,9
 VA-103789,2025-02-08,Student,Asia,Online,Educational Institution,42,1,Yes,No,6.0,6
 VA-104424,2025-12-12,Family,Europe,Online,Individual,34,2,Yes,No,3.0,11
-VA-104800,2025-12-18,عمل,Europe,Online,Employer,36,1,Yes,No,10.0,13
+VA-104800,2025-12-18,شغل,Europe,Online,Employer,36,1,Yes,No,10.0,13
 VA-102010,2025-12-29,Employment,GCC,Mobile app,Employer,19,0,Yes,No,1.0,4
 VA-104313,2025-11-09,Employment,Europe,Mobile app,Employer,18,2,Yes,No,5.0,7
 VA-103388,2025-01-24,Family,GCC,Mobile app,Individual,18,2,No,No,4.0,10
@@ -967,10 +967,10 @@ VA-101123,2025-08-21,Employment,Europe,Online,Employer,30,2,Yes,Yes,5.0,13
 VA-103725,2025-03-09,Employment,Africa,Online,Employer,26,0,Yes,No,4.0,9
 VA-103073,2025-11-22,Family,Africa,Online,Individual,41,2,Yes,No,,13
 VA-100120,2025-08-14,Employment,Asia,Online,Employer,37,2,Yes,No,2.0,7
-VA-102441,2025-12-03,student,Europe,Online,Educational Institution,39,1,Yes,No,5.0,7
+VA-102441,2025-12-03,دراسة,Europe,Online,Educational Institution,39,1,Yes,No,5.0,7
 VA-101961,2025-07-01,Employment,Africa,Online,Employer,19,3,No,No,5.0,15
 VA-102886,2025-09-01,Tourist,GCC,Online,Individual,48,1,Yes,No,6.0,1
-VA-100364,2025-02-16,student,Asia,Online,Educational Institution,19,0,Yes,No,5.0,7
+VA-100364,2025-02-16,دراسة,Asia,Online,Educational Institution,19,0,Yes,No,5.0,7
 VA-101926,2025-04-16,Tourist,Asia,Service centre,Individual,35,2,Yes,No,4.0,7
 VA-101335,2025-12-08,Tourist,Asia,Service centre,Tourism Establishment,37,1,No,No,6.0,12
 VA-103740,2025-12-06,Employment,GCC,Online,Employer,,0,Yes,No,4.0,8
@@ -996,7 +996,7 @@ VA-103162,2025-09-17,Tourist,Africa,Service centre,Individual,41,1,Yes,No,8.0,9
 VA-104510,2025-11-28,Family,Europe,Online,Individual,19 years,1,No,No,6.0,17
 VA-103766,2025-11-16,Family,Europe,Online,Individual,24,2,Yes,No,6.0,10
 VA-100791,2025-12-15,Family,Americas,Service centre,Individual,43,3,Yes,No,2.0,9
-VA-103197,2025-02-23,Work,Americas,Online,Employer,35,3,Yes,No,6.0,7
+VA-103197,2025-02-23,عمل,Americas,Online,Employer,35,3,Yes,No,6.0,7
 VA-103542,2025-10-06,Tourist,Asia,Online,Individual,20,3,Yes,No,1.0,1
 VA-100301,2025-06-05,Employment,Asia,Mobile app,Employer,30,1,Yes,No,7.0,9
 VA-100700,2025-12-03,Student,Africa,,Educational Institution,29,1,Yes,No,3.0,9
@@ -1180,7 +1180,7 @@ VA-103091,2025-10-15,Tourist,Africa,Service centre,Tourism Establishment,28,1,No
 VA-103935,2025-03-24,Family,Asia,Online,Individual,39,2,Yes,No,4.0,8
 VA-104852,2025-12-19,Family,GCC,Online,Individual,38,2,Yes,No,6.0,5
 VA-102233,2025-12-25,Family,Europe,Online,Individual,19,4,Yes,No,6.0,7
-VA-102394,2025-01-10,عمل,GCC,Online,Employer,24,3,No,Yes,5.0,20
+VA-102394,2025-01-10,شغل,GCC,Online,Employer,24,3,No,Yes,5.0,20
 VA-103880,2025-01-14,Tourist,Asia,Mobile app,Not Applicable,18,1,Yes,No,7.0,3
 VA-103035,2025-02-19,Tourist,Europe,Online,Tourism Establishment,39,1,Yes,No,2.0,3
 VA-102456,2025-10-29,Employment,Asia,,Employer,24,1,Yes,No,2.0,7
@@ -1242,7 +1242,7 @@ VA-104938,2025-07-02,Family,GCC,Service centre,Individual,18,1,Yes,No,4.0,8
 VA-101729,2025-05-01,Tourist,Africa,Service centre,Individual,35,0,Yes,No,4.0,7
 VA-101399,2025-08-14,Tourist,Asia,Online,Not Applicable,41,0,Yes,No,7.0,5
 VA-101921,2025-07-13,Tourist,Americas,Online,Individual,,0,Yes,No,5.0,2
-VA-100893,2025-12-30,EMPLOYMENT,Europe,Online,Employer,42,2,No,No,6.0,12
+VA-100893,2025-12-30,Work,Europe,Online,Employer,42,2,No,No,6.0,12
 VA-100695,2025-11-09,Family,Europe,Online,Individual,26,1,Yes,No,4.0,8
 VA-101422,2025-07-26,Family,Asia,Online,Individual,31,0,Yes,No,6.0,11
 VA-103835,2025-06-21,Tourist,Africa,Online,Individual,33,2,Yes,No,3.0,1
@@ -1286,7 +1286,7 @@ VA-101080,2025-01-21,عائلية,GCC,Online,Individual,30,1,No,No,5.0,16
 VA-103370,2025-01-09,Tourist,Africa,Mobile app,Not Applicable,32,2,Yes,No,8.0,3
 VA-100233,2025-07-25,Student,Asia,Online,Educational Institution,33,0,Yes,No,6.0,7
 VA-101856,2025-09-25,Tourist,Asia,Online,Not Applicable,45,2,Yes,No,2.0,6
-VA-103504,2025-02-01,دراسة,Asia,Online,Educational Institution,43,0,Yes,Yes,4.0,12
+VA-103504,2025-02-01,طالب,Asia,Online,Educational Institution,43,0,Yes,Yes,4.0,12
 VA-103583,2025-11-10,Employment,Americas,Mobile app,Employer,30,1,Yes,No,3.0,6
 VA-101865,2025-06-10,Employment,Asia,Online,Employer,54,1,Yes,No,7.0,11
 VA-104632,2025-02-17,Employment,Europe,Service centre,Employer,47,2,Yes,No,7.0,9
@@ -1302,7 +1302,7 @@ VA-104546,2025-09-04,Tourist,Europe,Service centre,Not Applicable,20,1,Yes,No,5.
 VA-102945,2025-11-27,Student,Americas,Online,Educational Institution,24,0,Yes,No,7.0,7
 VA-104255,2025-10-31,student,Asia,,Educational Institution,32,0,Yes,Yes,5.0,14
 VA-103774,2025-05-25,Employment,Asia,Mobile app,Employer,47,5,Yes,Yes,3.0,7
-VA-104045,2025-03-09,عمل,Europe,Online,Employer,33,1,Yes,Yes,5.0,16
+VA-104045,2025-03-09,شغل,Europe,Online,Employer,33,1,Yes,Yes,5.0,16
 VA-102533,2025-05-17,Family,Africa,Online,Individual,18,1,Yes,No,6.0,6
 VA-104737,2025-02-24,Family,Americas,Service centre,Individual,36,3,Yes,Yes,7.0,14
 VA-100857,2025-11-25,Tourist,Asia,Online,Tourism Establishment,18,0,Yes,No,4.0,4
@@ -1386,7 +1386,7 @@ VA-103483,2025-02-16,Family,Europe,Online,Individual,44,2,Yes,Yes,3.0,13
 VA-101561,2025-01-11,Tourist,Africa,Mobile app,Tourism Establishment,24,2,Yes,No,6.0,3
 VA-104803,2025-02-27,Employment,GCC,Mobile app,Employer,26,1,Yes,No,5.0,6
 VA-101143,2025-03-06,Employment,Asia,Service centre,Employer,40,4,Yes,No,6.0,10
-VA-101035,2025-11-13,عمل,Europe,Mobile app,Employer,24,0,0,No,4.0,10
+VA-101035,2025-11-13,شغل,Europe,Mobile app,Employer,24,0,0,No,4.0,10
 VA-102730,2025-06-25,Family,Europe,Online,Individual,31,2,Yes,No,6.0,6
 VA-101513,2025-10-02,Employment,Asia,Mobile app,Employer,18,1,Yes,Yes,5.0,15
 VA-101432,2025-07-01,Tourist,Americas,Mobile app,Tourism Establishment,38,3,Yes,No,4.0,2
@@ -1443,7 +1443,7 @@ VA-101564,2025-05-23,Student,Europe,Service centre,Educational Institution,37,2,
 VA-100125,2025-02-09,Tourist,Asia,Online,Individual,24,1,Yes,No,4.0,1
 VA-102630,2025-07-05,Tourist,Americas,Online,Tourism Establishment,33,0,Yes,No,4.0,3
 VA-100953,2025-05-04,Tourist,Americas,Service centre,Individual,42,2,Yes,No,4.0,8
-VA-100481,2025-09-30,عمل,Asia,Online,Employer,32,0,Yes,No,8.0,9
+VA-100481,2025-09-30,شغل,Asia,Online,Employer,32,0,Yes,No,8.0,9
 VA-104468,2025-03-26,Employment,Asia,Service centre,Employer,41,2,N,No,4.0,12
 VA-103984,2025-02-20,سياحة,Asia,Online,Tourism Establishment,29,1,Yes,No,5.0,5
 VA-102872,2025-09-29,Tourist,Europe,Online,Individual,,1,Yes,No,5.0,3
@@ -1461,7 +1461,7 @@ VA-100813,2025-07-05,Tourist,Asia,Service centre,Not Applicable,41,3,Yes,No,7.0,
 VA-100130,2025-08-12,Tourist,Asia,Online,Not Applicable,34,0,Yes,Yes,8.0,12
 VA-104123,2025-11-06,Family,GCC,Online,Individual,48,0,Yes,No,3.0,8
 VA-103169,2025-07-07,Employment,Asia,Online,Employer,50,0,No,Yes,7.0,24
-VA-101724,2025-06-09,عمل,Asia,Service centre,Employer,28,2,Yes,No,5.0,12
+VA-101724,2025-06-09,شغل,Asia,Service centre,Employer,28,2,Yes,No,5.0,12
 VA-102529,2025-07-04,Student,Europe,Mobile app,Educational Institution,39,1,Yes,No,2.0,2
 VA-100490,2025-12-12,Tourist,Asia,Service centre,Tourism Establishment,,0,Yes,Yes,4.0,12
 VA-104541,2025-06-21,Student,Europe,Online,Educational Institution,33,2,No,No,5.0,13
@@ -1475,7 +1475,7 @@ VA-101523,2025-04-09,Employment,Asia,Mobile app,Employer,42,0,Yes,Yes,4.0,14
 VA-103003,2025-03-21,Family,Asia,Online,Individual,55,3,Yes,No,4.0,10
 VA-100399,2025-10-12,Tourist,Africa,Mobile app,Tourism Establishment,34,2,No,No,5.0,8
 VA-102856,13/07/2025,Work,Asia,Online,Employer,18,1,No,No,4.0,15
-VA-102943,2025-01-01,عمل,Americas,Mobile app,Employer,46,0,Yes,No,7.0,8
+VA-102943,2025-01-01,شغل,Americas,Mobile app,Employer,46,0,Yes,No,7.0,8
 VA-103041,2025-09-26,Student,Asia,Service centre,Educational Institution,43,1,No,No,,11
 VA-101049,2025-06-01,Tourist ,Americas,Service centre,Individual,53,1,Yes,No,7.0,10
 VA-103321,2025-05-07,Tourist,GCC,Mobile app,Tourism Establishment,27,0,Yes,No,3.0,2
@@ -1560,7 +1560,7 @@ VA-102854,2025-05-12,Tourist,Americas,Online,Individual,35,0,Yes,No,6.0,5
 VA-103733,2025-06-21,Tourist,Europe,Online,Tourism Establishment,37,0,Yes,No,6.0,4
 VA-101603,2025-06-09,Family,GCC,Online,Individual,37,4,No,No,4.0,14
 VA-100598,2025-12-16,Tourist,Europe,Online,Individual,34,1,Yes,No,4.0,4
-VA-104517,2025-04-30,دراسة,Asia,Mobile app,Educational Institution,23,0,Yes,No,5.0,6
+VA-104517,2025-04-30,طالب,Asia,Mobile app,Educational Institution,23,0,Yes,No,5.0,6
 VA-104536,2025-01-08,TOURIST,GCC,Online,Tourism Establishment,36,2,No,No,7.0,7
 VA-100386,2025-12-12,Tourist,Asia,Online,Not Applicable,37,1,Yes,Yes,4.0,13
 VA-102470,2025-06-06,Employment,Europe,Online,Employer,20,0,Yes,No,4.0,12
@@ -1640,7 +1640,7 @@ VA-104552,2025-06-10,Tourist,Americas,Online,Tourism Establishment,48,2,Yes,No,3
 VA-102881,2025-08-20,Employment,Asia,Online,Employer,28,1,Yes,No,7.0,12
 VA-102719,2025-02-06,Family,Asia,,Individual,33,1,N,No,4.0,7
 VA-103670,2025-11-07,Employment,Europe,Mobile app,Employer,24,1,No,No,3.0,13
-VA-104808,2025-09-14,Work,Africa,Online,Employer,30,2,Yes,No,4.0,7
+VA-104808,2025-09-14,عمل,Africa,Online,Employer,30,2,Yes,No,4.0,7
 VA-104834,2025-12-22,Employment,Americas,Online,Employer,20,2,Yes,No,4.0,10
 VA-102634,2025-11-23,Family,Asia,Online,Individual,40,1,Yes,Yes,6.0,15
 VA-104323,2025-10-04,Student,GCC,Service centre,Educational Institution,24 years,1,No,No,5.0,12
@@ -1662,7 +1662,7 @@ VA-104009,2025-10-26,Family,GCC,Mobile app,Individual,32,4,Yes,No,8.0,9
 VA-101714,2025-11-19,Employment,Europe,Online,Employer,49,0,Yes,No,8.0,9
 VA-100432,2025-06-26,employment,Europe,Online,Employer,36,1,No,No,8.0,15
 VA-100739,2025-06-13,Work,Americas,Mobile app,Employer,41,1,Yes,No,5.0,9
-VA-102818,2025-05-26,EMPLOYMENT,Asia,Service centre,Employer,44,0,Yes,No,4.0,9
+VA-102818,2025-05-26,Work,Asia,Service centre,Employer,44,0,Yes,No,4.0,9
 VA-101833,2025-12-23,Student,Europe,Service centre,Educational Institution,48,1,Yes,No,4.0,4
 VA-102165,2025-07-28,Family,Europe,Mobile app,Individual,54,0,Yes,No,3.0,8
 VA-103528,2025-08-24,Student,Americas,,Educational Institution,37,3,No,No,10.0,8
@@ -1681,7 +1681,7 @@ VA-101852,2025-09-05,Employment,Asia,Mobile app,Employer,19,1,No,Yes,6.0,20
 VA-104102,2025-08-26,Family,Africa,Online,Individual,32,2,Yes,No,4.0,4
 VA-100403,2025-03-21,Tourist,Europe,Online,Tourism Establishment,,1,Yes,No,5.0,1
 VA-104667,2025-05-08,Tourist,Europe,Service centre,Tourism Establishment,39,2,Yes,Yes,3.0,12
-VA-100050,2025-01-16,Work,Asia,Online,Employer,34,0,No,No,8.0,17
+VA-100050,2025-01-16,عمل,Asia,Online,Employer,34,0,No,No,8.0,17
 VA-103979,2025-06-10,Tourist,Asia,Online,Not Applicable,36,2,Yes,Yes,2.0,8
 VA-104135,2025-09-20,Student,Asia,Online,Educational Institution,35,0,Yes,Yes,4.0,12
 VA-102279,2025-12-31,Tourist,Africa,Service centre,Not Applicable,24,0,yes,No,2.0,4
@@ -1735,7 +1735,7 @@ VA-100686,2025-03-26,Employment,Asia,Online,Employer,25,2,Yes,No,2.0,7
 VA-104570,2025-06-03,Tourist,Europe,Mobile app,Tourism Establishment,52,1,Yes,No,6.0,3
 VA-102117,2025-05-03,Tourist,Asia,Online,Tourism Establishment,31,2,Yes,No,6.0,3
 VA-100693,2025-10-31,Family,Americas,Online,Individual,33,1,No,No,5.0,15
-VA-104494,2025-10-29,Work,Africa,Online,Employer,33,2,Yes,Yes,3.0,13
+VA-104494,2025-10-29,عمل,Africa,Online,Employer,33,2,Yes,Yes,3.0,13
 VA-104378,2025-05-16,Family,Asia,Online,Individual,38,1,Yes,No,5.0,8
 VA-102712,2025-09-06,Tourist,Asia,Service centre,Tourism Establishment,43,1,Yes,No,5.0,3
 VA-103579,2025-04-15,Employment,Asia,Online,Employer,37,3,Yes,Yes,9.0,12
@@ -1759,7 +1759,7 @@ VA-100630,2025-08-01,Tourist,Europe,Online,Tourism Establishment,26,0,Yes,No,6.0
 VA-100254,2025-05-29,Tourist,GCC,Online,Tourism Establishment,33,3,yes,No,7.0,2
 VA-101825,2025-06-04,Employment,Africa,Online,Employer,25,1,Yes,Yes,7.0,15
 VA-102513,2025-01-19,Tourist,GCC,Online,Tourism Establishment,32,1,No,No,2.0,8
-VA-100882,2025-06-10,Work,GCC,Online,Employer,25,0,No,No,7.0,15
+VA-100882,2025-06-10,عمل,GCC,Online,Employer,25,0,No,No,7.0,15
 VA-102349,2025-02-12,Tourist,GCC,Mobile app,Tourism Establishment,32,0,Yes,No,5.0,1
 VA-102408,2025-11-11,Employment,GCC,Service centre,Employer,29,0,Yes,Yes,7.0,19
 VA-101240,2025-08-19,Employment,Asia,Online,Employer,,3,Yes,No,5.0,4
@@ -1804,7 +1804,7 @@ VA-100842,2025-07-17,Employment,Europe,Service centre,Employer,63,1,Yes,Yes,3.0,
 VA-102319,2025-10-17,TOURIST,Asia,Mobile app,Individual,23,1,Yes,No,4.0,5
 VA-104523,2025-02-26,Student,Americas,Mobile app,Educational Institution,34,0,Yes,No,6.0,5
 VA-102336,2025-04-22,Employment,Asia,Online,Employer,19,0,No,Yes,5.0,22
-VA-102179,2025-05-24,Work,GCC,Online,Employer,23,2,Yes,No,4.0,6
+VA-102179,2025-05-24,عمل,GCC,Online,Employer,23,2,Yes,No,4.0,6
 VA-103523,2025-04-27,Student,GCC,Online,Educational Institution,44,1,Yes,No,4.0,2
 VA-103496,2025-01-21,Tourist,GCC,Online,Tourism Establishment,31,2,No,No,4.0,5
 VA-100968,2025-10-27,Tourist,Americas,Online,Not Applicable,,0,No,No,6.0,12
@@ -1844,7 +1844,7 @@ VA-104985,2025-10-26,Tourist,Asia,Mobile app,Tourism Establishment,23,1,Yes,No,1
 VA-101087,2025-02-19,Tourist,Asia,Mobile app,Individual,30,1,Yes,No,6.0,3
 VA-103290,2025-11-25,Family,GCC,Mobile app,Individual,24,0,Yes,No,4.0,10
 VA-100382,2025-01-26,Family,Asia,Service centre,Individual,19,3,Yes,No,3.0,12
-VA-101099,2025-11-03,عمل,Africa,Online,Employer,52,1,Yes,Yes,3.0,15
+VA-101099,2025-11-03,شغل,Africa,Online,Employer,52,1,Yes,Yes,3.0,15
 VA-102257,2025-12-09,Tourist,Europe,Online,Tourism Establishment,39,0,No,No,8.0,6
 VA-102262,2025-01-20,Tourist,Europe,Online,Tourism Establishment,36,0,No,No,7.0,12
 VA-100482,2025-08-13,Tourist,Asia,Online,Not Applicable,34,2,No,No,9.0,9
@@ -1865,7 +1865,7 @@ VA-100089,2025-09-16,Tourist,Africa,Online,Individual,35,0,Yes,No,5.0,5
 VA-100850,2025-09-16,Family,Asia,Online,Individual,24,0,Yes,No,3.0,7
 VA-103420,2025-03-01,Tourist,GCC,,Tourism Establishment,37,0,Yes,No,7.0,7
 VA-103067,2025-04-04,Student,Asia,,Educational Institution,22,0,Yes,No,3.0,4
-VA-102346,2025-11-20,دراسة,Americas,Mobile app,Educational Institution,31,1,Yes,Yes,7.0,13
+VA-102346,2025-11-20,طالب,Americas,Mobile app,Educational Institution,31,1,Yes,Yes,7.0,13
 VA-100297,2025-03-02,family,Asia,Service centre,Individual,30,2,Yes,No,4.0,8
 VA-102873,2025-06-10,Employment,GCC,Online,Employer,38,0,No,No,5.0,17
 VA-100527,2025-06-21,Employment,Europe,Mobile app,Employer,30,4,No,Yes,5.0,19
@@ -1888,7 +1888,7 @@ VA-104738,2025-08-26,Tourist,Asia,Online,Individual,23,3,Yes,No,8.0,5
 VA-100083,2025-07-14,Tourist,Americas,Mobile app,Tourism Establishment,32,1,Yes,No,7.0,1
 VA-102327,30/03/2025,Employment,GCC,Service centre,Employer,40,1,Yes,No,4.0,11
 VA-104530,2025-05-03,Tourist,GCC,Online,Not Applicable,41,0,No,No,7.0,13
-VA-101836,2025-09-08,دراسة,GCC,Online,Educational Institution,35,5,Yes,No,3.0,7
+VA-101836,2025-09-08,طالب,GCC,Online,Educational Institution,35,5,Yes,No,3.0,7
 VA-103262,2025-07-20,Student,GCC,Service centre,Educational Institution,42,4,Yes,No,2.0,3
 VA-103381,2025-06-01,Family,Africa,,Individual,18,1,Yes,No,6.0,8
 VA-102573,2025-03-18,Tourist,Asia,Service centre,Tourism Establishment,,0,Yes,No,5.0,1
@@ -1896,7 +1896,7 @@ VA-102098,2025-06-27,Tourist,GCC,Mobile app,Individual,22,2,Yes,Yes,5.0,13
 VA-102506,2025-03-13,Student,Africa,Service centre,Educational Institution,32,1,Yes,No,4.0,6
 VA-100047,2025-03-04,Family,GCC,Mobile app,Individual,25,0,Yes,No,3.0,8
 VA-103836,2025-09-14,Employment,Americas,Online,Employer,40,1,No,Yes,4.0,24
-VA-102027,2025-10-05,دراسة,Asia,Online,Educational Institution,31,1,Yes,No,3.0,2
+VA-102027,2025-10-05,طالب,Asia,Online,Educational Institution,31,1,Yes,No,3.0,2
 VA-102747,2025-03-07,Employment,Africa,Service centre,Employer,28,3,Yes,No,5.0,13
 VA-100397,17/01/2025,Employment,Asia,Mobile app,Employer,35,0,Yes,No,2.0,7
 VA-101507,2025-08-19,Tourist,Americas,Online,Not Applicable,31,5,Yes,No,7.0,3
@@ -1946,7 +1946,7 @@ VA-104370,2025-07-31,Tourist,Europe,Online,Not Applicable,39,1,Yes,No,5.0,2
 VA-100817,2025-12-30,Family,Americas,Online,Individual,18,0,Yes,No,3.0,10
 VA-100564,2025-10-04,Employment,Asia,Mobile app,Employer,45,1,Yes,Yes,6.0,14
 VA-102282,2025-07-20,Family,GCC,Online,Individual,46 years,2,No,No,9.0,12
-VA-104143,2025-08-30,دراسة,GCC,Online,Educational Institution,19,3,Yes,No,5.0,4
+VA-104143,2025-08-30,طالب,GCC,Online,Educational Institution,19,3,Yes,No,5.0,4
 VA-102338,2025-09-21,TOURIST,Africa,Online,Tourism Establishment,44,0,Yes,No,6.0,5
 VA-100074,2025-11-05,Employment,Americas,Mobile app,Employer,30,0,Yes,No,5.0,8
 VA-100855,2025-11-08,Tourist,Americas,Online,Tourism Establishment,26,2,No,Yes,7.0,19
@@ -2019,7 +2019,7 @@ VA-102268,2025-07-22,Employment,Asia,Online,Employer,27,1,Yes,No,2.0,6
 VA-102228,2025-07-21,Tourist,Europe,Service centre,Individual,33,1,Yes,No,5.0,6
 VA-100924,2025-03-12,Tourist,Americas,Service centre,Tourism Establishment,37,1,No,No,7.0,11
 VA-100702,2025-03-03,Tourist,Europe,Online,Tourism Establishment,,0,Yes,No,4.0,5
-VA-101013,2025-03-08,عمل,GCC,Service centre,Employer,40,2,No,No,4.0,17
+VA-101013,2025-03-08,شغل,GCC,Service centre,Employer,40,2,No,No,4.0,17
 VA-103839,2025-03-17,family,Europe,Online,Individual,18,1,Yes,Yes,5.0,13
 VA-103546,2025-05-06,employment,Asia,Online,Employer,39,3,Yes,No,5.0,6
 VA-101173,2025-04-24,Employment,Africa,Service centre,Employer,70,2,Yes,No,7.0,9
@@ -2081,7 +2081,7 @@ VA-103021,2025-05-15,Student,GCC,Mobile app,Educational Institution,51,1,Yes,No,
 VA-103604,2025-02-03,TOURIST,Americas,Online,Individual,44,2,Yes,No,6.0,3
 VA-104693,2025-04-05,Family,GCC,Service centre,Individual,56,1,Yes,No,7.0,7
 VA-104555,2025-04-11,Tourist,Americas,Online,Individual,32,1,Yes,No,5.0,8
-VA-101610,2025-09-06,عمل,Europe,Service centre,Employer,37,1,Yes,Yes,7.0,18
+VA-101610,2025-09-06,شغل,Europe,Service centre,Employer,37,1,Yes,Yes,7.0,18
 VA-101643,2025-09-08,Employment,Africa,Online,Employer,28,0,Yes,No,3.0,9
 VA-101219,2025-04-05,Employment,Asia,Online,Employer,18,4,Yes,Yes,,14
 VA-101604,2025-02-27,Tourist,Asia,Online,Tourism Establishment,40,1,Yes,No,6.0,2
@@ -2145,7 +2145,7 @@ VA-103748,2025-06-12,Family,Asia,Online,Individual,30,2,Yes,No,5.0,6
 VA-103016,2025-10-09,Family,Asia,Service centre,Individual,18,3,Yes,No,6.0,9
 VA-101402,2025-03-17,Family,Asia,Online,Individual,20,3,Yes,No,5.0,6
 VA-103398,2025-04-08,Tourist,Asia,Online,Tourism Establishment,,0,Yes,No,5.0,1
-VA-102778,2025-03-13,عمل,Asia,Mobile app,Employer,38,2,Yes,No,1.0,6
+VA-102778,2025-03-13,شغل,Asia,Mobile app,Employer,38,2,Yes,No,1.0,6
 VA-102136,2025-06-22,Employment,Asia,Mobile app,Employer,28,1,Yes,No,7.0,10
 VA-100180,2025-03-24,Family,Asia,Service centre,Individual,40,1,Yes,No,6.0,11
 VA-104277,2025-03-10,Employment,Europe,Online,Employer,35,0,Yes,Yes,4.0,16
@@ -2168,7 +2168,7 @@ VA-103465,2025-01-15,Family,Europe,Mobile app,Individual,46,1,Yes,No,6.0,9
 VA-103672,2025-04-19,Employment,Asia,Online,Employer,20,0,Yes,Yes,5.0,16
 VA-103272,2025-10-27,Tourist,Asia,Online,Tourism Establishment,35,1,Yes,No,6.0,2
 VA-100876,2025-06-24,Tourist,GCC,Online,Tourism Establishment,42,2,Yes,No,5.0,4
-VA-101391,2025-01-28,Work,Africa,Online,Employer,41,2,Yes,No,5.0,9
+VA-101391,2025-01-28,عمل,Africa,Online,Employer,41,2,Yes,No,5.0,9
 VA-100506,2025-07-01,Tourist,Americas,Online,Tourism Establishment,21,1,No,No,2.0,6
 VA-103505,2025-05-13,Student,Asia,Online,Educational Institution,24,0,Yes,Yes,10.0,12
 VA-101014,2025-06-22,Tourist,Africa,Online,Not Applicable,46,2,Yes,No,3.0,2
@@ -2297,7 +2297,7 @@ VA-102389,2025-02-15,Family,Europe,Mobile app,Individual,55,0,Yes,No,5.0,8
 VA-100422,2025-09-04,Work,Asia,Service centre,Employer,50,1,No,No,2.0,16
 VA-103714,2025-12-14,Family,Europe,Service centre,Individual,38,2,Yes,No,6.0,12
 VA-100875,2025-03-27,Student,Americas,Online,Educational Institution,47,0,Yes,No,5.0,8
-VA-104512,2025-05-01,student,Europe,Service centre,Educational Institution,38,1,No,No,3.0,12
+VA-104512,2025-05-01,دراسة,Europe,Service centre,Educational Institution,38,1,No,No,3.0,12
 VA-102753,2025-01-28,Employment,GCC,Online,Employer,26,2,Yes,No,6.0,10
 VA-103143,2025-10-07,Tourist,Asia,Service centre,Individual,28,1,0,No,5.0,7
 VA-101566,2025-06-13,Tourist,Europe,Mobile app,Tourism Establishment,29,0,Yes,No,,1
@@ -2331,7 +2331,7 @@ VA-100146,2025-05-24,Tourist,Africa,Mobile app,Tourism Establishment,49,2,No,No,
 VA-104207,2025-12-09,Tourist,Africa,Online,Not Applicable,48,0,Yes,No,9.0,7
 VA-104705,2025-05-31,Employment,Americas,Online,Employer,27,2,No,No,3.0,13
 VA-103908,2025-10-21,Family,Europe,Online,Individual,36,1,No,No,6.0,20
-VA-101536,2025-08-20,EMPLOYMENT,Asia,Mobile app,Employer,28,2,Yes,Yes,2.0,13
+VA-101536,2025-08-20,Work,Asia,Mobile app,Employer,28,2,Yes,Yes,2.0,13
 VA-104823,2025-12-22,tourist,Asia,Online,Individual,24,2,No,No,2.0,8
 VA-101196,2025-06-03,Tourist,Asia,Service centre,Tourism Establishment,26,2,No,No,4.0,9
 VA-103463,2025-10-01,Family,Asia,Service centre,Individual,45,3,Yes,No,2.0,11
@@ -2399,7 +2399,7 @@ VA-100896,2025-08-17,Tourist,Asia,Online,Individual,29,3,No,No,5.0,9
 VA-102442,2025-05-22,Employment,Africa,Service centre,Employer,24,1,No,Yes,3.0,21
 VA-101376,2025-11-23,Tourist,Europe,Service centre,Not Applicable,65,1,Yes,No,5.0,7
 VA-103339,2025-12-24,Tourist,GCC,Service centre,Not Applicable,45,1,Yes,No,2.0,3
-VA-103667,2025-12-19,دراسة,Asia,Service centre,Educational Institution,26,1,Yes,No,6.0,7
+VA-103667,2025-12-19,طالب,Asia,Service centre,Educational Institution,26,1,Yes,No,6.0,7
 VA-104771,2025-07-31,Tourist ,Africa,Online,Tourism Establishment,33,0,Y,No,6.0,11
 VA-104730,2025-06-01,Student,Americas,Mobile app,Educational Institution,33,3,Yes,No,5.0,3
 VA-100477,2025-12-07,Tourist,Asia,Mobile app,Individual,28,3,Yes,No,4.0,5
@@ -2743,7 +2743,7 @@ VA-103334,2025-02-17,Employment,Europe,Online,Employer,33,2,1,No,2.0,8
 VA-103868,2025-02-26,Employment,Europe,Mobile app,Employer,36,1,Yes,Yes,4.0,14
 VA-101467,2025-06-29,TOURIST,Asia,Mobile app,Individual,34,1,No,No,5.0,10
 VA-104249,2025-10-16,Employment,GCC,Online,Employer,50,1,No,Yes,6.0,19
-VA-100621,05/08/2025,EMPLOYMENT,Americas,Mobile app,Employer,22,0,No,No,8.0,16
+VA-100621,05/08/2025,Work,Americas,Mobile app,Employer,22,0,No,No,8.0,16
 VA-103385,2025-12-12,Tourist,Asia,Online,Individual,35,0,Yes,No,4.0,3
 VA-103589,2025-02-05,Employment,Asia,Mobile app,Employer,45,1,Yes,No,4.0,9
 VA-101778,2025-09-12,Family,Asia,Online,Individual,35,1,No,No,3.0,14
@@ -2777,7 +2777,7 @@ VA-103396,2025-11-10,Employment,Asia,Service centre,Employer,30,0,No,No,5.0,20
 VA-100132,2025-04-10,Student,Asia,Service centre,Educational Institution,31,2,Yes,No,8.0,8
 VA-102462,2025-04-08,Employment,Asia,Service centre,Employer,25,1,Yes,No,8.0,10
 VA-100035,2025-08-08,Student,Asia,Online,Educational Institution,51,2,yes,No,4.0,3
-VA-100441,2025-12-06,Work,Americas,Service centre,Employer,30,1,Yes,No,5.0,7
+VA-100441,2025-12-06,عمل,Americas,Service centre,Employer,30,1,Yes,No,5.0,7
 VA-100064,2025-11-18,Family,Europe,Online,Individual,32,1,Yes,No,6.0,7
 VA-102029,2025-11-18,Tourist,Europe,Mobile app,Tourism Establishment,46,1,Yes,No,8.0,4
 VA-101668,2025-06-29,Family,Africa,Online,Individual,31,1,Yes,No,,10
@@ -2881,7 +2881,7 @@ VA-101944,2025-07-01,Employment,GCC,,Employer,31,1,Yes,No,2.0,14
 VA-100660,2025-11-25,Employment,Asia,Mobile app,Employer,33,0,Yes,No,5.0,8
 VA-101446,01/12/2025,Tourist,Asia,Online,Tourism Establishment,45,1,Yes,No,6.0,1
 VA-102801,2025-05-15,Tourist,Asia,Online,Tourism Establishment,39,1,Yes,No,4.0,1
-VA-102951,2025-12-13,عمل,Asia,Online,Employer,,0,Yes,No,8.0,9
+VA-102951,2025-12-13,شغل,Asia,Online,Employer,,0,Yes,No,8.0,9
 VA-100288,2025-06-06,Employment,Europe,Service centre,Employer,63,2,Yes,No,3.0,9
 VA-101776,2025-04-23,Tourist,Asia,Mobile app,Individual,32,0,Yes,No,1.0,3
 VA-101357,2025-10-07,Tourist,Americas,Online,Tourism Establishment,22,0,Yes,No,7.0,1
@@ -2977,7 +2977,7 @@ VA-101199,2025-02-14,Student,Asia,Online,Educational Institution,38,0,Yes,No,7.0
 VA-102216,2025-01-04,Family,Americas,Service centre,Individual,48,1,Yes,No,7.0,7
 VA-104559,2025-11-28,Tourist,Asia,Online,Tourism Establishment,30 years,1,Yes,No,3.0,3
 VA-100469,2025-03-04,Family,GCC,Online,Individual,37,4,Yes,No,5.0,6
-VA-104845,2025-07-02,Work,Asia,Online,Employer,27,2,Yes,No,5.0,7
+VA-104845,2025-07-02,عمل,Asia,Online,Employer,27,2,Yes,No,5.0,7
 VA-103724,2025-06-03,Family,Americas,Online,Individual,37,2,No,No,5.0,14
 VA-100106,2025-10-12,Employment,Africa,Online,Employer,40,1,No,No,5.0,12
 VA-101484,2025-05-12,Family,Asia,Mobile app,Individual,41,0,Yes,No,4.0,7
@@ -3138,7 +3138,7 @@ VA-101839,2025-09-02,Family,Americas,Service centre,Individual,33,0,No,No,4.0,15
 VA-103897,2025-12-23,عمل,Asia,Mobile app,Employer,,0,Yes,No,3.0,6
 VA-100240,2025-09-13,Tourist,Africa,Service centre,Individual,27,1,No,No,5.0,10
 VA-101517,2025-06-11,Tourist,Asia,Online,Tourism Establishment,39,0,Yes,No,4.0,6
-VA-102163,2025-10-01,Work,Africa,Online,Employer,43,3,Yes,No,4.0,7
+VA-102163,2025-10-01,عمل,Africa,Online,Employer,43,3,Yes,No,4.0,7
 VA-100676,2025-12-07,Employment,Asia,Online,Employer,25,1,Yes,No,7.0,11
 VA-104075,2025-09-22,Employment,Europe,Mobile app,Employer,50,2,Yes,No,7.0,9
 VA-104703,2025-07-15,Employment,Africa,Mobile app,Employer,36,0,Yes,No,7.0,9
@@ -3286,8 +3286,8 @@ VA-102666,2025-07-20,Family,Africa,Service centre,Individual,18,1,No,No,5.0,14
 VA-104942,2025-06-05,Tourist,Africa,Online,Tourism Establishment,61,0,Yes,No,5.0,2
 VA-101442,2025-06-01,Tourist ,Asia,Online,Individual,28,6,Yes,No,1.0,7
 VA-104446,2025-10-14,Family,Europe,Online,Individual,32,1,Yes,No,4.0,10
-VA-102271,2025-06-22,Work,Europe,Mobile app,Employer,19,2,Yes,Yes,2.0,10
-VA-104171,2025-01-25,EMPLOYMENT,Europe,Service centre,Employer,23,1,Yes,No,2.0,9
+VA-102271,2025-06-22,عمل,Europe,Mobile app,Employer,19,2,Yes,Yes,2.0,10
+VA-104171,2025-01-25,Work,Europe,Service centre,Employer,23,1,Yes,No,2.0,9
 VA-100523,2025-07-09,Employment,Europe,Mobile app,Employer,35,2,No,No,6.0,16
 VA-104832,2025-03-04,Tourist,GCC,Service centre,Individual,43,1,Yes,No,10.0,5
 VA-104316,2025-11-15,Family,Europe,Online,Individual,25,1,No,No,7.0,19
@@ -3317,7 +3317,7 @@ VA-101664,2025-08-16,Student,Asia,Online,Educational Institution,,2,Yes,No,2.0,6
 VA-102439,2025-06-26,Tourist,GCC,Online,Tourism Establishment,,1,Yes,No,3.0,2
 VA-102939,2025-04-24,Tourist,GCC,Mobile app,Tourism Establishment,37,1,Yes,No,4.0,1
 VA-104562,22/12/2025,Tourist,Asia,Service centre,Not Applicable,37,1,Yes,No,3.0,6
-VA-103934,2025-05-03,Work,Americas,Online,Employer,32,1,Yes,No,6.0,11
+VA-103934,2025-05-03,عمل,Americas,Online,Employer,32,1,Yes,No,6.0,11
 VA-104044,2025-02-15,Employment,GCC,Service centre,Employer,35,1,0,No,8.0,10
 VA-102085,2025-03-20,Employment,Asia,Online,Employer,,1,Yes,No,3.0,11
 VA-102509,2025-12-22,Employment,Asia,Online,Employer,33,1,Yes,Yes,3.0,14
@@ -3377,7 +3377,7 @@ VA-103815,2025-10-23,Tourist,Asia,Mobile app,Tourism Establishment,31,0,No,No,7.
 VA-103811,2025-05-04,Family,Americas,Online,Individual,34,1,Yes,No,4.0,8
 VA-103938,2025-04-20,Tourist,Asia,Mobile app,Individual,39,2,Yes,Yes,4.0,8
 VA-104199,2025-06-13,Family,Americas,Service centre,Individual,52,1,Yes,No,2.0,10
-VA-104621,2025-12-28,Work,Africa,Online,Employer,24,0,Yes,No,7.0,12
+VA-104621,2025-12-28,عمل,Africa,Online,Employer,24,0,Yes,No,7.0,12
 VA-102173,2025-08-19,Family,Asia,Mobile app,Individual,18,1,Yes,No,,8
 VA-101936,2025-07-05,Employment,Asia,Online,Employer,33,0,Yes,Yes,5.0,15
 VA-102116,01/06/2025,Employment,GCC,Online,Employer,38,3,Yes,No,8.0,9
@@ -3425,7 +3425,7 @@ VA-103902,2025-05-02,Tourist,GCC,Online,Not Applicable,39 years,0,Yes,No,3.0,4
 VA-102696,2025-11-18,Student,Africa,Mobile app,Educational Institution,31,0,Yes,Yes,4.0,11
 VA-102250,2025-05-25,Family,Americas,Service centre,Individual,32,0,No,Yes,5.0,94
 VA-102395,2025-09-11,عائلية,Asia,Mobile app,Individual,38,2,Yes,No,6.0,8
-VA-103830,2025-12-15,employment,Americas,Service centre,Employer,36 years,0,Yes,No,4.0,9
+VA-103830,2025-12-15,EMPLOYMENT,Americas,Service centre,Employer,36 years,0,Yes,No,4.0,9
 VA-101500,2025-01-11,Employment,Africa,Online,Employer,,1,Yes,No,6.0,12
 VA-104017,2025-08-10,Tourist,Americas,Online,Tourism Establishment,30,0,Yes,No,5.0,2
 VA-103923,2025-01-29,Employment,GCC,Mobile app,Employer,46,0,Yes,No,6.0,12
@@ -3460,7 +3460,7 @@ VA-102353,2025-04-06,Tourist,Africa,Service centre,Individual,30,0,Yes,No,5.0,4
 VA-104766,2025-08-04,Tourist,Asia,Mobile app,Tourism Establishment,29,2,No,No,3.0,7
 VA-102128,2025-02-01,Employment,Asia,Online,Employer,31,4,Yes,No,3.0,10
 VA-101865,2025-06-10,Employment,Asia,Online,Employer,54,1,Yes,No,7.0,11
-VA-101037,2025-08-15,دراسة,GCC,Service centre,Educational Institution,39,2,Yes,Yes,5.0,15
+VA-101037,2025-08-15,طالب,GCC,Service centre,Educational Institution,39,2,Yes,Yes,5.0,15
 VA-104726,2025-11-27,Employment,GCC,Service centre,Employer,31,1,Yes,Yes,5.0,18
 VA-102774,2025-08-20,Tourist,Asia,Online,Not Applicable,29,0,Yes,No,5.0,3
 VA-100369,2025-10-21,Employment,Americas,Service centre,Employer,32,1,Yes,No,3.0,11
@@ -3512,7 +3512,7 @@ VA-102434,2025-04-19,Student,Americas,Online,Educational Institution,25,2,Yes,No
 VA-104515,2025-01-11,Family,Asia,Online,Individual,46,0,No,Yes,6.0,20
 VA-102177,2025-05-26,Employment,Africa,Mobile app,Employer,42,6,Yes,No,2.0,6
 VA-102194,2025-01-09,Family,Africa,Online,Individual,24,1,Yes,No,5.0,9
-VA-104487,2025-04-17,دراسة,Africa,Service centre,Educational Institution,38,1,Yes,Yes,5.0,13
+VA-104487,2025-04-17,طالب,Africa,Service centre,Educational Institution,38,1,Yes,Yes,5.0,13
 VA-104545,2025-01-01,عائلية,Asia,Mobile app,Individual,46,1,Yes,No,8.0,5
 VA-100619,2025-09-04,Employment,Asia,Online,Employer,34,0,Yes,Yes,9.0,14
 VA-100995,16/07/2025,Employment,Asia,Online,Employer,19,2,Yes,Yes,7.0,15
@@ -3686,7 +3686,7 @@ VA-101257,2025-09-15,Family,Europe,Service centre,Individual,45,0,Yes,No,10.0,15
 VA-101541,2025-06-13,Employment,Asia,Online,Employer,28,1,Yes,No,5.0,6
 VA-100388,2025-11-28,Tourist ,Europe,Mobile app,Tourism Establishment,33,0,Yes,No,6.0,4
 VA-102265,2025-01-14,Tourist,Europe,Mobile app,Tourism Establishment,33,1,Yes,No,5.0,1
-VA-103065,2025-07-29,student,Asia,,Educational Institution,49,0,Yes,Yes,9.0,11
+VA-103065,2025-07-29,دراسة,Asia,,Educational Institution,49,0,Yes,Yes,9.0,11
 VA-103293,2025-02-22,Employment,Asia,Mobile app,Employer,47,0,Yes,No,7.0,9
 VA-103851,2025-09-22,Employment,Asia,Online,Employer,32,0,Yes,Yes,10.0,19
 VA-102211,2025-03-15,Tourist,Americas,Mobile app,Tourism Establishment,18,0,Yes,Yes,,8
@@ -3702,7 +3702,7 @@ VA-102331,2025-02-12,Employment,GCC,,Employer,38,2,Yes,No,4.0,7
 VA-100815,2025-05-20,Tourist,Asia,Online,Tourism Establishment,29,2,Yes,No,7.0,3
 VA-103518,2025-08-10,سياحة,GCC,Online,Individual,35,1,Yes,No,4.0,6
 VA-101086,2025-01-04,Tourist,Europe,Service centre,Tourism Establishment,32,0,Yes,No,8.0,2
-VA-102920,2025-10-22,Work,Asia,Online,Employer,,1,Yes,No,,8
+VA-102920,2025-10-22,عمل,Asia,Online,Employer,,1,Yes,No,,8
 VA-102638,2025-04-07,Tourist,Asia,Online,Tourism Establishment,44,2,Yes,No,5.0,2
 VA-101358,2025-11-12,Tourist,Africa,Service centre,Not Applicable,38,1,No,No,6.0,9
 VA-101576,2025-12-29,Tourist,Asia,Online,Individual,44,0,Yes,No,5.0,5
@@ -3763,7 +3763,7 @@ VA-100022,2025-03-21,Employment,Americas,Service centre,Employer,,3,No,Yes,5.0,2
 VA-102252,2025-01-07,Tourist,Africa,Service centre,Tourism Establishment,31,0,Yes,No,10.0,8
 VA-103260,2025-05-27,Tourist,Americas,Mobile app,Tourism Establishment,57,2,Yes,No,7.0,3
 VA-101770,2025-06-10,Employment,GCC,Mobile app,Employer,29,2,Yes,No,6.0,5
-VA-104282,2025-05-11,دراسة,GCC,Online,Educational Institution,36,1,1,Yes,7.0,14
+VA-104282,2025-05-11,طالب,GCC,Online,Educational Institution,36,1,1,Yes,7.0,14
 VA-101005,2025-03-15,Employment,Asia,Online,Employer,45,2,Yes,No,6.0,6
 VA-100641,2025-10-11,Student,GCC,Online,Educational Institution,40,1,Yes,No,4.0,2
 VA-103832,2025-12-04,Tourist,GCC,Online,Tourism Establishment,52,2,Yes,No,3.0,1
@@ -3798,7 +3798,7 @@ VA-100786,2025-01-14,Tourist,Europe,Online,Not Applicable,41,1,Yes,No,6.0,4
 VA-101585,2025-11-29,Employment,Africa,Online,Employer,40,1,yes,No,8.0,15
 VA-103166,2025-06-07,Tourist,Africa,Online,Tourism Establishment,33,3,Yes,No,2.0,1
 VA-100266,2025-05-12,Tourist,Asia,Service centre,Tourism Establishment,46,2,Yes,No,8.0,5
-VA-103763,2025-08-26,دراسة,Africa,Online,Educational Institution,39,1,No,No,7.0,11
+VA-103763,2025-08-26,طالب,Africa,Online,Educational Institution,39,1,No,No,7.0,11
 VA-104892,2025-06-14,Tourist,Europe,Online,Not Applicable,31,1,Yes,No,7.0,3
 VA-103736,2025-08-04,Family,Asia,Online,Individual,,0,Yes,No,4.0,9
 VA-100360,2025-07-13,Family,GCC,Mobile app,Individual,36,0,Yes,Yes,5.0,15
@@ -3848,7 +3848,7 @@ VA-100892,2025-03-11,عائلية,Africa,Service centre,Individual,27,2,Yes,No,4
 VA-100135,2025-08-10,Family,Africa,Online,Individual,,0,Yes,No,5.0,10
 VA-103261,2025-10-07,Student,Asia,Mobile app,Educational Institution,22,1,Yes,No,10.0,6
 VA-103939,2025-10-31,Tourist,Europe,Service centre,Tourism Establishment,18,1,Yes,No,6.0,7
-VA-102191,2025-08-12,Work,Europe,Online,Employer,21,0,Yes,No,5.0,9
+VA-102191,2025-08-12,عمل,Europe,Online,Employer,21,0,Yes,No,5.0,9
 VA-100211,2025-02-10,Student,Asia,Online,Educational Institution,48,0,Yes,Yes,6.0,12
 VA-100433,2025-02-23,عائلية,Europe,Online,Individual,19,0,Yes,No,3.0,7
 VA-103164,2025-03-30,Employment,Europe,Online,Employer,42,1,Yes,No,3.0,10
@@ -3901,7 +3901,7 @@ VA-101682,02/11/2025,Employment,Americas,Mobile app,Employer,24,0,No,No,5.0,15
 VA-103034,2025-08-23,Family,Africa,Service centre,Individual,36,0,Yes,No,7.0,14
 VA-102287,2025-08-14,Tourist,Africa,Online,Tourism Establishment,46,6,Yes,No,8.0,1
 VA-102380,2025-10-05,Tourist,Asia,Online,Tourism Establishment,52,0,Yes,No,9.0,5
-VA-104805,2025-11-29,عمل,Asia,Online,Employer,45,2,Yes,No,6.0,9
+VA-104805,2025-11-29,شغل,Asia,Online,Employer,45,2,Yes,No,6.0,9
 VA-102004,2025-04-22,Employment,Asia,Service centre,Employer,25,0,No,No,4.0,19
 VA-104383,2025-04-11,Family,Asia,Mobile app,Individual,47,3,Yes,No,5.0,5
 VA-104043,2025-06-12,Tourist,GCC,Mobile app,Tourism Establishment,25,1,Yes,No,5.0,1
@@ -3926,7 +3926,7 @@ VA-102787,2025-05-07,Family,Africa,Service centre,Individual,22,2,Yes,No,5.0,9
 VA-101982,2025-02-07,Employment,Europe,Online,Employer,34,1,No,No,3.0,12
 VA-104291,2025-04-20,Family,Asia,Online,Individual,18,0,Yes,No,6.0,10
 VA-102103,2025-11-21,Employment,Asia,Online,Employer,23,0,Yes,No,3.0,12
-VA-100371,2025-05-17,عمل,Asia,Online,Employer,32 years,2,Yes,No,5.0,9
+VA-100371,2025-05-17,شغل,Asia,Online,Employer,32 years,2,Yes,No,5.0,9
 VA-103482,2025-10-27,Family,GCC,Mobile app,Individual,55,2,No,No,1.0,14
 VA-102970,2025-07-23,Tourist,Asia,Mobile app,Not Applicable,48,1,No,No,7.0,5
 VA-102131,2025-05-29,Employment,Europe,Online,Employer,28,0,Yes,No,8.0,14
@@ -3963,7 +3963,7 @@ VA-100027,2025-09-04,Tourist,Europe,,Tourism Establishment,18,0,Yes,No,8.0,5
 VA-100116,2025-09-19,Tourist,Europe,Mobile app,Not Applicable,28,1,No,No,1.0,8
 VA-103014,2025-03-27,Student,Europe,Mobile app,Educational Institution,31,2,Yes,No,6.0,104
 VA-102766,2025-08-11,Family,Europe,Online,Individual,37,2,no,No,5.0,8
-VA-104052,2025-12-26,EMPLOYMENT,Asia,Mobile app,Employer,46,1,Yes,No,4.0,10
+VA-104052,2025-12-26,Work,Asia,Mobile app,Employer,46,1,Yes,No,4.0,10
 VA-103895,2025-05-11,Tourist,Africa,Online,Tourism Establishment,33,3,Yes,No,8.0,2
 VA-101656,2025-05-04,Student,Europe,Online,Educational Institution,35,0,Yes,No,6.0,11
 VA-100722,2025-02-06,Family,Asia,Mobile app,Individual,34,1,Yes,No,7.0,7
@@ -4036,7 +4036,7 @@ VA-104642,2025-12-26,Tourist,Asia,Service centre,Individual,27,3,Yes,No,8.0,7
 VA-103380,2025-08-01,Family,Asia,Mobile app,Individual,36,1,Yes,No,7.0,7
 VA-101841,2025-02-18,Tourist,GCC,Online,Tourism Establishment,,1,Yes,No,2.0,3
 VA-100951,2025-06-09,Family,Asia,Service centre,Individual,43,3,Yes,No,6.0,6
-VA-101304,2025-09-17,student,Asia,Online,Educational Institution,,1,No,No,4.0,10
+VA-101304,2025-09-17,دراسة,Asia,Online,Educational Institution,,1,No,No,4.0,10
 VA-101209,2025-08-28,Tourist,Asia,Online,Not Applicable,18,3,No,No,5.0,5
 VA-102391,2025-04-08,Tourist,Asia,Service centre,Individual,25,2,No,No,2.0,11
 VA-100974,2025-09-06,Employment,Asia,Mobile app,Employer,42,1,Yes,No,3.0,11
@@ -4085,7 +4085,7 @@ VA-104301,24/02/2025,Tourist,Americas,Mobile app,Tourism Establishment,45,0,No,N
 VA-100278,2025-02-17,Tourist,Asia,Mobile app,Individual,18,0,Yes,No,5.0,6
 VA-102407,2025-10-20,Employment,GCC,Mobile app,Employer,46,1,No,Yes,5.0,19
 VA-100029,2025-10-20,Student,Asia,Mobile app,Educational Institution,46,1,No,No,7.0,12
-VA-101119,2025-08-30,student,Americas,Online,Educational Institution,,0,Yes,Yes,6.0,15
+VA-101119,2025-08-30,دراسة,Americas,Online,Educational Institution,,0,Yes,Yes,6.0,15
 VA-103363,2025-12-28,Employment,Africa,Online,Employer,38,4,Yes,No,4.0,7
 VA-103066,2025-05-17,Employment,Asia,Service centre,Employer,35,1,Yes,No,1.0,9
 VA-101731,2025-09-01,Employment,Asia,Service centre,Employer,29,2,No,No,4.0,17
@@ -4107,7 +4107,7 @@ VA-101320,2025-12-08,Tourist,Asia,Online,Individual,32,3,Yes,No,5.0,2
 VA-104434,2025-07-31,student,Americas,Online,Educational Institution,36,1,Yes,No,1.0,4
 VA-101543,2025-11-28,Employment,Europe,Mobile app,Employer,39,0,Yes,No,6.0,7
 VA-103559,2025-02-13,Tourist,Asia,Service centre,Tourism Establishment,28,1,Yes,No,2.0,6
-VA-102503,2025-03-12,student,Asia,Service centre,Educational Institution,31,1,Yes,Yes,7.0,17
+VA-102503,2025-03-12,دراسة,Asia,Service centre,Educational Institution,31,1,Yes,Yes,7.0,17
 VA-103567,2025-08-12,Employment,Europe,Online,Employer,49,1,No,Yes,4.0,20
 VA-103058,2025-11-29,Tourist,GCC,Mobile app,Tourism Establishment,53,3,Yes,No,5.0,1
 VA-100860,2025-12-14,Tourist,Europe,Online,Individual,41,1,Yes,No,8.0,3
@@ -4174,7 +4174,7 @@ VA-103556,2025-02-02,Tourist,GCC,Online,Not Applicable,42,4,Yes,No,5.0,1
 VA-101619,2025-09-02,Employment,Americas,Service centre,Employer,38,0,Yes,Yes,4.0,16
 VA-101830,2025-08-22,Tourist,GCC,Mobile app,Tourism Establishment,21,2,Yes,No,9.0,1
 VA-102484,2025-07-15,Employment,Americas,Online,Employer,19,2,Yes,No,4.0,6
-VA-103148,2025-03-18,عمل,Africa,Online,Employer,18,3,Yes,No,5.0,9
+VA-103148,2025-03-18,شغل,Africa,Online,Employer,18,3,Yes,No,5.0,9
 VA-100740,2025-07-17,Employment,GCC,Online,Employer,18,0,No,No,8.0,15
 VA-104430,2025-01-22,Family,Asia,Online,Individual,19,1,0,Yes,5.0,17
 VA-100971,2025-03-10,Student,Africa,Service centre,Educational Institution,50,0,Yes,No,3.0,7
@@ -4341,8 +4341,8 @@ VA-103083,2025-08-02,Family,Americas,Online,Individual,50,1,Yes,No,6.0,8
 VA-101901,2025-11-01,Family,Asia,Mobile app,Individual,31,2,No,No,6.0,16
 VA-101975,2025-05-05,Student,Asia,Mobile app,Educational Institution,999,1,Yes,No,7.0,4
 VA-100776,2025-06-01,Student,Asia,Online,Educational Institution,24,2,Yes,Yes,1.0,12
-VA-101786,2025-12-08,عمل,Asia,Mobile app,Employer,42,1,Yes,No,12.0,12
-VA-104495,2025-04-01,Work,Europe,Online,Employer,,2,Yes,No,9.0,10
+VA-101786,2025-12-08,شغل,Asia,Mobile app,Employer,42,1,Yes,No,12.0,12
+VA-104495,2025-04-01,عمل,Europe,Online,Employer,,2,Yes,No,9.0,10
 VA-104972,2025-10-19,Family,Asia,Online,Individual,33,2,Yes,No,1.0,9
 VA-100084,2025-06-05,Family,Africa,Online,Individual,36,2,Yes,No,1.0,9
 VA-101665,2025-02-06,Tourist,Asia,Mobile app,Tourism Establishment,31,1,Yes,No,5.0,1
@@ -4424,7 +4424,7 @@ VA-103637,2025-09-26,Employment,Africa,,Employer,50,1,1,Yes,6.0,16
 VA-100699,2025-12-08,Student,Asia,Service centre,Educational Institution,,2,No,No,5.0,13
 VA-102924,2025-02-28,Employment,GCC,Online,Employer,34,2,N,No,6.0,7
 VA-104450,2025-09-22,Student,Asia,Service centre,Educational Institution,28,1,Yes,No,4.0,10
-VA-101492,2025-10-05,student,Asia,Mobile app,Educational Institution,38,2,Yes,No,7.0,4
+VA-101492,2025-10-05,دراسة,Asia,Mobile app,Educational Institution,38,2,Yes,No,7.0,4
 VA-104955,2025-09-22,Student,GCC,Mobile app,Educational Institution,28,3,Yes,No,4.0,8
 VA-101948,2025-11-20,tourist,Asia,Service centre,Tourism Establishment,29,0,Yes,No,7.0,5
 VA-102086,2025-02-24,Family,Asia,Online,Individual,35,0,yes,No,,11
@@ -4574,7 +4574,7 @@ VA-104114,2025-03-14,Employment,Africa,Online,Employer,37,4,Yes,No,5.0,5
 VA-102269,2025-08-20,Student,GCC,Service centre,Educational Institution,39,2,Yes,No,6.0,10
 VA-103094,2025-12-03,Student,Europe,Service centre,Educational Institution,34,1,Yes,No,4.0,7
 VA-101389,12/05/2025,Tourist,GCC,Online,Individual,43 years,1,Yes,No,3.0,1
-VA-103188,2025-06-20,عمل,Asia,Online,Employer,40,1,Yes,No,4.0,7
+VA-103188,2025-06-20,شغل,Asia,Online,Employer,40,1,Yes,No,4.0,7
 VA-103478,2025-10-06,Family visit,Africa,Online,Individual,,0,Yes,No,4.0,7
 VA-103433,2025-01-13,Student,Europe,Service centre,Educational Institution,34,2,Yes,No,5.0,9
 VA-104191,2025-01-30,سياحة,Asia,Service centre,Tourism Establishment,28,0,Yes,No,5.0,5
@@ -4603,7 +4603,7 @@ VA-102980,2025-10-11,Family,Asia,Service centre,Individual,22,1,Yes,Yes,10.0,18
 VA-100658,2025-09-14,Family,Africa,Mobile app,Individual,44,0,Yes,No,8.0,14
 VA-100063,2025-01-13,Family,Europe,Service centre,Individual,32,0,No,No,5.0,16
 VA-101838,2025-11-18,TOURIST,Europe,Mobile app,Individual,43,4,No,No,7.0,9
-VA-104000,2025-07-12,عمل,Asia,Online,Employer,42,3,Yes,Yes,3.0,15
+VA-104000,2025-07-12,شغل,Asia,Online,Employer,42,3,Yes,Yes,3.0,15
 VA-103036,2025-04-22,Tourist,GCC,Mobile app,Tourism Establishment,39,2,Yes,No,8.0,1
 VA-100454,2025-02-19,Tourist,Asia,Online,Tourism Establishment,34,1,Yes,No,6.0,3
 VA-100402,2025-05-19,Employment,Americas,,Employer,33,4,Yes,Yes,2.0,13
@@ -4626,7 +4626,7 @@ VA-102853,2025-06-11,Employment,Americas,Online,Employer,34,2,Yes,Yes,5.0,14
 VA-101486,2025-12-07,Tourist,Europe,Service centre,Individual,34,1,Yes,No,7.0,10
 VA-104293,2025-09-14,Tourist,Asia,Online,Not Applicable,18,0,No,Yes,8.0,21
 VA-100296,2025-09-30,Tourist,Americas,Online,Not Applicable,28,0,Yes,No,4.0,3
-VA-104880,2025-03-26,Work,Africa,Mobile app,Employer,41,1,Yes,No,3.0,10
+VA-104880,2025-03-26,عمل,Africa,Mobile app,Employer,41,1,Yes,No,3.0,10
 VA-104813,2025-03-09,Family,Asia,Service centre,Individual,23,2,Yes,No,6.0,12
 VA-103845,2025-03-21,Employment,Africa,Online,Employer,20,2,Yes,No,5.0,8
 VA-104218,2025-12-30,TOURIST,Africa,Service centre,Individual,24,1,Yes,No,2.0,6
@@ -4732,7 +4732,7 @@ VA-104321,2025-09-12,Family,Asia,Online,Individual,26,1,Yes,No,6.0,9
 VA-103364,2025-10-11,Tourist,Asia,Mobile app,Individual,,2,Yes,No,6.0,2
 VA-101763,2025-10-23,Family,GCC,Online,Individual,33,0,Yes,No,4.0,9
 VA-102843,2025-07-26,Employment,Africa,Mobile app,Employer,35,3,Yes,No,4.0,6
-VA-104717,2025-12-30,EMPLOYMENT,Europe,Online,Employer,36,2,Yes,No,7.0,9
+VA-104717,2025-12-30,Work,Europe,Online,Employer,36,2,Yes,No,7.0,9
 VA-104875,2025-08-15,Employment,Asia,Online,Employer,27,1,Yes,No,5.0,9
 VA-102141,2025-06-10,Family,Asia,Online,Individual,45,2,Yes,No,6.0,11
 VA-100213,2025-06-30,Family,Europe,Mobile app,Individual,18,1,Yes,No,8.0,11
@@ -4777,7 +4777,7 @@ VA-100837,2025-06-03,Tourist,Asia,Online,Individual,25,1,Yes,No,3.0,4
 VA-103325,2025-03-23,Employment,Africa,Mobile app,Employer,32,0,Yes,No,6.0,8
 VA-100624,2025-12-02,Family,Europe,Service centre,Individual,33,2,Yes,No,6.0,9
 VA-101627,2025-10-11,Tourist,GCC,Mobile app,Tourism Establishment,56,0,Yes,No,6.0,2
-VA-100806,2025-10-07,دراسة,GCC,Online,Educational Institution,37,1,Yes,No,2.0,4
+VA-100806,2025-10-07,طالب,GCC,Online,Educational Institution,37,1,Yes,No,2.0,4
 VA-103115,2025-09-25,Family,Europe,Online,Individual,43,0,Yes,Yes,6.0,14
 VA-100637,2025-10-17,Employment,Europe,Service centre,Employer,37,0,Yes,No,4.0,12
 VA-100423,2025-04-27,Family,Europe,Online,Individual,50,1,Yes,Yes,5.0,15
@@ -4914,7 +4914,7 @@ VA-103270,2025-11-05,Employment,Asia,Online,Employer,38,0,Yes,No,5.0,3
 VA-102518,2025-11-03,Student,Europe,Online,Educational Institution,35,0,No,No,5.0,12
 VA-101874,2025-08-11,Employment,GCC,Online,Employer,47,0,Yes,No,6.0,8
 VA-104362,2025-07-15,Student,GCC,Online,Educational Institution,47,0,1,No,6.0,10
-VA-101756,2025-11-05,employment,GCC,Service centre,Employer,46,2,Yes,Yes,7.0,17
+VA-101756,2025-11-05,EMPLOYMENT,GCC,Service centre,Employer,46,2,Yes,Yes,7.0,17
 VA-102178,2025-01-07,Tourist,Americas,Mobile app,Not Applicable,26,0,Yes,No,7.0,6
 VA-103410,2025-06-25,Employment,Africa,Mobile app,Employer,20,0,Yes,No,7.0,8
 VA-104924,2025-03-23,Tourist,Asia,Online,Tourism Establishment,41,1,Yes,No,5.0,1
@@ -4977,7 +4977,7 @@ VA-103136,2025-11-19,Employment,Americas,Mobile app,Employer,29,0,Yes,No,3.0,10
 VA-100015,2025-04-09,Employment,Africa,Service centre,Employer,18,2,Yes,No,5.0,9
 VA-103538,2025-09-24,Employment,Asia,Online,Employer,45,1,Yes,No,6.0,11
 VA-102669,2025-07-31,Tourist,Asia,Service centre,Tourism Establishment,36,0,Yes,No,7.0,2
-VA-101360,2025-01-21,دراسة,Americas,Service centre,Educational Institution,50,0,Yes,No,4.0,8
+VA-101360,2025-01-21,طالب,Americas,Service centre,Educational Institution,50,0,Yes,No,4.0,8
 VA-101844,2025-03-21,Employment,Asia,Online,Employer,28,2,No,Yes,6.0,19
 VA-103098,2025-04-20,Employment,Asia,Online,Employer,40,2,No,Yes,3.0,19
 VA-101612,2025-06-30,Employment,Africa,Online,Employer,52,1,Yes,No,9.0,8
