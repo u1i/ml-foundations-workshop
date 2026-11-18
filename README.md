@@ -26,6 +26,8 @@ To keep your choices, use *File, Save a copy in Drive* after opening a notebook.
 
 ## Mini-project
 
+The task, roles, what to present and how it is scored: [Mini-project brief](MINI_PROJECT.md).
+
 | | Notebook | Data |
 |---|---|---|
 | A | [Flagging fraud in benefit claims](https://colab.research.google.com/github/u1i/ml-foundations-workshop/blob/main/notebooks/09_mini_project_fraud.ipynb) | benefit_claims.csv |
