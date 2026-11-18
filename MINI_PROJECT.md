@@ -51,9 +51,9 @@ One person stands up at the table and presents in 2 to 3 minutes, using the team
 Five criteria, each scored from 1 to 4 (1 not addressed, 2 partly, 3 addressed, 4 addressed and backed by the team's own results). Maximum 20 points.
 
 1. **Problem and approach:** a clear question; machine learning, generative AI or both, and why; the target defined.
-2. **Data:** what the data contains and what could be wrong with it; no input that is only known after the decision.
-3. **Model and evaluation:** compared with a simple guess; a measure that fits the problem.
-4. **Explanation and limits:** one decision explained in plain language; where the model fails.
+2. **Data preparation:** split before preparation; missing values and categories handled; leakage checked.
+3. **Model and evaluation:** compared with a simple baseline; a metric that fits the problem.
+4. **Explanation and limits:** the decision explained in plain language; where the model fails.
 5. **Human review and recommendation:** where a person checks the output; value for service users; a clear recommendation.
 
 ## If the notebook does not run
